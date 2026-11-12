@@ -1,0 +1,2 @@
+There are 10 types of people in the world:
+Those who understand base n, those who don't, those who thought this would be a base n-1 joke, ..., and those who thought this would be a binary joke.

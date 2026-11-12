@@ -1,0 +1,26 @@
+Why do they call it an Xbox One?
+Given that the [Xbox's dimentions](http://images.gizmag.com/inline/ps4-vs-xbox-one-4.jpg) are 343mm x 263mm x 80mm, and given a person is facing the Xbox at said point of origin, and the point of origin for said person lies 19.65 metres away from the Xbox if it is lengthways (343mm width,) or 0.73m if the xbox is upright (80mm width,) as proven in the following calculations:
+
+    Lengthways Xbox
+    1 degree = 343mm (width of Xbox in lengthwise configuration)
+    Circumference of a circle with point of origin at centre = 343mm x 360 degrees
+        Circumference of ~123,480mm (123.48 metres)
+    Radius = 123,480 / 2pi = ~19,650mm
+    Origin distance of ~19.65 metres
+
+or
+
+    Upright Xbox
+    1 degree = 80mm (width of Xbox in upright configuration)
+    Circumference of a circle with point of origin at centre = 80mm x 360 degrees
+        Circumference of ~4,584mm (4.58 metres)
+    Radius = 4584mm / 2pi = ~7,296mm
+    Origin distance of ~0.73 metres
+
+[**Graphs for comparison**](http://i.imgur.com/zhEUnYQ.png)
+
+One can determine that the person may turn 1 degree and proceed in a continuous forward motion in that direction, and be at an adequate distance from the Xbox to pass by without colliding with it, and walk away.
+
+------------------------------
+
+**TL;DR:** Because (given a minimum starting distance of 19.65 metres) you can turn One degree and move past the Xbox and walk away.
