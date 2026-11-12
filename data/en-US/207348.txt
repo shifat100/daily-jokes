@@ -1,0 +1,2 @@
+100 = D in a D
+100 = decimeters in a decameter.

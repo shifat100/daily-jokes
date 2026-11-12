@@ -1,0 +1,76 @@
+As it turns out...
+Believe it or not, Windows95 is not a virus, as many (millions) have claimed. You want proof? Look no further!
+
+
+
+What's the difference between Windows95 and a virus?
+
+
+
+Quality
+
+ 
+
+Replicates Quickly
+
+Virus: Yes
+
+Windows95:  Yes
+
+ 
+
+Uses up valuable system resources, slowing down the system as they do so
+
+ Virus:   Yes
+
+ Windows95: Yes
+
+ 
+
+Occasional hard disk destruction
+
+Virus: Yes
+
+Windows95: Yes
+
+ 
+
+Usually carried, unknown to the user, along with valuable programs and systems
+
+Virus: Yes
+
+Windows95:Yes
+
+
+
+ Will occasionally make the user suspect their system is too slow and the user will buy new hardware
+
+Virus:Yes
+
+Windows95:Yes
+
+ 
+
+Occasional meltdown of vital components
+
+Virus:Yes
+
+Windows95:Yes
+
+
+
+
+
+Until now it seems Windows is a virus, but there are several fundamental differences. 
+
+Viruses:
+
+
+
+   1.are well supported by their authors
+
+   2.are running on most systems
+
+   3.have fast, compact and efficient source code
+
+   4.become more sophisticated as they mature

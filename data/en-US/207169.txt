@@ -1,0 +1,10 @@
+Mozart
+Fill in the blanks such that the second blank is the reverse action of the first one:
+
+
+
+The famous musician Mozart ________ symphonies when he was alive and __________ after he died. 
+
+
+
+Composed and decomposed.

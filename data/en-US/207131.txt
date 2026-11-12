@@ -1,0 +1,28 @@
+Shortest Stalemate
+How many moves, at least, are required to stalemate in chess? 
+
+
+
+Nineteen moves. 
+
+
+
+1.h4 h5
+
+2.c4 a5
+
+3.Qa4 Ra6
+
+4.Qxa5 Rah6
+
+5.Qxc7 f6
+
+6.Qxd7+ Kf7
+
+7.Qxb7 Qd3
+
+8.Qxb8 Qh7
+
+9.Qxc8 Kg6
+
+10.Qe6

@@ -1,0 +1,2 @@
+J = 11 in C
+Jack = 11 in cards.

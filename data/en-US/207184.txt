@@ -1,0 +1,10 @@
+D, L, M, M, J, V, ...
+What letter comes next?
+
+
+
+D, L, M, M, J, V, ... 
+
+
+
+S. The letters are the first letters of Spanish days of the week, domingo, lunes, martes, miercoles, jueves, viernes, sabado.

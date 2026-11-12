@@ -1,0 +1,16 @@
+The Fibonacci Sequence
+The Fibonacci sequence 1, 1, 2, 3, 5, 8, 13, 21... starts with two 1's, and each term afterward is the sum of its two predecessors. 
+
+
+
+Which one of the ten digits is the last to appear in the units position of a number in the Fibonacci sequence?
+
+
+
+Just write out their units digits, and mark the digits that appear for the first time.
+
+
+
+(1), 1, (2), (3), (5), (8), 3, 1, (4), 5, (9), 4, 3, (7), (0), ...
+
+Therefore, 6 is the last to appear.

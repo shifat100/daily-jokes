@@ -1,0 +1,84 @@
+Multiple-choice Questions
+Here is snippet of section A of the curious multiple-choice entrance exam into the exclusive puzzle club.
+
+
+
+1. The first question with B as the correct answer is: 
+
+
+
+A. 1
+
+B. 4
+
+C. 3
+
+D. 2 
+
+
+
+2. The answer to Question 4 is: 
+
+
+
+A. D
+
+B. A
+
+C. B
+
+D. C 
+
+
+
+3. The answer to Question 1 is: 
+
+
+
+A. D
+
+B. C
+
+C. B
+
+D. A 
+
+
+
+4. The number of questions which have D as the correct answer is: 
+
+
+
+A. 3
+
+B. 2
+
+C. 1
+
+D. 0 
+
+
+
+5. The number of questions which have B as the correct answer is: 
+
+
+
+A. 0
+
+B. 2
+
+C. 3
+
+D. 1
+
+
+
+1. C
+
+2. D
+
+3. B
+
+4. C
+
+5. B

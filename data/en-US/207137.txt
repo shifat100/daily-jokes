@@ -1,0 +1,2 @@
+20 = B S in L B
+20 = best score in lowball bowling.

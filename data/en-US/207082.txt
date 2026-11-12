@@ -1,0 +1,6 @@
+Amoebas
+How many amoebas does it take to change a light bulb?
+
+
+
+1. No, 2, no, 4, no, 8, no, 16, 32, 64, 128 . . .

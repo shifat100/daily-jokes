@@ -1,0 +1,14 @@
+Median and Mean
+The median of the list n; n+3, n+4; n+5; n+6; n+8; n+10; n+12; n+15 is 10. What is the mean? 
+
+
+
+What is the median and what is the mean? 
+
+
+
+There are 9 numbers, and the median is the 5th number n+6.
+
+Compare each number with the median, the mean is
+
+10+(-6-3-2-1+2+4+6+9)/9=11.

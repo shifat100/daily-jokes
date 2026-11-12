@@ -1,0 +1,2 @@
+3.6 = C in a MAh
+3.6 = coulombs in a milliampere-hour.

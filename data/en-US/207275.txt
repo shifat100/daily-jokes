@@ -1,0 +1,2 @@
+X + Y + Z + T = 4 D
+X-axis + Y-axis + Z-axis + time = 4 dimensions.

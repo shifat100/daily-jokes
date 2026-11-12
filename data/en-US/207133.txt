@@ -1,0 +1,6 @@
+Diagonals of an N-polygon
+How many diagonals does an N-polygon have? 
+
+
+
+N(N-3)/2.

@@ -1,0 +1,40 @@
+Are the Wocka Ads Annoying You? (Updated Version)
+Are the Wocka ads annoying you? This is an updated version to tell you how to block them. It might take too long for you to reach the 5000 point milestone and therefore automatically get rid of the ads.
+
+
+
+If they do annoy you, here's a way to remove them:
+
+
+
+1. Open "my computer", locate the windows directory (for example, C:\windows).
+
+
+
+2. Enter its subdirectory system32\drivers\etc (the full path might be something like C:\windows\system32\drivers\etc). You can find a file named "host".
+
+
+
+3. Use the "notepad" (which is being used to open .txt files) to open this file, and add these lines: 
+
+127.0.0.1 pagead2.googlesyndication.com
+
+127.0.0.1 media.fastclick.net
+
+127.0.0.1 www.burstnet.com
+
+
+
+4. Save it, and shut down all your existing IE windows.
+
+
+
+5. Open your IE again, and enter Wocka. You won't see the annoying ads anymore (although the google search will be still there.)
+
+
+
+6. If you still have any questions, please send me a private message.
+
+
+
+7. Enjoy it!

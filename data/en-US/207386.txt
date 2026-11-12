@@ -1,0 +1,14 @@
+Odd One Out
+Which word is the odd one out: 
+
+
+
+football polo badminton baseball golf tennis cricket billiards rugby 
+
+
+
+Badminton.
+
+
+
+This is the only sport which does not use a ball, it uses a shuttlecock.

@@ -1,0 +1,58 @@
+Douglas Adams on Windows95
+Beyond the Hype (Guardian, August 25, 1995)
+
+
+
+Douglas Adams, author of the Hitchhikers Guide to the Galaxy, argues Windows 95 does not cross any frontiers.
+
+
+
+What on Earth is going on? Have we found intelligent life on other planets? Abolished war and famine? Found Elvis? Have we even devised a new and better way of using computers? No. All that's happened is that Microsoft has remodelled its operating system so that it's now more like the Macintosh.
+
+
+
+This may well be a cause for rejoicing among Windows users but it's hardly a giant leap for mankind and doesn't warrant this sense that we're all supposed to celebrate early and avoid the millennium rush.
+
+
+
+As part of this billion-dollar festival of smoke and mirrors, Bill Gates has apparently paid the Rolling Stones 8 million pounds for the right to use Start Me Up, the song which is better known for its catchy refrain "You make a grown man cry".
+
+
+
+This is a phrase you may hear a lot of over the next few days as millions of people start trying to install Windows 95. Even the best designed systems can be a nightmare to upgrade, but whatever things Microsoft may be famous for - the wealth of its founder, the icy grip he exerts on what is arguably the most important industry on this planet - good systems design is not, as it happens, one of them.
+
+
+
+Let's dispel a few myths. There's one which says that the original PC operating system was a brilliant feat of programming by boy genius Bill Gates. It wasn't brilliant and Gates didn't write it. He acquired it, "shrewdly", from the Seattle Computer Company and then immediately licensed it on to another, larger, outfit called IBM. When the IBM PC was launched into a market which had hitherto been serviced by garage companies named after bits of fruit, it carried the impimatur of a world-renowned name and sold a zillion, making Gates' operating system a world standard. IBM had failed to realise that any fool could make the boxes, but the hand that owned the software ruled the world. Big Blue had given the kid Gates a free ride into the stratosphere and then, astoundingly, found itself starting to fall away like a discarded booster rocket.
+
+
+
+Sadly this new world software standard was actually a piece of crap.
+
+
+
+MS-DOS, as Gates called it, had started life as QDOS-86 or the Quick & Dirty Operating System, which told you all you needed to know about it. A whole generation of people doggedly learned to run their businesses on a system that was written as a quick lash-up for hobbyists and hackers. Was there anything better around? Of course.
+
+
+
+In the 1970's, Xerox had funded a team of the world's top computer scientists to research the man/machine interface. They devised a graphical system, using windows, icons and mice. Their key insight was that a lot of needless complications could be cut short by harnessing people's intuitive and gestural skills. Oddly, Xerox failed to follow this up, and the research was taken up and brought to the market by Apple Computer as the Macintosh. After a shaky, underpowered start, this machine matured into a well-integrated system which was not only very powerful, but a real pleasure to use. Mac users tend to have an almost fanatical devotion to their machines.
+
+
+
+The Microsoft line on all this was that Windows was for wimps. The truth was that plain old MS-DOS couldn't actually do them. Graphics, mice, networking, and a whole lot else, had to be added to the basic core of QDOS as one afterthought after another, which is why Wintel computers are so fiendishly complicated to set up and maintain.
+
+
+
+Gates, however, had always known which way the future lay, and for years Microsoft managed the awkward juggling act of rubbishing Apple's user interface while simultaneously trying to devise something like it that would fit on top of the bloated clutter that MS-DOS had become.
+
+
+
+BYTE magazine said recently: "It would not be an exaggeration to describe the history of the computer in the past decade as a massive effort to keep up with Apple." However, the Macintosh is not the last word on interface design, and if Microsoft had been the innovative company that it calls itself, it would have taken the opportunity to take a radical leap beyond the Mac, instead of producing a feeble, me-too, implementation.
+
+
+
+An awful lot of people who try to install Windows 95 will end up having to spend so much money buying extra RAM and upgrading their peripherals to get features that Mac users have enjoyed for years, that they might as well give up and buy the real thing.
+
+
+
+The idea that Bill Gates has appeared like a knight in shining armour to lead all customers out of a mire of technological chaos neatly ignores the fact that it was he who, by peddling second-rate technology, led them into it in the first place.

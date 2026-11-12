@@ -1,0 +1,6 @@
+How Far Did the Dog Run
+Peter decided to walk to the local waterfall, 10 miles away. At the moment he started, his dog ran off from his side and proceeded to the waterfall at a constant 8 miles per hour. As soon as the dog reached the waterfall, it started the return journey to Peter, keeping to the same speed. The dog continued this odd behaviour until Peter reached the waterfall. If Peter kept to a constant 4 miles per hour, how far did the dog run in total? 
+
+
+
+20 miles: Peter took 2.5 hours to reach the waterfall. The dog was always running at 8 miles per hour, therefore it ran 20 miles.

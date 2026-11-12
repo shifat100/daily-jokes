@@ -1,0 +1,24 @@
+Remove Seven Letters
+Remove seven letters from this grid to leave two numbers. 
+
+
+
+S F E V E
+
+I N L V E
+
+T E T F E
+
+R O S U R 
+
+
+
+Simply remove 'SEVEN LETTERS' and you are left with FIVE and FOUR:
+
+- F - - -
+
+I - - V -
+
+- E - F -
+
+- O - U R

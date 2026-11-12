@@ -1,0 +1,28 @@
+Volleyball Season
+At the end of the last volleyball season, the main results table had been destroyed. Luckily, a number of people could remember the following snippets: 
+
+
+
+Arlington Wonderers finished above The Golf GTI and Derby Surefires. Eagle Cherrys finished above Arlington Wonderers, The Golf GTI and Derby Surefires. Happy Hours finished above Brookside Magic and Eagle Cherrys. Eagle Cherrys finished above Foxtrot Kilos and Chippy Flippers. The Golf GTI finished below Chippy Flippers and Eagle Cherrys. Foxtrot Kilos finished before Brookside Magic, Derby Surefires and The Golf GTI. Derby Surefires finished below Foxtrot Kilos, Chippy Flippers and Brookside Magic. Arlington Wonderers finished below Chippy Flippers and Eagle Cherrys. Brookside Magic finished below Eagle Cherrys, Foxtrot Kilos and The Golf GTI. Derby Surefires finished below The Golf GTI and Eagle Cherrys. Foxtrot Kilos finished below Arlington Wonderers and Eagle Cherrys. 
+
+
+
+Can you restore the correct league positions?
+
+
+
+Happy Hours
+
+Eagle Cherrys
+
+Chippy Flippers
+
+Arlington Wonderers
+
+Foxtrot Kilos
+
+The Golf GTI
+
+Brookside Magic
+
+Derby Surefires

@@ -1,0 +1,12 @@
+Shortest Checkmate
+How many moves, at least, are required to checkmate in chess?
+
+
+
+Four moves.
+
+
+
+1.f4 e5
+
+2.g4 Qh4#
