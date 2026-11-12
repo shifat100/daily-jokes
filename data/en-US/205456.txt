@@ -1,0 +1,10 @@
+Operator?
+"Operator? I'd like the number of the Scottish knitwear company in Woven."
+
+
+
+"I can't find a town called 'Woven'? Are you sure?" 
+
+
+
+"Yes. That's what it says on the label - 'Woven in Scotland'."
