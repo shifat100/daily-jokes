@@ -1,0 +1,12 @@
+Tower: "Eastern 702, cleared for ta...
+Tower: "Eastern 702, cleared for takeoff, contact departure on 124.7"
+
+Eastern 702: "Tower, Eastern 702 switching to departure -- by the
+way, after we lifted off, we saw some kind of dead animal on the far
+end of the runway."
+
+Tower: "Continental 635, cleared for takeoff, contact departure on
+124.7, did you copy the report from Eastern?"
+
+Continental 635: "Cleared for takeoff, roger, and yes we copied
+Eastern and we've already notified our caterers."
