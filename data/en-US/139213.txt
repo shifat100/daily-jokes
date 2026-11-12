@@ -1,0 +1,2 @@
+[Meta] Would it be possible to get a moderator bot to flair each post according to length?
+Similar to the way the /r/Talesfromtechsupport that way we can see if it's just a one liner, a short setup or a long epic? I'm not entirely sure this is the place to put this, so if there's a better spot can someone tell me?
