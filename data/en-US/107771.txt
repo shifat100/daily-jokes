@@ -1,0 +1,2 @@
+There are thirty cows and twenty eight chickens. How many didn't?
+Ten of them.
