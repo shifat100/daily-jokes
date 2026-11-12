@@ -1,0 +1,2 @@
+What starts and ends with "t" and has "t" in it?
+A teapot

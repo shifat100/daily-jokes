@@ -1,0 +1,21 @@
+;; A Polish joke
+(walks-into horse bar)
+    (ask-why (bartender bar) horse long-face)
+
+---
+
+    (please-take wife)
+
+---
+
+    (defun shitzu (zoo dog 1))
+
+---
+
+    (query ((cross (road) chicken))
+
+--- 
+
+    (query (drive (this-thing tank)) fish fish)
+
+---
