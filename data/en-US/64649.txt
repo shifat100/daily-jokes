@@ -1,0 +1,4 @@
+Doctor Jokes
+The patient says, "Doctor, I have a pain in my eye whenever I drink tea."
+The doctor says, "Take the spoon out of the mug before you drink."
+mug = cup The patient says, "Doctor, you've got to help me. Nobody ever listens to me. No one ever pays any attention to what I have to s

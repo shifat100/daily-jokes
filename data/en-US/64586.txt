@@ -1,0 +1,6 @@
+D silent
+Colleague: The boss will now make us say jokes. If you don't have good ones he'll make you pay. So, are you good at punning?
+
+Me: No, but I'm good at running
+
+Colleague: ah, you'll be fine Django

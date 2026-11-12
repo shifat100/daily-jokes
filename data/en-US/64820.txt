@@ -1,0 +1,4 @@
+Student Pilot
+Cessna: 'Jones tower, Cessna 12345, student pilot, I am out of fuel.'
+Tower: 'Roger Cessna 12345, reduce airspeed to best glide!! Do you have the airfield in sight?!?!!'
+Cessna: 'Uh� tower, I am on the south ramp; I just want to know where the fuel truck is.'
