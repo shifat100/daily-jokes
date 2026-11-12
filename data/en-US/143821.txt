@@ -1,0 +1,5 @@
+ARTIST: I'd like your opinion on my painting.
+CRITIC: It's worthless.
+
+
+ARTIST: I know, but I'd like it anyway.

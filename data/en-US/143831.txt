@@ -1,0 +1,10 @@
+Women, the best freaking firewall in the world. (Xpost from r/funny )
+*     One human cell contains 75MB genetic information.
+*     One sperm contains a half of that; that is 37.5MB.
+*     One ml of semen contains 100 million sperms.
+*     In average, ejaculation lasts for 5 sec and contains 2.25 ml semen.
+*     This means that the throughput of a man's member is equal to (37.5MB x 100,000,000 x 2.25)/5 = 1 687 500 000 000 000 byte/second = 1,6875 Тerabyte/sec
+
+This means that the female eggcell withstands this DDoS attack at 1,5 terabyte per second, and only lets through one(!) data package, thereby being the best freaking hardware firewall in the world!
+
+The downside of it is that this only small data package that it lets through, hangs the system for the whole of 9 months!

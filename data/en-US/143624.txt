@@ -1,0 +1,21 @@
+Store Policy
+CUSTOMER: I'd like to buy some dog food.
+CHECKOUT: Do you have a dog?
+CUSTOMER: Yes.
+CHECKOUT: Where is he?
+CUSTOMER: He's at home.
+CHECKOUT LADY: I'm sorry, I can't sell this dog food to you unless I see the dog. Store policy.
+
+The next day, the customer returns.
+CUSTOMER: I'd like to buy some cat food.
+CHECKOUT: Do you have a cat?
+CUSTOMER: Yes.
+CHECKOUT: Well...where is he?
+CUSTOMER: He's at home!
+CHECKOUT: Sorry, I can't sell this cat food to you unless I see your cat.
+
+The next day the customer returns.
+CHECKOUT: What's in the sack?
+CUSTOMER: Put your hand inside.
+CHECKOUT: Hmmm...It's warm and moist! What is it?
+CUSTOMER: I would like to buy some toilet paper.
