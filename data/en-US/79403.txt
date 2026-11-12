@@ -1,0 +1,4 @@
+"Did you sign the nondisclosure agreement?"
+"To not disclose what?"
+
+"So I guess you DID sign the agreement!"
