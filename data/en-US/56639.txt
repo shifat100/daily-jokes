@@ -1,0 +1,2 @@
+Why should you separate something into 62 parts if you want to make it tiny?
+Because sixty-seconds=minute.

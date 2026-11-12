@@ -1,0 +1,12 @@
+A QA tester walks into a bar and orders a beer.
+Then he orders 0 beers.
+
+Then he orders 999999999999 beers.
+
+Then he orders a lizard.
+
+Then he orders -1 beers.
+
+Then he orders NULL beers
+
+Then he orders asnwikfjsdf.
