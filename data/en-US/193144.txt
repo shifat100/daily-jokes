@@ -1,0 +1,2 @@
+How come Django's wife never hears Django coming?
+The D is silent.

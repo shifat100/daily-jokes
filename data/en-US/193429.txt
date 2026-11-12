@@ -1,0 +1,8 @@
+A physicist, a biologist, and a mathematician are observing an empty house.
+They see a man walk into the house. An hour later, two men walk out of the house.
+
+The physicist says, "There must have been an error when measuring the number of people entering the house!"
+
+The biologist says, "The man must have somehow reproduced!"
+
+The mathematician says, "There are now -1 people in the house."
