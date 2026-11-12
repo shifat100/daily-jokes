@@ -1,0 +1,2 @@
+According to Steve Jobs, what type is the pokemon Scizor?
+Feature/Borrow
