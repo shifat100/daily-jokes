@@ -1,0 +1,2 @@
+If a stack is first in last out and a queue is first in first out, what is a circular queue?
+First in never out.
