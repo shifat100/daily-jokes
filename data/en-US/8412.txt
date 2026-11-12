@@ -1,0 +1,7 @@
+There are three monkeys
+One of the is holding a banana
+Another one is holding a stick
+The last one is holding nothing
+Which is the smartest primate?
+
+Ans:Human
