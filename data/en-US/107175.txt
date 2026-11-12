@@ -1,0 +1,10 @@
+Attack or Retreat?
+A large defense contractor finally succeeded in building a computer able to solve any strategic or tactical problem. Military leaders assembled in front of the new machine and were instructed to feed a difficult tactical problem into it. They described a hypothetical situation to the computer and then asked the pivotal question, "Attack or retreat?"
+
+The computer hummed away for an hour and then came up with the answer, "Yes."
+
+The generals looked at each other, stupefied.
+
+Finally one of them submitted a second request to the computer, "Yes what?"
+
+Instantly the computer responded, "Yes, Sir!"

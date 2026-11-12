@@ -1,0 +1,16 @@
+Shipwreck
+A cruise ship get badly damaged by the iceberg. Passengers crowd on the deck. It is obvious they need to jump into the water, but it's cold and three particular groups of tourists are hesistant. 
+
+Captain walks up to the first group, who are americans, tells them something and they all jump.
+
+He goes to the second group, who are german, tells them something and they all jump.
+
+He goes to the final group, says something and nobody jumps. After a minute, ine person jumps. Then another. Then another. Then they all jump.
+
+First mate later asks what he said.
+
+"I told americans it was patriotic. I told the germans it was an order".
+
+"And the third group?"
+
+"Those were russians. I told them it was forbidden."
