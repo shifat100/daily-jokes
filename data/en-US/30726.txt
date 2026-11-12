@@ -1,0 +1,8 @@
+Testing
+I'm testing how long jokes need to be to be tagged "long."
+
+Apparently it has more to do with paragraphs than words or anything.
+
+You can downvote if you want, but I can't think of a better way to test this.
+
+I thought about putting "meta" in the title so people wouldn't be upset because they were expecting a joke, but I decided against it, because it might tag it as meta instead of long.

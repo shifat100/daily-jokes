@@ -1,0 +1,10 @@
+Testing
+I'm testing how long jokes need to be to be tagged "long."
+
+People say that it has more to do with paragraphs than words or anything, but someone just told me that it is posts over 450 characters.
+
+You can downvote if you want, but I can't think of a better way to test this.
+
+I'm not putting "meta" in the title, because it might tag it as meta instead of long.
+
+So I'm testing the 450 characters thing. Up to 404 now...and now I have to end... 449
