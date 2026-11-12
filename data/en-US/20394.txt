@@ -1,0 +1,2 @@
+What programming languages would we use if C didn't exist?
+Ans: PASAL, OBOL and BASI

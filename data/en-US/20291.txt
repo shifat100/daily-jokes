@@ -1,0 +1,2 @@
+Why does the bank never loan money to a C program?
+Because it's main function is to always return 0;
