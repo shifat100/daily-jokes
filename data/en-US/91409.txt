@@ -1,0 +1,34 @@
+Anakin's Perfect Math Class
+Anakin Skywalker (complete with his Darth Vader suit) is tutoring his son Luke because as we all know, math is very important for both Sith and Jedi. How else are they supposed to figure out how to blow up Death Stars and make their own?
+
+Today's lesson happened to be taking the derivatives and integrals of functions, which Luke happened to be struggling at a little more than usual.
+
+"Daaaaad, it's so hard! I need some simple practice problems!"
+
+"Okay, so if x^2 + y^2 = 16, find dy/dx."
+
+"OK... so it's... 2x + 2y... -x/y. Right?"
+
+"Correct. How about the integral of 1/x^2 + 1?"
+
+"That's..."
+
+"No cheating, Luke!"
+
+"Fiiiiiiine... arc-tangent of X?"
+
+"There's a constant of integration in there, but otherwise you've got it."
+
+"Am I done now?"
+
+"So then... the integral of 1/x?"
+
+"DAD! I object to that question!"
+
+"But Luke... why?"
+
+"It's... ln |x|."
+
+"What's wrong with that, son?"
+
+"ONLY A SITH DEALS IN ABSOLUTES!"

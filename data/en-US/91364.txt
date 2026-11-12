@@ -1,0 +1,4 @@
+So my developer friend was programming a Game of Thrones fan-game the other day...
+And I looked over his shoulder at his code editor as he was coding.  He had about a thousand calls to the following variable:
+
+    BoobCount++;
