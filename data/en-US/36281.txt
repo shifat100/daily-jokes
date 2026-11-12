@@ -1,0 +1,83 @@
+Drawing game
+Mrs. Smith, a third grade teacher wanted the class to play a 
+game where one student starts drawing on the board, then one by one  
+others add to it. 
+     
+She thinks and decides not to start with Johnny, because he is so  
+naughty and always has some "unusual" pictures in mind. 
+So she starts with Anne. 
+     
+Anne:   "This is our house". 
+     
+                                  /\ 
+                                 /  \ 
+                                /    \ 
+                               /      \ 
+                              |        | 
+                              |        | 
+                              |        | 
+     
+     
+Teacher: "Good Anne!" and asks Peter to draw next:  
+Peter:  "This is our house's door". 
+     
+     
+                                   /\ 
+                                  /  \ 
+                                 /    \ 
+                                /      \ 
+                               |        | 
+                               |   _    | 
+                               |  | |   | 
+                               |  |_|   | 
+     
+     
+Teacher:"Very good, Peter" and calls Mary:  
+Mary:   "This is our house roof". 
+     
+                                   /\ 
+                                  /UU\ 
+                                 /    \ 
+                                /      \ 
+                               |        | 
+                               |   _    | 
+                               |  | |   | 
+                               |  |_|   | 
+     
+Teacher:"Very nice, Mary" and calls on Stevie:  
+Stevie: "And this is the sun over our house." 
+     
+     
+                                   \|/ 
+                                   -O- 
+                                   /|\ 
+                                    /\ 
+                                   /UU\ 
+                                  /    \ 
+                                 /      \ 
+                                |        | 
+                                |   _    | 
+                                |  | |   | 
+                                |  |_|   | 
+     
+Teacher:"Very nice Stevie" and thinks, there is not much  
+damage that Johnny can do with this picture and asks johnny to  
+come to the board. 
+     
+Johnny: "And this is my Dad, trying to pick up the soap  
+when he dropped it in the shower. 
+     
+     
+                                  _____
+                                 /        \ 
+                                /   \|/    \ 
+                               /    -O-     \ 
+                              |     /|\      | 
+                              |      /\      | 
+                              |     /UU\   | 
+                              |    /    \    | 
+                              |   /      \   | 
+                              |  |        |  | 
+                              |  |   _    |  | 
+                             _|  |  | |   |  |_ 
+                            (____|  |_|   |____)
