@@ -1,0 +1,8 @@
+A TV repair man goes on a call to fix a TV.
+When he arrives, he notes the make and model of the TV. He walks off to the side and smacks the TV. Instantly the TV starts to work again, the picture is better than ever. He then walks back to the dumbfound customer and hands him a bill for $200. The customer balks at the bill. "$200?! There's no way I'm paying you unless you can justify a $200 bill just for smacking the TV." The the repairman takes back the bill and re-writes it.
+
+Services Rendered:
+
+* Smacking the TV - $0.00
+
+* Knowing where to smack - $200.00

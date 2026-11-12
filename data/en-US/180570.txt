@@ -1,0 +1,12 @@
+A physicist, a biologist, a programmer, and a mathematician ....
+are sitting at a café across from an empty building. 
+
+They observe two people enter and then, later, three leave.
+
+The physicist says, "Apparently there was some error with our measurements." 
+
+The biologist says, "Obviously, they reproduced while in the building."
+
+The mathematician opines, "If now one more were to enter the building, it would again be empty."
+
+And then the programmer replies "they must've used a backdoor".
