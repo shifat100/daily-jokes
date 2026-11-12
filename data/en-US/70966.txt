@@ -1,0 +1,2 @@
+What is the difference between USA and USB?
+One connects to all of your devices and accesses the data, the other is a hardware standard.
