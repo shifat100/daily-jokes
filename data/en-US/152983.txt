@@ -1,0 +1,2 @@
+How many letters are there in the Pirate Alphabet?
+Ten.  Aye, aye, arr, and the seven seas.
