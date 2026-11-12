@@ -1,0 +1,3 @@
+What's wrong with Mongo?
+I'm seeing tonnes of posts on Reddit about how we should poke mongo. There's even a new sub for it. I tried googling 'why people poke mongo' but all I get is some news about some new Nintendo game.
+Can someone explain this Mongo guy to me?

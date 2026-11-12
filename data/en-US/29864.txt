@@ -1,0 +1,5 @@
+Ravens are black, Doves are white.
+Ravens are black, 
+Doves are white.
+You have two girlfriends,
+The left and the right.
