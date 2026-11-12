@@ -1,0 +1,2 @@
+My friend asked me, "What is a palindrome?"
+I said, "No, it's not."
