@@ -1,0 +1,2 @@
+Why can't American engineers design linear actuators?
+Because they always try to maximize the degrees of freedom.
