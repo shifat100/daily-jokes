@@ -1,0 +1,2 @@
+Why do programmers produce more garbage than others ?
+Because they (some of them) don't have a garbage collector.

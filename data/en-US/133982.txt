@@ -1,0 +1,3 @@
+Two most important rules of programming
+1. Avoid repetitions
+2. Avoid repetitions

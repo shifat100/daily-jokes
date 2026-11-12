@@ -1,0 +1,2 @@
+A zookeeper is ordering new animals.
+As he fills out the forms, he types “two mongeese.” That doesn’t look right, so he tries “two mongoose,” then “two mongooses.” Giving up, he types, “One mongoose, and while you’re at it, send another one.”
