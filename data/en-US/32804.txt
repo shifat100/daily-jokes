@@ -1,0 +1,6 @@
+A mathematician, a physicist, and an engineer are asked "What is 1 + 1"?
+The mathematician says "2"
+
+The Physicist says "2, plus or minus 0.1"
+
+The engineer says "Probably around 2, but let's say 3 to be on the safe side".
