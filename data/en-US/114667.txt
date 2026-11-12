@@ -1,0 +1,7 @@
+Mathematicians and engineers traveling to a congress...
+Every engineer has a train ticket, but the mathematicians only have one. The engineers wonder what they're about to do when one shouts "Conductor!"
+They all run towards the toilet and hide inside. The conductor knocks and says "ticket please". One of them slides the ticket to the conductor through the gap between door and floor, and the conductor walks away satisfied after seeing it.
+
+A few days later, all of them travel back home, and this time the engineers also only have one ticket. Much to their surprise, this time the mathematicians had no ticket at all. One of the mathematicians shouts "Conductor!" The engineers all sprint to the toilet and hide inside, while the mathematicians slowly walk towards another. Shortly before the conductor arrives, one of them knocks on the engineer's toilet and says "ticket please!"
+
+TL;DR: Engineers use the techniques of mathematicians without understanding them.
