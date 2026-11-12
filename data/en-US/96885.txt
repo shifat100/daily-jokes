@@ -1,0 +1,14 @@
+A psychiatrist is testing his patients
+He asks the first one "what is 4+2?"  The patient replies "potato"
+
+The doctor is disappointed and moves on to the next one. 
+
+He asks the second one "what is 4+2?" the patient replies "5000"
+
+The doctor is disappointed and moves on to the next one.
+
+He asks the third one "what is 4+2?" the patient replies "6"
+
+The doctor is impressed. "That's correct! you're making progress. how did you figure it out?"
+
+The patient replies, "well doctor i just added potato + 5000 and got 6"

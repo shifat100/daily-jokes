@@ -1,0 +1,2 @@
+tech joke: Why are ASA's so Noisy?
+They dont know how to SSH.
