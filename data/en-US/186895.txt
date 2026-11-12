@@ -1,0 +1,4 @@
+How do you project confidence?
+How do you project confidence? 
+
+Multiply by the cosine of the angle.
