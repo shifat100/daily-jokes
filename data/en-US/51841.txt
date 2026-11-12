@@ -1,0 +1,6 @@
+What is the difference between a physicist, an engineer, and a mathematician?
+If an engineer walks into a room and sees a fire in the middle and a bucket of water in the corner, he takes the bucket of water and pours it on the fire and puts it out.
+
+If a physicist walks into a room and sees a fire in the middle and a bucket of water in the corner, he takes the bucket of water and pours it eloquently around the fire and lets the fire put itself out.
+
+If a mathematician walks into a room and sees a fire in the middle and a bucket of water in the corner, he convinces himself there is a solution and leaves.

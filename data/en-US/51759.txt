@@ -1,0 +1,4 @@
+Industrial robots
+How do industrial robots communicate with humans?
+
+They use a conveyor belt.
