@@ -1,0 +1,5 @@
+Random number generator
+Two programmers discuss:
+
+- I need a random number generator. Do you have something?
+- 27
