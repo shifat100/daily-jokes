@@ -1,0 +1,2 @@
+How do programmers get a sixpack?
+int[][] abs = new int[2][3]
