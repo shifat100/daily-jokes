@@ -1,0 +1,2 @@
+Functions
+The word 'function' should never function as a verb.

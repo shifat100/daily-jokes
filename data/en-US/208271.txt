@@ -1,0 +1,2 @@
+How to Ruin a Joke on Wocka
+Register lots of accounts, with each account voting for it as least comedy. If its average comedy drops below 0.5, it will be automatically deleted.
