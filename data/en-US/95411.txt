@@ -1,0 +1,2 @@
+Billy is trying to set up a new password for his computer.
+Billy enters "Mypenis" as password and computer responds with "Error. Not long enough."
