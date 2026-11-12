@@ -1,0 +1,12 @@
+Flea jump test
+A group of scientists decide to investigate how high a flea can jump in relationship to how many legs it has (6 legs to begin with).
+
+They put the flea on a desk and said 'jump!' The flea jumped 6 feet in the air. The scientists noted: "the flea currently has 6 legs and jumped 6 feet."
+
+The scientists then removed the front two legs from the flea, put it on the desk and said 'jump!' The flea jumped 4 feet in the air. The scientists noted: "the flea currently has 4 legs and jumped 4 feet."
+
+The scientist then removed the middle two legs from the flea, put it on the desk and said 'jump!' The flea jumped 3 feet in the air. The scientists noted: "the flea currently has 2 legs and jumped 3 feet."
+
+Finally, the scientists then removed the last of the flea's legs and put it on the desk and yelled "jump!" The flea didn't move. Again, the scientist yelled "jump!" The flea didn't move. The scientist leaned closer screamed: "JUMPPPP!!" The flea didn't move.
+
+The scientists then concluded "upon removing all of the flea's legs, the flea can no longer hear us."
