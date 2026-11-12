@@ -1,22 +1,20 @@
-name: Auto Index Jokes
+name: Auto Index + SEO Build
 
 on:
   push:
     paths:
-      - 'data/**/*.txt'          # triggers ONLY when a .txt file is added/changed
+      - 'data/**/*.txt'
   schedule:
-    - cron: '0 18 * * *'         # daily safety run (12:00 AM BD time)
-  workflow_dispatch:              # manual "Run workflow" button
+    - cron: '0 18 * * *'
+  workflow_dispatch:
 
 jobs:
-  rebuild:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -24,10 +22,14 @@ jobs:
       - name: Rebuild manifests
         run: python scripts/rebuild_manifests.py
 
-      - name: Commit updated manifests
+      - name: Build SEO static pages + sitemap + robots
+        run: python scripts/build_seo.py
+
+      - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git commit -m " indexed: $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git add data/ english/ bengali/ hindi/ arabic/ spanish/ french/ \
+                  german/ japanese/ chinese/ korean/ sitemap.xml robots.txt
+          git commit -m "indexed + SEO build: $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
           git push
