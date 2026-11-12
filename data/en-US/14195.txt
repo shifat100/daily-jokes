@@ -1,0 +1,2 @@
+Why did the baby system programmer like their new colourful blankie?
+It was multithreaded.
