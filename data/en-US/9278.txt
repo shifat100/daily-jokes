@@ -1,0 +1,2 @@
+Co-Pilot: "ask in a way that won't panic everyone"
+Pilot: "Ok" [via intercom] "is there a fireman on the plane?"
