@@ -1,0 +1,11 @@
+A Biologist, a Mathmatician and a Physicist are called to a farm
+Farmer had a problem when his chickens started spontaneously dying. He called his old friends to try and help him with the situation.  
+  
+A Biologist, a Mathmatician and a Physicist came to the farm and after gathering initial data, ecah of them separated into their room and started working on a problem.  
+After 3 days, Biologist came out of his room and declared he has diagnosed the problem. "Your chickens have contracted specific Amazon fever and will all die out in about 3 months." For which Farmer responded "I value you opinion, but I would still like to hear if anybody else has better solution."  
+  
+After a week, Mathmatician came out of his room and declared that he has solved the problem. "As you can see, chickens have started dying in groups of 1,1,2,3,5,8,13 and so on per day. This is fibonacci sequence, and eventually they will all die out in about 3 months." To this Farmer said "You solution matches the one Biologist said, and I see there is little hope for my farm, but I would still like to hear out Physicist, as I know he is working furiously on the problem as in all this time he hasn't come out from his room even to take something to eat or drink. Maybe he has a better solution than to let all my chickens die."  
+  
+After that a month has gone by, then another, before the end of third month, with almost all the chickens dead, Physicist was heard screaming "Eureka, Eureka".  
+Farmer ran to the room where Physicist was staying and seen him half starved to death, exiting the room. "Did you solved, it my friend?"  
+"You can bet your ass I solved it. I solved it for perfectly spherical chicken in complete vacuum."

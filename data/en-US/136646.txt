@@ -1,0 +1,4 @@
+My computer architecture prof. dropped this
+After speaking about CPU design for about an hour he asks:-Do you understand or it is too hard?
+Class:-It is too hard.
+Prof:-Well it is called HARDware for a reason.
