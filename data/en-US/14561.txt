@@ -1,0 +1,12 @@
+Telling Jokes After School
+Every day after school, a bunch of kids gather in a large circle and take turns telling jokes. After a few months of doing this, however, the jokes start getting repetitive and take way too long to say. 
+
+In order to solve this problem, the kids assign a number to every joke they usually tell. That way, someone would merely have to say a specific number and everybody would know which joke he or she was talking about.
+
+One day, all the kids are gathered in the circle, and one kid says "43!" Everyone starts laughing.
+
+The next kid says "102!" Again, everyone starts laughing.
+
+Finally, someone says "78!" Everyone starts laughing, but one kid in particular is practically dying of laughter. Everyone else is pretty confused, and they say "Why are you laughing so hard? It's not THAT good of a joke..."
+
+The kid takes a moment to catch his breath and says, "Oh, I hear this one for the first time!"

@@ -1,0 +1,16 @@
+Two mathematics professors are sitting in a restaurant.
+The first one says: "The average person is, mathematically, an idiot. People don't know algebra, can't figure out percents, can't read a simple graph, and don't even get me started on calculus..."
+
+The second professor disagrees, "Surely you're exaggerating. Most people know all the math they need to know, or more."
+
+Some time later, the first professor goes to the men's room. The other mathematician beckons to the waitress and says, "Next time you come to our table, I am going to ask you a question. No matter what I ask, I want you to answer by saying 'x-squared'. Please don't mess it up and there's an extra tip coming your way."
+
+The waitress agrees. When the first mathematician returns, his companion says, "So lets put your theory to the test. I am going to ask some random person who comes by our table an elementary calculus question, and we'll see if they can solve it."
+
+Soon the waitress comes by and he says, "Excuse me, Miss, can you bring me more tea, please -- and by the way -- can you tell me what the integral of 2x with respect to x is?"
+
+The waitress replies, "Certainly sir, more tea it is. And it's x-squared."
+
+The mathematician says, "See! What did I tell you?" His friend is dumbfounded.
+
+The waitress, meanwhile, goes to bring tea, and, having turned her back on the two professors, mutters under her breath: "Plus a constant."

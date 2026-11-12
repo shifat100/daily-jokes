@@ -1,0 +1,7 @@
+A QA engineer walks into a bar..
+He orders 1 beer
+He orders 999999 beers
+He orders -1 beers
+He orders a lizard
+He orders ahhajahsjjfjeiai
+He orders nothing
