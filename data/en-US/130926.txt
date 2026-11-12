@@ -1,0 +1,2 @@
+What’s used to calculate binomial coefficients and eaten on Passover?
+A Paschal Triangle!
