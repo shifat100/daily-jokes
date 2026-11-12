@@ -1,0 +1,6 @@
+The boss plans a business trip
+He calls his secretary, tells her they will go on a business trip for a whole week. The secretary calls her husband, she will be off for a business trip next week. The husband calls his mistress, they can spend the next week together in the absence of the wife. The mistress calls a kid she teaches, there are no studies next week. The kid calls his grandpa (who happens to be the boss planning a business trip), he wants to visit him for the next week.
+
+The boss calls his secretary, the trip is canceled as he will receive a special visit. The secretary calls her husband, the trip is canceled. The husband calls his mistress, the wife has canceled her trip. The mistress calls the kid, they will continue their studies next week. The kid call grandpa, he won't come to visit him.
+
+The boss calls his secretary, the trip is on again...

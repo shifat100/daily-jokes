@@ -1,0 +1,2 @@
+My math paper had a question involving finding the expectation of a die roll.
+It took me a moment to figure out what it means
