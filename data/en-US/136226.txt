@@ -1,0 +1,6 @@
+Because I'm Batman
+!-- Place this tag in your head or just before your close body tag. -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-post" data-href="https://plus.google.com/100807871050380364530/posts/b3tDMJV2q3W"></div>
