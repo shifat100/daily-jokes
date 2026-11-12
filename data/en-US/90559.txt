@@ -1,0 +1,2 @@
+Why are statistics more believable with a larger sample size?
+The Ns justify the means.

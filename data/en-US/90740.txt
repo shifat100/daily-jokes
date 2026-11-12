@@ -1,0 +1,16 @@
+Tried to Select a Password
+WEBSITE: Please enter your new password.  
+USER: cabbage  
+WEBSITE: Sorry, the password must be more than 8 characters.  
+USER: boiled cabbage  
+WEBSITE: Sorry, the password must contain 1 numerical character.  
+USER: 1 boiled cabbage  
+WEBSITE: Sorry, the password cannot have blank spaces.  
+USER: 50fuckingboiledcabbages  
+WEBSITE: Sorry, the password must contain at least one upper case character.  
+USER: 50FUCKINGboiledcabbages  
+WEBSITE: Sorry, the password cannot use more than one consecutive upper case character.  
+USER: 50FuckingBoiledCabbagesShovedUpYourAss!  
+WEBSITE: Sorry, the password cannot contain punctuation  
+USER: 50FuckingBoiledCabbagesShovedUpYourAssIfYouDontGiveMeAccessNow  
+WEBSITE: That password is already in use.
