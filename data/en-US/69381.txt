@@ -1,0 +1,10 @@
+How much do the potatoes cost?
+"How much do the potatoes cost?"
+-
+"2.50"
+-
+"And the bag"
+-
+"The bag is free"
+-
+"Ok, give me the bag"
