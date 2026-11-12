@@ -1,0 +1,2 @@
+Why was the programmer lonely?
+Off-by-one error. :(
