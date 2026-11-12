@@ -1,0 +1,6 @@
+Artificial Intelligence
+An Annapolis computer science major was given an artificial intelligence assignment for one of his classes. He ended up creating a program where you could have a conversation with your computer based on your IQ level. 
+
+To test his program he entered 80 and had a conversation with his Soap Operas. He entered 100 and talked about politics. He entered 150 and talked about nuclear physics. 
+
+Just to see what would happen he entered a -50 and the computer bumped and belched and sparked and smoked for a good 10 minutes. When it finally settled down it displayed "On Brave Old Army Team....."

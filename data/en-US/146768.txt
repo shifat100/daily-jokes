@@ -1,0 +1,14 @@
+Mouse Balls
+NOTE: I don't know how anyone could write this with a straight face! This was an actual memo sent at an unnamed computer company to its employees. It went to all the company's field engineers, and it was in regard to a computer peripheral problem. The author of this memo was quite serious; the engineers rolled on the floor! (Especially note the last sentence!) 
+
+INSTRUCTIONS FOR REPLACING MOUSE BALLS 
+
+Mouse balls are now available as FRU (Field Replacement Unit). Therefore, if a mouse fails to operate or should it perform erratically, it may need a ball replacement. Because of the delicate nature of this procedure, replacement of mouse balls should only be attempted by properly trained personnel. 
+
+Before proceeding, determine the type of mouse balls by examining the underside of the mouse. Domestic balls will be larger and harder than foreign balls. 
+
+Ball removal procedures differ depending upon the manufacturer of the mouse. Foreign balls can be replaced using the pop-off method. Domestic balls are replaced by using the twist-off method. 
+
+Mouse balls are not usually static-sensitive. However, excessive handling can result in sudden discharge. 
+
+Upon completion of ball replacement, the mouse may be used immediately. It is recommended each replacer have a pair of spare balls for maintaining optimum customer satisfaction. Any customer missing his balls should contact the local personnel in charge of removing and replacing these necessary items.
