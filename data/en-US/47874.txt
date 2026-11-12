@@ -1,0 +1,2 @@
+Why could the programmer only pop one anime from the stack?
+Getting more WIFO will destroy your LIFO.

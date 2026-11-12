@@ -1,0 +1,2 @@
+What did the programmer say when they lost their virginity?
+"hello world!\n"
