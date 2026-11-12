@@ -1,0 +1,4 @@
+What number is the oddest prime number?
+2
+
+Source: My discrete professor
