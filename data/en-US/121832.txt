@@ -1,0 +1,2 @@
+Sine, cosine and ln(x) are at a party
+Sine approaches cosine and says, "Hey, what's ln(x) doing over in the corner by himself?". Cosine responds, "You see, ln(x) doesn't integrate very well".
