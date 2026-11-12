@@ -1,0 +1,5 @@
+There are 10 types of people in this world...
+1. Those who understand ternary.
+2. Those who don't.
+
+10 . Those who expected the binary gag.

@@ -1,0 +1,2 @@
+Why do we use black pens on white paper?
+So hangman is more realistic.

@@ -1,0 +1,10 @@
+A doctor is sharing some bad news with a patient:
+Doctor: It's not looking good...you don't have a lot of time left..
+
+Patient: Oh no, how much time Doc?
+
+Doctor: 10
+
+Patient: Ten Weeks? Ten Months?
+
+Doctor: 9...8...
