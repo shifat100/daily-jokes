@@ -1,0 +1,6 @@
+A man with a scaly lump on his skin went to see a dermatologist.
+The dermatologist took a biopsy and analyzed the results on his computer.
+
+His computer crashed during the analysis and spewed out a hexadecimal dump.
+
+The dermatologist told the patient he was fine. All the digits in the hex dump were B9.
