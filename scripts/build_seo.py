@@ -1,22 +1,17 @@
 import os
 import json
 import html
+import re
 from datetime import datetime
 
 DATA_ROOT = "data"
 SITE_ROOT = "."
-# ⬇️ সব ভাষার ফোল্ডার এখন lang/ এর ভেতর তৈরি হবে (যেমন: ./lang/en/, ./lang/bn/)
 LANG_DIR = "lang"
 
-# ⬇️ আপনার GitHub Pages URL
 BASE_URL = "https://shifat100.github.io/daily-jokes"
 
-# ইনলাইন SVG Favicon
 FAVICON_SVG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230f172a'/%3E%3Cpath d='M9 18c1.8 3.5 5 5 7 5s5.2-1.5 7-5' stroke='%2338bdf8' stroke-width='2.4' stroke-linecap='round' fill='none'/%3E%3Ccircle cx='11' cy='12' r='2' fill='%23f8fafc'/%3E%3Ccircle cx='21' cy='12' r='2' fill='%23f8fafc'/%3E%3C/svg%3E"
 
-# -----------------------------------------------------------------
-# BCP-47 display names
-# -----------------------------------------------------------------
 LANG_META = {
     "en":     "English",
     "en-US":  "English (US)",
@@ -78,43 +73,69 @@ def hreflang_of(code: str) -> str:
 
 
 def esc(s: str) -> str:
-    return html.escape(s, quote=True)
+    return html.escape(s or "", quote=True)
 
 
-def strip_meta(text: str) -> str:
-    """মেটা হেডার রিমুভ করে মূল জোক বের করা"""
-    lines = text.split("\n")
+def parse_joke_file(raw_text: str) -> tuple[str, str]:
+    """
+    Parses joke text file:
+    Line 0 -> Joke Title
+    Remaining lines -> Full Joke Body
+    Also handles optional frontmatter headers if present.
+    """
+    raw_lines = raw_text.splitlines()
     start = 0
-    for i, line in enumerate(lines[:12]):
+
+    # Skip frontmatter/meta headers if present
+    for i, line in enumerate(raw_lines[:12]):
         l = line.strip()
         if (
-            l == ""
-            or l.startswith("---")
-            or l.lower().startswith(("language:", "date:", "title:", "author:", "source:"))
+            l.startswith("---")
+            or re.match(r"^(language|date|category|author|source)\s*:", l, re.I)
         ):
             start = i + 1
         else:
             break
-    body = "\n".join(lines[start:]).strip()
-    return body or text.strip()
+
+    lines = raw_lines[start:]
+    
+    # Locate first non-empty line as title
+    first_idx = next((i for i, line in enumerate(lines) if line.strip()), None)
+    if first_idx is None:
+        return ("", raw_text.strip())
+
+    title = lines[first_idx].strip()
+    title = re.sub(r"^title\s*:\s*", "", title, flags=re.I).strip()
+
+    body = "\n".join(lines[first_idx + 1:]).strip()
+
+    # Fallback if text is only a single line
+    if not body:
+        return ("", title)
+
+    return (title, body)
 
 
 # -----------------------------------------------------------------
-# Static page builder
+# Static SEO Joke Page Builder
 # -----------------------------------------------------------------
-def build_joke_page(lang: str, fname: str, joke: str, all_langs: list) -> str:
+def build_joke_page(lang: str, fname: str, title: str, body: str, all_langs: list) -> str:
     name = display_name(lang)
     slug = fname[:-4]
     
-    # URL এখন /lang/ ফোল্ডারের ভেতরে পয়েন্ট করবে
     url = f"{BASE_URL}/{LANG_DIR}/{lang}/{slug}.html"
     lang_hub_url = f"{BASE_URL}/{LANG_DIR}/{lang}/"
 
-    title_short = joke[:70].replace("\n", " ").strip()
-    title = f"{title_short} — {name} Joke | Daily Jokes"
-    desc = joke[:155].replace("\n", " ").strip()
+    # Clean display title and SEO meta descriptions
+    clean_title = title if title else body[:60].replace("\n", " ").strip()
+    page_title = f"{clean_title} — {name} Joke | Daily Jokes"
+    
+    meta_desc_source = f"{clean_title}: {body}" if title else body
+    meta_desc = meta_desc_source.replace("\n", " ").strip()
+    if len(meta_desc) > 155:
+        meta_desc = meta_desc[:152] + "..."
 
-    # hreflang block
+    # Alternate hreflang tags
     hl_lines = []
     for l in all_langs:
         hl_lines.append(
@@ -126,80 +147,231 @@ def build_joke_page(lang: str, fname: str, joke: str, all_langs: list) -> str:
     )
     hreflang_block = "\n".join(hl_lines)
 
-    ld = {
+    # Schema.org structured data (Article + Breadcrumb)
+    schema_graph = {
         "@context": "https://schema.org",
-        "@type": "CreativeWork",
-        "name": title_short,
-        "text": joke,
-        "inLanguage": lang,
-        "genre": "Comedy",
-        "url": url,
-        "isPartOf": {"@type": "WebSite", "name": "Daily Jokes", "url": f"{BASE_URL}/"},
+        "@graph": [
+            {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {"@type": "ListItem", "position": 1, "name": "Home", "item": f"{BASE_URL}/"},
+                    {"@type": "ListItem", "position": 2, "name": f"{name} Jokes", "item": lang_hub_url},
+                    {"@type": "ListItem", "position": 3, "name": clean_title, "item": url}
+                ]
+            },
+            {
+                "@type": "SocialMediaPosting",
+                "@id": f"{url}#article",
+                "headline": clean_title,
+                "articleBody": f"{title}\n\n{body}" if title else body,
+                "inLanguage": lang,
+                "genre": "Comedy",
+                "url": url,
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Daily Jokes",
+                    "url": f"{BASE_URL}/"
+                }
+            }
+        ]
     }
-    if len(slug) == 10 and slug[4] == "-" and slug[7] == "-":
-        ld["datePublished"] = slug
+
+    if len(slug) >= 10 and slug[4] == "-" and slug[7] == "-":
+        pub_date = slug[:10]
+        schema_graph["@graph"][1]["datePublished"] = pub_date
+
+    schema_json = json.dumps(schema_graph, ensure_ascii=False)
 
     return f"""<!DOCTYPE html>
 <html lang="{esc(lang)}">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{esc(title)}</title>
-  <meta name="description" content="{esc(desc)}" />
+  <title>{esc(page_title)}</title>
+  <meta name="description" content="{esc(meta_desc)}" />
   <link rel="canonical" href="{esc(url)}" />
   <link rel="icon" type="image/svg+xml" href="{FAVICON_SVG}" />
 {hreflang_block}
+  <!-- Open Graph / Facebook -->
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="{esc(title)}" />
-  <meta property="og:description" content="{esc(desc)}" />
-  <meta property="og:url" content="{esc(url)}" />
   <meta property="og:site_name" content="Daily Jokes" />
+  <meta property="og:title" content="{esc(page_title)}" />
+  <meta property="og:description" content="{esc(meta_desc)}" />
+  <meta property="og:url" content="{esc(url)}" />
   <meta property="og:locale" content="{esc(lang.replace('-', '_'))}" />
+  <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="{esc(title)}" />
-  <meta name="twitter:description" content="{esc(desc)}" />
-  <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
+  <meta name="twitter:title" content="{esc(page_title)}" />
+  <meta name="twitter:description" content="{esc(meta_desc)}" />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  
+  <script type="application/ld+json">{schema_json}</script>
+
+  <style>
+    :root {{
+      --bg: #f8fafc; --surface: #ffffff; --border: #e2e8f0;
+      --text: #0f172a; --text-muted: #64748b; --accent: #2563eb;
+      --accent-bg: #eff6ff; --shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+    }}
+    * {{ box-sizing: border-box; margin: 0; padding: 0; }}
+    body {{
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg); color: var(--text); line-height: 1.6;
+      min-height: 100vh; display: flex; flex-direction: column; padding: 1.5rem 1rem;
+    }}
+    .container {{
+      max-width: 680px; width: 100%; margin: 2rem auto;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 16px; padding: 2rem; box-shadow: var(--shadow);
+    }}
+    .breadcrumbs {{
+      font-size: .85rem; margin-bottom: 1.5rem; color: var(--text-muted);
+      display: flex; align-items: center; gap: .4rem; flex-wrap: wrap;
+    }}
+    .breadcrumbs a {{ color: var(--accent); text-decoration: none; font-weight: 500; }}
+    .breadcrumbs a:hover {{ text-decoration: underline; }}
+    .lang-badge {{
+      display: inline-block; font-size: .75rem; font-weight: 700;
+      text-transform: uppercase; letter-spacing: .05em; background: var(--bg);
+      color: var(--text-muted); border: 1px solid var(--border);
+      padding: .25rem .55rem; border-radius: 6px; margin-bottom: 1rem;
+    }}
+    .joke-title {{
+      font-size: 1.45rem; font-weight: 700; color: var(--text);
+      line-height: 1.35; margin-bottom: 1.25rem; word-break: break-word;
+    }}
+    .joke-body {{
+      font-family: 'Lora', Georgia, serif; font-size: 1.18rem;
+      line-height: 1.85; color: #334155; white-space: pre-wrap;
+      word-break: break-word; margin-bottom: 2rem;
+    }}
+    .actions-bar {{
+      display: flex; gap: .75rem; border-top: 1px solid var(--border);
+      padding-top: 1.5rem; flex-wrap: wrap; align-items: center; justify-content: space-between;
+    }}
+    .btn {{
+      padding: .5rem 1rem; border-radius: 8px; font-size: .875rem;
+      font-weight: 600; cursor: pointer; text-decoration: none;
+      display: inline-flex; align-items: center; gap: .4rem; transition: all .15s;
+    }}
+    .btn-primary {{ background: var(--accent); color: #fff; border: 1px solid var(--accent); }}
+    .btn-primary:hover {{ opacity: .9; }}
+    .btn-outline {{ background: var(--surface); color: var(--text); border: 1px solid var(--border); }}
+    .btn-outline:hover {{ background: var(--bg); }}
+    .toast {{
+      position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%) translateY(30px);
+      background: var(--text); color: var(--surface); padding: .55rem 1.15rem;
+      border-radius: 999px; font-size: .8rem; font-weight: 500; opacity: 0;
+      transition: all .25s ease; pointer-events: none; z-index: 100;
+    }}
+    .toast.show {{ opacity: 1; transform: translateX(-50%) translateY(0); }}
+  </style>
 </head>
-<body style="background:#f8fafc;color:#0f172a;margin:0;padding:0;">
-  <main style="max-width:680px;margin:3rem auto;padding:1.5rem;background:#ffffff;border:1px solid #e2e8f0;border-radius:14px;font-family:Georgia,serif;line-height:1.85;font-size:1.1rem;box-shadow:0 4px 6px rgba(0,0,0,0.03);">
-    <nav style="font-size:.85rem;margin-bottom:1.5rem;font-family:sans-serif;color:#64748b;">
-      <a href="{BASE_URL}/" style="color:#2563eb;text-decoration:none;">Home</a> ›
-      <a href="{lang_hub_url}" style="color:#2563eb;text-decoration:none;">{esc(name)}</a> ›
-      <span>{esc(slug)}</span>
+<body>
+  <main class="container">
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <a href="{BASE_URL}/">Home</a> <span>›</span>
+      <a href="{lang_hub_url}">{esc(name)} Jokes</a> <span>›</span>
+      <span aria-current="page">{esc(clean_title)}</span>
     </nav>
-    <h1 style="font-size:1.25rem;margin-bottom:1rem;font-family:sans-serif;">{esc(name)} Joke</h1>
-    <article style="white-space:pre-wrap;word-break:break-word;">{esc(joke)}</article>
-    <p style="margin-top:2.5rem;font-size:.875rem;font-family:sans-serif;">
-      <a href="/index.html" style="color:#2563eb;text-decoration:none;font-weight:600;">← Back</a>
-    </p>
+    <div class="lang-badge">{esc(name)}</div>
+    {f'<h1 class="joke-title">{esc(title)}</h1>' if title else ''}
+    <article class="joke-body" id="jokeBody">{esc(body)}</article>
+    <div class="actions-bar">
+      <div style="display:flex; gap:.5rem;">
+        <button class="btn btn-outline" id="copyBtn">Copy Joke</button>
+        <button class="btn btn-outline" id="shareBtn">Share</button>
+      </div>
+      <a href="{BASE_URL}/?lang={esc(lang)}" class="btn btn-primary">More {esc(name)} Jokes →</a>
+    </div>
   </main>
+  <div class="toast" id="toast">Copied to clipboard!</div>
+
+  <script>
+    const jokeTitle = {json.dumps(title)};
+    const jokeBody = {json.dumps(body)};
+    const fullJoke = jokeTitle ? `${{jokeTitle}}\\n\\n${{jokeBody}}` : jokeBody;
+    const toast = document.getElementById("toast");
+
+    function showToast(msg) {{
+      toast.textContent = msg;
+      toast.classList.add("show");
+      setTimeout(() => toast.classList.remove("show"), 2000);
+    }}
+
+    document.getElementById("copyBtn").onclick = () => {{
+      navigator.clipboard.writeText(fullJoke).then(() => showToast("Joke copied to clipboard!"));
+    }};
+
+    document.getElementById("shareBtn").onclick = () => {{
+      if (navigator.share) {{
+        navigator.share({{
+          title: document.title,
+          text: fullJoke,
+          url: window.location.href
+        }}).catch(() => {{}});
+      }} else {{
+        navigator.clipboard.writeText(window.location.href).then(() => showToast("Direct link copied!"));
+      }}
+    }};
+  </script>
 </body>
 </html>"""
 
 
-def build_language_page(lang: str, files: list) -> str:
+# -----------------------------------------------------------------
+# Static SEO Language Hub Builder
+# -----------------------------------------------------------------
+def build_language_page(lang: str, files_meta: list) -> str:
     name = display_name(lang)
     lang_hub_url = f"{BASE_URL}/{LANG_DIR}/{lang}/"
-    links = "\n".join(
-        f'      <li style="margin-bottom:.5rem;"><a href="{BASE_URL}/{LANG_DIR}/{lang}/{f[:-4]}.html" style="color:#2563eb;text-decoration:none;">{esc(f[:-4])}</a></li>'
-        for f in files
-    )
+    
+    cards = []
+    for item in files_meta:
+        card_title = item["title"] if item["title"] else item["slug"]
+        card_url = f"{BASE_URL}/{LANG_DIR}/{lang}/{item['slug']}.html"
+        snippet = item["body"][:120].replace("\n", " ").strip() + "..."
+        cards.append(f"""
+        <li style="margin-bottom:1rem;background:#ffffff;border:1px solid #e2e8f0;padding:1.25rem;border-radius:12px;box-shadow:0 2px 4px rgba(0,0,0,0.02);">
+          <h2 style="font-size:1.15rem;margin-bottom:.4rem;line-height:1.4;">
+            <a href="{card_url}" style="color:#0f172a;text-decoration:none;font-weight:600;">{esc(card_title)}</a>
+          </h2>
+          <p style="color:#64748b;font-size:.9rem;line-height:1.5;">{esc(snippet)}</p>
+          <a href="{card_url}" style="display:inline-block;margin-top:.6rem;color:#2563eb;font-size:.85rem;text-decoration:none;font-weight:600;">Read full joke →</a>
+        </li>
+        """)
+
+    cards_html = "\n".join(cards) if cards else "<p>No jokes found.</p>"
+
     return f"""<!DOCTYPE html>
 <html lang="{esc(lang)}">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{esc(name)} Jokes — Daily Humor Collection</title>
-  <meta name="description" content="Read daily {esc(name)} jokes — fresh comedy and humor in {esc(name)}." />
+  <title>{esc(name)} Jokes — Daily Clean Humor Collection</title>
+  <meta name="description" content="Discover funniest {esc(name)} jokes and humor quotes. Clean, daily-updated bite-sized comedy archive." />
   <link rel="canonical" href="{lang_hub_url}" />
   <link rel="icon" type="image/svg+xml" href="{FAVICON_SVG}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
-<body style="background:#f8fafc;color:#0f172a;max-width:680px;margin:3rem auto;padding:1.5rem;font-family:system-ui,-apple-system,sans-serif;">
-  <p><a href="{BASE_URL}/" style="color:#2563eb;text-decoration:none;font-size:.875rem;">← Back to Home Feed</a></p>
-  <h1 style="margin-bottom:1.5rem;">{esc(name)} Jokes</h1>
-  <ul style="line-height:1.8;list-style:none;padding:0;">
-{links}
-  </ul>
+<body style="background:#f8fafc;color:#0f172a;margin:0;padding:2rem 1rem;font-family:'Inter',sans-serif;">
+  <div style="max-width:760px;margin:0 auto;">
+    <p style="margin-bottom:1.25rem;">
+      <a href="{BASE_URL}/" style="color:#2563eb;text-decoration:none;font-size:.875rem;font-weight:600;">← Back to Infinite Humor Feed</a>
+    </p>
+    <header style="margin-bottom:2rem;border-bottom:1px solid #e2e8f0;padding-bottom:1.5rem;">
+      <h1 style="font-size:1.85rem;font-weight:700;margin-bottom:.4rem;">{esc(name)} Jokes</h1>
+      <p style="color:#64748b;font-size:.95rem;">Browse our complete collection of bite-sized, clean {esc(name)} jokes.</p>
+    </header>
+    <ul style="list-style:none;padding:0;">
+{cards_html}
+    </ul>
+  </div>
 </body>
 </html>"""
 
@@ -208,7 +380,6 @@ def build_language_page(lang: str, files: list) -> str:
 # Main
 # -----------------------------------------------------------------
 def main():
-    # 1. Ensure data/languages.json exists
     langs_json = os.path.join(DATA_ROOT, "languages.json")
     if not os.path.exists(langs_json):
         print("⚠️ data/languages.json missing — scanning data/ directly")
@@ -243,13 +414,11 @@ def main():
     urls = []
     today = datetime.now().strftime("%Y-%m-%d")
 
-    # 2. Build files inside lang/<lang>/
     for lang in langs:
         folder = os.path.join(DATA_ROOT, lang)
         if not os.path.isdir(folder):
             continue
 
-        # আউটপুট ফোল্ডার হবে: ./lang/bn/, ./lang/en/ ইত্যাদি
         out_dir = os.path.join(SITE_ROOT, LANG_DIR, lang)
         os.makedirs(out_dir, exist_ok=True)
 
@@ -261,25 +430,30 @@ def main():
             reverse=True,
         )
 
-        # Language landing page (lang/<lang>/index.html)
-        with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as fp:
-            fp.write(build_language_page(lang, files))
-        urls.append(f"{BASE_URL}/{LANG_DIR}/{lang}/")
-        print(f"  📄 {LANG_DIR}/{lang}/index.html")
+        files_meta = []
 
-        # Per-joke pages (lang/<lang>/joke-slug.html)
+        # 1. Generate Individual Joke HTML Pages
         for fname in files:
             with open(os.path.join(folder, fname), encoding="utf-8") as fp:
                 raw = fp.read()
-            joke = strip_meta(raw)
-            page_html = build_joke_page(lang, fname, joke, langs)
-            out_path = os.path.join(out_dir, fname[:-4] + ".html")
+            title, body = parse_joke_file(raw)
+            slug = fname[:-4]
+            files_meta.append({"slug": slug, "title": title, "body": body})
+
+            page_html = build_joke_page(lang, fname, title, body, langs)
+            out_path = os.path.join(out_dir, f"{slug}.html")
             with open(out_path, "w", encoding="utf-8") as fp:
                 fp.write(page_html)
-            urls.append(f"{BASE_URL}/{LANG_DIR}/{lang}/{fname[:-4]}.html")
-            print(f"  📄 {LANG_DIR}/{lang}/{fname[:-4]}.html")
+            urls.append(f"{BASE_URL}/{LANG_DIR}/{lang}/{slug}.html")
+            print(f"  📄 {LANG_DIR}/{lang}/{slug}.html")
 
-    # 3. sitemap.xml (রুট ডিরেক্টরিতে থাকবে কিন্তু লিংক থাকবে lang/ এর)
+        # 2. Generate Language Hub Index Page
+        with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as fp:
+            fp.write(build_language_page(lang, files_meta))
+        urls.append(f"{BASE_URL}/{LANG_DIR}/{lang}/")
+        print(f"  📄 {LANG_DIR}/{lang}/index.html")
+
+    # 3. sitemap.xml
     sm = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
