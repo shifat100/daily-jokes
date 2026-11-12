@@ -1,0 +1,9 @@
+An engineer, a physicist, and a mathematician works at their desk.
+An engineer is working at his desk in his office, as his cigarette falls off the desk into the wastebasket, causing the papers within to burst into flames.
+He immediately deduces the most logical place of the fire extinguisher, grabs it, puts out the flames, and goes back to work.
+
+A physicist is working at his desk, as the same thing happens to him.
+He looks at the fire, remembers that fire = fuel + oxygen + heat, decides to block the oxygen supply, looks around, spots the fire extinguisher, grabs it, puts out the flames and goes back to work.
+
+A mathematician is working at his desk as the same thing happens to him. 
+He looks at the fire, remembers the fire extinguisher in the hallway, concludes that a solution exists, and goes back to work.
