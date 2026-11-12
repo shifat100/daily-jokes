@@ -1,0 +1,7 @@
+Teacher asks a student to count from 0 to 10
+Student : 0, 1, 2, 3, 4, 6, 7, 8, 9, 10   
+Teacher : Where is 5?  
+Student : Yesterday I heard in the news that 5 died in a car accident.
+
+
+DIE
