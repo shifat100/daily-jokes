@@ -1,0 +1,2 @@
+The privileged hangman is a sophisticated fellow.
+He can read, write and has a permission to execute.

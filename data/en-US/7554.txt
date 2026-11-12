@@ -1,0 +1,2 @@
+What is the most frequent word in the comment section?
+This.
