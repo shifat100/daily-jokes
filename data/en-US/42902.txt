@@ -1,0 +1,2 @@
+Why shouldn't you ask programmers to rate things on a 1 to 10 scale?
+They say that system stops at 2.
