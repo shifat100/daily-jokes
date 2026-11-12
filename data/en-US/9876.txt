@@ -1,0 +1,2 @@
+child to parent: "why dont you mentor me?"
+parent: "why dont you deserve a mentor?"

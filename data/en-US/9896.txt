@@ -1,0 +1,2 @@
+A horse walks into a bar and says, “On a right-angled triangle with sides X, Y and Z, if X and Z are perpendicular, which side is opposite the right angle?”
+The bartender says, “Y, the long face.”

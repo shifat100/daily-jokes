@@ -1,0 +1,2 @@
+I'm changing Blair Walsh's kick accuracy to -1
+Because he missed the 0 wide left.

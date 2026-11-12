@@ -1,0 +1,2 @@
+I tried to teach a class on how hard it is to make a Fibonacci Sequence.
+But it spiraled WAY out of control!

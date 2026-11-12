@@ -1,0 +1,5 @@
+A Tech Support Story
+This guy calls in to complain that he gets an "Access Denied" message every time he logs in.
+It turned out he was typing his user name and password in capital letters.
+Tech Support: "OK, let's try once more, but use lower case letters"
+Customer: "But i only have capital letters on my keyboard"
