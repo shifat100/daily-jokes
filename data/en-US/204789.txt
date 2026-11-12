@@ -1,0 +1,10 @@
+I Found 2 Jokes that are Duplicates of Each Other. What Do I Do?
+You can report duplicates once you get 100 points. For every duplicate that you correctly report, you get 10 points. You can also help by verifying duplicates that other users have reported. For every verification, you get 1 point (regardless of whether you vote yes or no).
+
+
+
+If you vote for a duplicate that you reported you DO NOT get any points.
+
+
+
+If you report 2 duplicate jokes and 1 of them is yours, you DO NOT get any points.

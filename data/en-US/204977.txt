@@ -1,0 +1,14 @@
+Class Trip
+A student on a class trip to the natural-history museum asks the guard, "Can you tell me how old the dinosaur bones are?" 
+
+
+
+The guard tells him, "Three-million-four years and six months old." 
+
+
+
+The student says. "How do you know that so precisely?" 
+
+
+
+The guard says, "Well, the dinosaur bones were three million years old when I started working here, and that was four and a half years ago."

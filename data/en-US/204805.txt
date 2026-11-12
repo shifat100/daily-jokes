@@ -1,0 +1,70 @@
+Icons
+Registered users can get special icons next to their names that signify certain accomplishments. To learn how points are awarded, please visit our rules page. Icons are awarded as follows:
+
+
+
+
+
+ Green Star~~~= User has submitted 5 jokes.
+
+ Red Star~~~~~= User has submitted 10 jokes.
+
+ Blue Star~~~~= User has submitted 50 jokes.
+
+ Glod Star~~~~= User has submitted 100 jokes.
+
+ Rainbow Star~= User has submitted 200 jokes.
+
+
+
+
+
+ Red Dot~~~~~~~~~~~~~~~~~= User has cast 10 votes.
+
+ Small Dartboard~~~~~~~~~= User has cast 50 votes.
+
+ Medium Dartboard~~~~~~~~= User has cast 100 votes.
+
+ Large Dartboard~~~~~~~~~= User has cast 250 votes.
+
+ Dartboard with 1 Arrow~~= User has cast 500 votes.
+
+ Dartboard with 2 Arrows~= User has cast 1000 votes.
+
+ Dartboard with 3 Arrows~= User has cast 2500 votes.
+
+
+
+
+
+ Smiley Face~= User's jokes rate at least 2.5 on average.
+
+
+
+
+
+ Male sign~~~=User is a male.
+
+ Female Sign~=User is a female.
+
+(you can set your gender by editing your account) 
+
+
+
+ Pencil with #1~= User is a Level 1 Editor.
+
+ Pencil with #2~= User is a Level 2 Editor.
+
+ Pencil with #3~= User is a Level 3 Editor.
+
+
+
+
+
+ Thermometer 1/4 red~= Editor has made 500 edits.
+
+ Thermometer 1/2 red~= Editor has made 1000 edits.
+
+ Thermometer 3/4 red~= Editor has made 2000 edits.
+
+ Thermometer 4/4 red~= Editor has made 4000 edits.
