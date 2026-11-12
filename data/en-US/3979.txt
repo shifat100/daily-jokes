@@ -1,0 +1,12 @@
+Four professionals are interviewing for a math-intensive position in a company
+The shortlist of applicants includes a mathematician, a physicist, an engineer, and an accountant.
+
+To begin each interview, the representative from HR poses a simple math problem to warm up the candidates. What is 45+18?
+
+The mathematician immediately responds "63".
+
+The physicist responds "63, plus or minus 10%".
+
+The engineer thinks for a moment and responds "63, but for safety, let's call it 70".
+
+The accountant shuts the door, checks over his shoulder, leans in close to the desk, and whispers "*how much do you want it to be?*"
