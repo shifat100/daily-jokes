@@ -1,0 +1,6 @@
+Going to make an app.
+I've decided to create an app where you tour museums and art galleries finding famous paintings.
+
+I'm going to call it Van Gogh. 
+
+Source - Me
