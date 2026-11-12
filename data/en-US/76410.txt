@@ -1,0 +1,31 @@
+Daedalus and the Labyrinth
+Daedalus, the famous Greek architect and inventor, was relaxing in his home in the Blessed Isles of the Underworld when Hades, the Lord of Death himself, came to him with a favor.
+
+"Listen, Daedalus," Hades began. "You know how the population of the dead here increase every year? The Underworld would not be able to sustain so many souls."
+
+"Well," Daedalus replied. "What would you want me to do about it?"
+
+"You are the great builder who designed the Labyrinth for King Minos himself, and I want you to do the same for me as well. But not just any Labyrinth. We need a Labyrinth that is economical and efficient. We need a Labyrinth that will suit our needs and adapt to any situation that may arise in the future. We need a Labyrinth that can think for itself."
+
+Daedalus pondered for a moment, then finally said "I'll see what I can do."
+
+The great architect spent 4 years planning and building his first prototype of his new Labyrinth. He showed the prototype, Labyrinth Beta, to Hades.
+
+"This looks really good, Daedalus," Hades said. "The design is economical and efficient. But, I want an intelligent Labyrinth. Now, you just need to add some form of Artificial Intelligence to it. We have a few new souls here, so maybe they could help you with that."
+
+So Daedalus, along with a group of Computer Science students, programmed a complex AI for the Labyrinth in 3 months. They presented the AI to Hades.
+
+"Now, this seems like a very complicated AI indeed! However, we need the AI to be user friendly. Maybe if it could communicate with us via speech, for example?"
+
+And so Daedalus and his team designed a user interface for their Labyrinth, and after 2 weeks, they were finished. Daedalus decided to see for himself the intelligence of his design.
+"This is Daedalus, your creator. Can you hear me?" he said to the complex machine.
+
+"Hello, Daedalus," replied the Labyrinth in a robotic voice. "I am Labyrinth Alpha, at your command."
+
+"Labyrinth Alpha, could you enumerate your functions?"
+
+"I am able to sustain up to 5 billion souls at any time, and I can adapt if ever more souls arrive in the Underworld. Also, I can adjust my climate in certain parts of me so that I could suit the needs of different souls from different parts of the world. Lastly, I have many features that will make even the newer souls more comfortable in the Underworld. I have 1.5 TB/s WiFi, all the latest video games, all the latest albums and mixtapes, and all the popular TV shows and Movies. And all of this was possible because of your sophisticated AI, Creator."
+
+"Wow," Daedalus said. "I have to say, I'm impressed. I'm sure Hades will be impressed with you, too."
+
+"Well," Labyrinth Alpha replied. "I, for one, am certainly a maze."
