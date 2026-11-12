@@ -1,0 +1,2 @@
+My company issues user id's to its new employees based on the 1st letter of their 1st name and the 1st 3 letters of their last name.
+I feel sorry for my new coworker Tim Watson.
