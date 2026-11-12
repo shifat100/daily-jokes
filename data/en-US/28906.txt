@@ -1,0 +1,12 @@
+Scientist and a frog
+A scientist is working in the lab with a frog. He has trained it to respond to simple verbal commands and wants to observe its ability to jump after it has lost one or more of its limbs. He starts by saying, "ok frog, jump." The frog quickly does a small hop. The scientist notes, "frog jumps easily." 
+
+The scientist then cuts off one of its legs and says "ok frog, jump." The frog again hops, but with a bit of difficulty. The scientist notes, "frog with 3 legs still able to jump."
+
+The scientist cuts off another leg and says "ok frog, jump." The frog stumbles awkwardly but is still able to do a small hop. The scientist notes, "frog with 2 legs able to hop a bit."
+
+Then he cuts off the third leg and repeats the command. The frog pushes with its remaining leg, trying to hop, and finally propels itself forward a bit. The scientist notes, "frog with one leg unable to jump fully, but can move forward."
+
+The scientist then cuts off its last leg and says "ok frog, jump." The frog does nothing. The scientist repeats his command but the frog still does nothing. "Jump frog, jump!" But the frog doesn't move.
+
+The scientist notes, "frog with no legs goes deaf."
