@@ -1,0 +1,2 @@
+30 wolves 28 sheep how many did not
+10
