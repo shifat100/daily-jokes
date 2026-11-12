@@ -1,0 +1,12 @@
+A graphic designer is working on a website...
+...and his client says, "Could you make this banner a little more green?"  
+
+So he makes the color a little bit more green.  
+
+But his client says, "No, that's too green. Make it a little less so."  
+
+So he makes it a little less green.  
+
+The client says, "No, it's still a bit off."  
+
+So the artist, losing his patience, shouts, "On a scale of 0 to 255, how green do you want it!?"
