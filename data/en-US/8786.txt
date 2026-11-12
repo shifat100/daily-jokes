@@ -1,0 +1,2 @@
+What shape gets rid of curses?
+A hexagon

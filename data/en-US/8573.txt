@@ -1,0 +1,6 @@
+A Programmer's Story
+As an undergraduate, I was a Double E major. I studied physics, quantum mechanics, and Maxwell’s equations! I designed circuits! Hah! But does anyone call me Pierre the Electrical Engineer? NO!
+
+As a master’s student, I studied mathematics. I learned and proved many beautiful theorems! I broke new ground with my professors! Hah! But does anyone call me Pierre the mathematician? NO!
+
+BUT WRITE ONE LITTLE PROGRAM!

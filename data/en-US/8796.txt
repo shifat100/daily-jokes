@@ -1,0 +1,8 @@
+A botanist, an architect, and a computer scientist go for a walk.
+A botanist, an architect, and a computer scientist go for a walk.  After a bit of walking, they see a tree.
+
+The botanist sees the tree and asks, "Why is that tree here?  It's commonly imported, but trees of that genus don't usually do well in this climate."
+
+The architect says, "I don't know, but I do know that the tensile, impact, and compressive strength of the wood."
+
+The computer scientist says, "That's good and all, but this tree has the root at the bottom and the branches at the top.  Why is it upside down like that?"
