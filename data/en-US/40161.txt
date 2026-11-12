@@ -1,0 +1,34 @@
+A toothpaste factory had a problem.
+They sometimes shipped empty boxes
+without the tube inside. This challenged their perceived quality with the
+buyers and distributors. Understanding how important the relationship with
+them was, the CEO of the company assembled his top people. They decided to
+hire an external engineering company to solve their empty boxes problem. The
+project followed the usual process: budget and project sponsor allocated,
+RFP, and third-parties selected.  Six months (and $8 million) later they had
+a fantastic solution - on time, on budget, and high quality. Everyone in
+the project was pleased.
+
+They solved the problem by using a high-tech precision scale that would
+sound a bell and flash lights whenever a toothpaste box weighed less than it
+should. The line would stop, someone would walk over, remove the defective
+box, and then press another button to re-start the line. As a result of the
+new package monitoring process, no empty boxes were being shipped out of the
+factory.
+
+With no more customer complaints, the CEO felt the $8 million was well
+spent. He then reviewed the line statistics report and discovered the number
+of empty boxes picked up by the scale in the first week was consistent with
+projections, however, the next three weeks were zero! The estimated rate
+should have been at least a dozen boxes a day. He had the engineers check
+the equipment, they verified the report as accurate.
+
+Puzzled, the CEO traveled down to the factory, viewed the part of the line
+where the precision scale was installed, and observed just ahead of the new
+$8 million dollar solution sat a $20 desk fan blowing the empty boxes off
+the belt and into a bin. He asked the line supervisor what that was about.
+
+
+"Oh, that," the supervisor replied, "Bert, the kid from maintenance, put it
+there because he was tired of walking over, removing the box and re-starting
+the line every time the bell rang."
