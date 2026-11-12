@@ -1,0 +1,2 @@
+What was written on the UNIX user's doormat?
+"There's no place like cd ~"

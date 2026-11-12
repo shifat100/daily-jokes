@@ -1,0 +1,2 @@
+What is the volume of pizza?
+Pizza of course! If z = radius of the pizza and a = the height then Π * radius^2 * height = Pi * z * z * a = Pizza.
