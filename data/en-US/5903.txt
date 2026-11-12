@@ -1,0 +1,6 @@
+What's 2 + 2?
+A company was hiring, and had the selection down to a mathematician,  an engineer, and a statistician.  They called the mathematician in, and asked him what 2 + 2 was. He said, " well, in base 5 and up, it's 4, but in lower bases, it could be 10 or 11 or 100.
+
+They called the engineer in and asked him what 2 + 2 was. He said, " theoretically, it's 4, but it's actually impossible to create a 2 inch rod and another 2 inch rod and place them end-to-end and get 4 because of measurement precision, temperature, etc."
+
+They called in the statistician and asked him what 2 + 2 was. He leaned in close, squinted his eyes and grinned a little, looked right and left, then said, "what do you want it to be?"
