@@ -1,0 +1,1 @@
+A friend of mine offered to tell me a joke using the UDP protocol, but then warned me I might not get it.
