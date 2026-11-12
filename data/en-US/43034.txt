@@ -1,0 +1,2 @@
+Why do older polygons make sure their sides all stay an equal length?
+It keeps you regular.
