@@ -1,0 +1,2 @@
+How does one call a Boomerang that does not return?
+A stick

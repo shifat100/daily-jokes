@@ -1,0 +1,4 @@
+An employee working at a software development company was not satisfied with his salary...
+An employee working at a software development company was not satisfied with his salary. He went to visit his boss in his office to discuss the matter. "I feel like I have been making a valuable contribution to this business, yet I don't feel appreciated. Quite simply put: I want a raise." The boss furrowed his brow in concern. "I'm a little bit surprised that you have brought this matter to me, but I agree with you. You are an asset to this company. In fact, I think it would be appropriate to give you one at the beginning of each month. Check your mail on the first." The employee, not trying to push his luck, thanked his boss and left the office.
+
+On the first day of the month, the employee checked his mailbox, and sure enough, there was a letter from his boss. His smile disappeared when he saw various numbers arranged on a four by four grid.
