@@ -1,0 +1,6 @@
+A very important document
+Josh is told to print a Very Important Document. Because of its importance, he is explicitly told not to modify the document *in any way*.
+
+So Josh prints out the document, and disobeying *direct* orders, uses a sharpie to add thickness to the lettering in the title.
+
+It was a bold move.
