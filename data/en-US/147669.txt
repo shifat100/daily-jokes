@@ -1,0 +1,6 @@
+Hey ! This is the Library!
+Guy in a library walks up to the librarian and says, “I’ll have a cheeseburger and fries, please.”
+
+Librarian responds, “Sir, you know you’re in a library, right?”
+
+Guy says, “Oh, sorry. [in a whisper] I’ll have a cheeseburger and fries, please.”
