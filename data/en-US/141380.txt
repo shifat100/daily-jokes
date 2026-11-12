@@ -1,0 +1,22 @@
+Women = Problems
+To find a woman you need **time** and **money**
+
+Woman = Time x Money
+
+**"Time is Money"**
+
+Time = Money
+
+Therefore:
+
+Woman = Money x Money
+
+Woman = (Money)^2
+
+**"Money is the root of all problems"**
+
+Money = √Problems
+
+Therefore Woman = (√Problems)^2
+
+**Woman = Problems**
