@@ -1,0 +1,2 @@
+On average, how many books can you put in an empty backpack?
+One. After that it's no longer empty
