@@ -1,0 +1,20 @@
+There are 10 types of people in this world
+• those who understand binary
+
+• those that don't
+
+• those that repost ternary jokes
+
+• those that were hoping for a quaternary joke
+
+• those that expect these kinds of lists to be mutually exclusive
+
+• those that dont click on jokes they think they know the punchline to
+
+• those that still don't get binary jokes
+
+8 - those who are terrible at formatting
+
+• those that index from 0
+
+• ERROR: ArrayIndexOutOfBoundsException
