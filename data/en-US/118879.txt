@@ -1,0 +1,4 @@
+The doctor to the patient
+The doctor to the patient: 'You are very sick' 
+The patient to the doctor: 'Can I get a second opinion?' 
+The doctor again: 'Yes, you are very ugly too...'
