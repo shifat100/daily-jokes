@@ -1,0 +1,3 @@
+To Find and Replace the new /r/news sidebar terminology
+Find "Rule"
+Replace with "Shari'a Law"
