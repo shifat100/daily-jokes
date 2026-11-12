@@ -1,0 +1,3 @@
+The navigator of the Titanic dashed to the Captain's deck.
+Navigator: "Sir, if we keep heading that way we will hit the iceberg! We have to change course now!!"  
+Captain: "but it's unsinkable."

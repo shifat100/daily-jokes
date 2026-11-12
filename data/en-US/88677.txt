@@ -1,0 +1,1 @@
+I tried to open a .SJW file but it said I lacked the "Correct" privileges.
