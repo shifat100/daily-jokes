@@ -1,0 +1,36 @@
+New Windows Messages
+The following are new Windows messages that are under consideration for the Windows XP: 
+
+1. Enter any 11-digit prime number to continue. 
+
+2. Press any key to continue or any other key to quit. 
+
+3. Press any key except... no, No, NO, NOT THAT ONE! 
+
+4. Bad command or file name! Go stand in the corner. 
+
+5. This will end your Windows session. Do you want to play another game? 
+
+6. Windows message: "Error saving file! Format drive now? (Y/Y)" 
+
+7. This is a message from God Gates: "Rebooting the world. Please log off." 
+
+8. To "shut down" your system, type "WIN" 
+
+9. BREAKFAST.SYS halted... Cereal port not responding. 
+
+10. COFFEE.SYS missing... Insert cup in cup holder and press any key. 
+
+11. File not found. Should I fake it? (Y/N) 
+
+12. Runtime Error 6D at 417A:32CF: Incompetent User. 
+
+13. Error reading FAT record: Try the SKINNY one? (Y/N) 
+
+14. WinErr 16547: LPT1 not found. Use backup. (PENCIL & PAPER.SYS) 
+
+15. User Error: Replace user. 
+
+16. Windows VirusScan 1.0 - "Windows found: Remove it? (Y/N)" 
+
+17. Your hard drive has been scanned and all stolen software titles have been deleted. The police are on the way.
