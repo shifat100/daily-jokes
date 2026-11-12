@@ -1,0 +1,2 @@
+A cat can read the hands of a clock to know when it's nap time.
+It's nap time when the hours-hand is shorter than the minutes-hand.

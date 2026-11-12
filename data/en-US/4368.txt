@@ -1,0 +1,8 @@
+I bought a Lottery ticket today
+Sven: "Ollie I bought a Lottery ticket today."
+
+Ollie: "It looks like it has six numbers on it. 29, 4, 42, 11, 35, 36."
+ 
+Sven: "What are the odds?"
+
+Ollie: "29, 11, 35."
