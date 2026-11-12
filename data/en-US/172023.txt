@@ -1,0 +1,2 @@
+[Programming Joke] What method did SFML perform when the Human lost to the AI?
+Text.GetRect()

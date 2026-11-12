@@ -1,0 +1,4 @@
+How many philosophers does it take to...
+...change a light bulb?
+
+Define "light bulb".
