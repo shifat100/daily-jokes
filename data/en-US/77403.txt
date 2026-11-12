@@ -1,0 +1,2 @@
+Relationships are a lot like algebra.
+You look at X and try to figure out Y.

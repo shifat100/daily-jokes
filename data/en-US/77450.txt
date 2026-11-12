@@ -1,0 +1,29 @@
+Is There a Santa Claus? An Engineer's Perspective
+Author’s note: All numerical values, calculations and estimates are, of course, indubitably accurate.
+
+
+The first and foremost thing to take into account to properly begin the proof is the number of children Santa Claus must visit each Christmas. There are approximately two billion children (persons under 18) in the world. However, since Santa does not visit children of Muslim, Hindu, Jewish, Buddhist (except maybe in Japan) and other non-Christian religions, this reduces his customer base by 85%, or 378 million (according to the Population Reference Bureau). At an average (census) rate of 3.5 children per household, presuming there is at least one good child in each, that comes to 108 million homes.
+
+
+Santa has about 31 hours of Christmas to work with, thanks to the different time zones and the rotation of the Earth, assuming he travels east to west (which seems logical). This works out to 967.7 household visits per second.
+
+
+This is to say that for each house, Santa has a bit more than 1/1000th of a second to park the sleigh, hop out, jump down the chimney, fill the stockings, distribute the remaining presents under the tree, eat whatever snacks have been left for him, get back up the chimney, jump into the sleigh and arrive at the next house.
+
+
+Assuming that each of these 108 million stops is evenly distributed around the Earth (which, of course, we know to be false, but will accept for the purposes of our calculations), we are now talking about 0.78 miles between households – a total trip of 75.5 million miles (not counting bathroom stops or breaks). This means Santa’s sleigh is moving at 650 miles per second, or 3,000 times the speed of sound. For purposes of comparison, the fastest man-made vehicle, the Ulysses space probe, moves at a poky 27.4 miles per second, and a conventional reindeer can run 15 miles an hour at best.
+
+
+The payload of the sleigh adds another interesting element to our calculations. Assuming that each child gets nothing more than a two pound Lego set (medium sized), the sleigh is carrying over 500 thousand tons (not counting Santa himself, who is, by reputation, rather plump). On land, a conventional reindeer can pull no more than 300 pounds. Even granting that a “flying” reindeer could pull ten times this amount, the job couldn’t be done with eight or even nine of them: Santa would need 360,000 reindeer. This increases the payload, not counting the sleigh, another 54,000 tons, or roughly seven times the weight of the Queen Elizabeth (the ship, not the monarch).
+
+
+600,000 tons travelling at 650 miles per second creates enormous air resistance. This would heat up the reindeer in the same fashion as a spacecraft re-entering the Earth’s atmosphere. The lead pair of reindeer would each absorb 14.3 quintillion (14,300,000,000,000,000,000) joules of energy per second. In short, they would burst into flames almost instantaneously, exposing the reindeer behind them and creating deafening sonic booms in their wake. The entire reindeer team would be vaporized within 4.26 thousandths of a second. This would be right about the same time Santa reached the fifth house on his trip.
+
+
+Not that that matters, though, since Santa, as a result of accelerating from a dead stop to 650 m.p.s. in .001 seconds, would be subjected to acceleration forces of 17,500 g’s. A 250 pound Santa (which seems ludicrously slim) would be pinned to the back of the sleigh by 4,315,015 pounds of force, instantly crushing his bones and organs and reducing him to a quivering blob of pink goo.
+
+
+Therefore: If Santa ever did exist, he’s dead now.
+
+
+Merry Christmas!
