@@ -1,0 +1,10 @@
+Spider Webs
+There was once a young biologist who was researching the eating patterns of spiders. There wasn't much demand for biologists in his local area so he worked as a taxi driver by day, it was a steady job but there was long hours and pay wasn't very good. He spent his nights collecting spiders and bugs to put in a giant enclosure at his home.
+
+One day, he about a conference tomorrow for spider enthusiasts through a customer. The conference wanted to encourage a higher quality of participation, so they put location of the conference's location in a code for potential guests to decipher. There was even a novelty competition for to see who could create the most impressive spider webs with a big prize. When he told the customer of his passion for spiders, the customer happily gave him a copy of the a flyer with the coded location.
+
+When he got home that night, the young taxi driver quickly cracked the code and found the hidden location of the conference. He had many impressive spider in his spider enclosure, so he took several of them and stuck them to pieces of paper, hoping to keep them in tact for the competition. Unfortunately while he was doing so, some of his spiders and bugs escaped and covered his flyer with the decrypted location.
+
+When he awoke the next morning to go to the conference but he was so tired that he picked up the flyer without noticing that the page was covered in his specimens. He followed the address to the extent of his memory but eventually had to check the location. Unfortunately, the page was covered in spider webs and bugs, the bugs had eaten a portion of the page containing the locations. He went with his gut and took a wrong turn on a dead end road. The road soon ended abruptly with a cliff face but he didn't notice, because he was distracted browsing his spider webs to choose one for the competition. His car crashed into the cliff face and was badly hurt. 
+
+This was the first example of a web browser crashing due to buggy code on a webpage.

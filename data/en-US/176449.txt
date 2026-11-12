@@ -1,0 +1,32 @@
+Two calculus professors get together
+for lunch at a diner near campus.
+
+"What really frustrates me about our profession," says the first, "is that the average student, not to mention member of the general public, doesn't know the first thing about mathematics beyond the four basic operations, *if that*."
+
+"Well, now I'm not sure about that," says the second.
+
+"Come on, ask any student walking around to tell you something about general calculus!  At best, they'll tell you he was a Roman war hero.  Hang on, I'm going to go wash my hands."
+
+So as his colleague passes to the back of the diner, the second professor has a moment of inspiration, and gets the attention of their waitress.
+
+"Listen," he says to her, "I want to play a little joke on my friend.  When he comes back, I'm going to ask you a question, OK?"
+
+The waitress gives a confidante's smile and says, "Well what's the question going to be?"
+
+"Don't worry about that, just focus on remembering the correct answer.  It's one-half x-squared plus x.  Think you can remember that?"
+
+"I'll sure try," says the waitress.
+
+So the professor comes back from the washroom and as he sits down, his colleague says to him,
+
+"You know, I really think that you're being too pessimistic.  But what do you say we make a little wager and conduct an unscientific experiment.  I'll bet you that somebody here could correctly answer a basic calculus question."
+
+"Oh, you're on," says the professor, "I'll bet you $10 that nobody here gets it."
+
+"OK, well, how about we ask our waitress?  Something really basic, say, the integral of f(x)=x+1?"  So he gets the waitress's attention and says, "Say miss, my friend and I teach here at the University and were just wondering if you could do an integral for us.  Here it is, it's f(x)=x+1."
+
+"Hmm, let me see . . ." says the waitress.  "That'd be one-half x-squared plus x."
+
+The professor grins smugly as his colleague's jaw practically hits the table and his face betrays an utter disbelief.  The waitress turns back and says,
+
+"Ah, plus c."
