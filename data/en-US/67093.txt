@@ -1,0 +1,24 @@
+Choosing a password.
+-Cabbage
+
+-Password needs to be 8+ characters long.
+
+-Boiled Cabbage
+
+-Password cannot contain blank spaces
+
+-Boiledcabbage
+
+-Password cannot contain capitalized letters
+
+-boiledfuckingcabbage
+
+-The password must contain a number
+
+-50fuckingboiledcabbages
+
+-Password must contain a symbol
+
+-50fuckingboiledcabbageupyourassifyoudontgivemeaccessnow!
+
+-We're sorry, that password is already being used
