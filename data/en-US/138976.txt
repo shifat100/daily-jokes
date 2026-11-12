@@ -1,0 +1,2 @@
+What limitations does braille have? Can it represent everything that we read using the alphabet?
+Very limited fonts.
