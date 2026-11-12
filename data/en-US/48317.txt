@@ -1,0 +1,10 @@
+A QA tester walks into a bar...
+and orders 1 beers
+
+and orders 5 beers
+
+and orders 9999 beers
+
+and orders -1 beers
+
+and orders foobar beers
