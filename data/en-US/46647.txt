@@ -1,0 +1,5 @@
+Eating
+In a restaurant:
+-	What would you like to eat?
+-	I would prefer to read the menu first.
+-	If you want to read, go to the library.

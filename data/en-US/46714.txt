@@ -1,0 +1,36 @@
+Joke on the stackexchange website (You'll only understand it if you have asked queries on the stackexchange sites)
+I was trying to boil an egg and noticed some eggs cracking. So I posted the following question in the stackexchange (cooking) website 
+
+"how do you boil eggs without cracking them?"
+
+I got the following response comment with 0 answers:
+
+> Mod here. This is a cooking website and eggs cracking is not related to cooking. However, as an exception I will allow this question for you and lets see what responses we get. A little more details would be appreciated
+
+So I modified the question to "How do you boil an egg without cracking it? I'm using standard hen eggs that can be purchased at local egg shops.".
+
+> mod here. Please describe which species, texture and color.
+
+So I did some research and modified the question to "How do you boil an egg without cracking it? I'm using standard hen eggs that can be purchased at local egg shops. These are the white eggs from the white leghorn chicken".
+
+> Please mention how you're boiling it, which vessel, for how long, how much water.
+
+I now modified the question to "How do you boil an egg without cracking it? I'm using standard hen eggs that can be purchased at local egg shops. These are the white eggs from the white leghorn chicken. I'm boiling them in a kettle, with enough water to submerge the eggs. Have boiled them for around 8-10 minutes".
+
+> Mod here. It would be great if you could provide a link to the bird species and upload a screenshot for your kettle. Please ignore this if you don't think that this is necessary.
+
+I replied that I didn't think it was necessary.
+
+> Mod here. I have edited your question anyhow and provided a link for the hen's species. I have also added a generic image showing a kettle and the boiling egg and deleted all previous conversations.
+
+I replied "okay cool. It looks good so far. I hope someone replies to it".
+
+> Mod here.  This question has received 1 vote for closing as "too subjective". This question is too vast and cannot possibly be answered by anyone.
+
+Meanwhile my question already had a couple of upvotes and I received the following answer -  "Are you sure you didn't shake the egg before boiling it? Maybe you were trying to spin them to check whether they were boiled but in the process upset the albumen structure."
+
+That's it! I chose the answer as the right answer and marked my question as answered.
+
+> Mod here. This question has been closed as "too subjective" based on 5 votes. There is no way of answering this question. Please modify your question so that it's less subjective and it relates to the community.
+
+*I made up this joke on the stackexchange websites based on how strict their community is. When you try to ask a simple question then the mods keep trying to edit your question until it ends up closed for some reason or the other.*
