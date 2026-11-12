@@ -1,0 +1,6 @@
+Can you dig it?
+Linux admin: Incorrect command line arguments.
+
+dig [@server] [-b address] [-c class] [-f filename] [-k filename] [-m] [-p port#] [-t type] [-x addr] [-y name:key] [-4] [-6] [name] [type] [class] [queryopt...] 
+dig [-h] 
+dig [global-queryopt...] [query...]
