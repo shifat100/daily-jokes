@@ -1,0 +1,10 @@
+A Battleship...
+A Battleship is sailing along when its commander receives a signal: "You're heading for a collision with us; adjust your course by 20 degrees."
+
+The captain of the battleship doesn't want to, so he sends back "Adjust your course twenty degrees. I am a high-ranking officer and I suggest you do as I say."
+
+He receives back: "I am a seaman second-class. I strongly advise you adjust your course twenty degrees." 
+
+The captain is getting mad at this point, so he sends off: "I AM A BATTLESHIP!"
+
+A reply comes in: "I am a lighthouse."
