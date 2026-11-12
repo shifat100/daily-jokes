@@ -1,0 +1,4 @@
+There is 1 type of person in the world
+0. Those that program
+1. Those that don't
+2. NullPointerException
