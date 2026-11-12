@@ -1,0 +1,2 @@
+"Hello, is this the number for Japanese food?"
+"No, it's Chinese. Sorry, Wong number."
