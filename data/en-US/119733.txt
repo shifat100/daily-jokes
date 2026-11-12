@@ -1,0 +1,4 @@
+2 cats are trying to cross a river...
+The first cat is named "One Two Three", and the second cat is named "Un Deux Trois". Only 1 survives, which one? 
+
+One Two Three, because Un Deux Trois cat sank.

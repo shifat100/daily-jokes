@@ -1,0 +1,5 @@
+Albert, Issac, and Blaise are playing "hide and seek."
+Albert, Issac, and Blaise are playing "hide and seek."
+Albert closes his eyes and begins to count as Blaise takes off, running to hide. Issac stoops over and marks a square with sides exactly one meter long, then steps into it. Albert finishes the count, opens his eyes, and announces, "Pascal, I have found you!"
+
+Pa=N/m2

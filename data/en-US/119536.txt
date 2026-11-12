@@ -1,0 +1,14 @@
+3 Soldiers are training for the army
+3 Soldier are training for the army when their Commander ask each one of them the same question :
+
+Commander : "If you are being pursued by an helicopter and you are in the drivers seat of a Jeep, what do you do to escape the emminent attack ?"
+
+The first soldier answers :
+"Welp, I think I would hide under the Jeep."
+Commander respond : "Of course not ! They will shoot the Jeep and you'll blow up with it."
+
+The second soldiers answers : 
+"I would drive the Jeep in zig zags until I escape."
+The Commander respond : "No ! Not even close ! The helicopter will shot in the middle of the road and gonna' hit you."
+
+The last soldier answers : "I would go super fast until I reached an intersection and then I would try to put my flasher left and turn right."
