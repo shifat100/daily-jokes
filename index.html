@@ -13,7 +13,7 @@
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 <link rel="canonical" href="https://shifat100.github.io/daily-jokes/" id="canonicalUrl" />
 
-<!-- INLINE SVG FAVICON (Zero external dependency, crisp on all devices) -->
+<!-- INLINE SVG FAVICON -->
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230f172a'/%3E%3Cpath d='M9 18c1.8 3.5 5 5 7 5s5.2-1.5 7-5' stroke='%2338bdf8' stroke-width='2.4' stroke-linecap='round' fill='none'/%3E%3Ccircle cx='11' cy='12' r='2' fill='%23f8fafc'/%3E%3Ccircle cx='21' cy='12' r='2' fill='%23f8fafc'/%3E%3C/svg%3E" />
 
 <!-- OPEN GRAPH / FACEBOOK -->
@@ -30,7 +30,7 @@
 <meta name="twitter:title" content="Daily Jokes — Infinite Multi-Language Humor Feed" id="twTitle" />
 <meta name="twitter:description" content="Endless clean, bite-sized jokes across multiple languages." id="twDesc" />
 
-<!-- ADVANCED SCHEMA.ORG STRUCTURED DATA FOR SEARCH ENGINES -->
+<!-- ADVANCED SCHEMA.ORG STRUCTURED DATA -->
 <script type="application/ld+json" id="schemaData">
 {
   "@context": "https://schema.org",
@@ -104,6 +104,13 @@
     --shadow: 0 4px 14px rgba(0,0,0,0.4);
   }
 
+  /* User Preference Variables */
+  :root {
+    --joke-font-size: 1.15rem;
+    --joke-line-height: 1.85;
+    --joke-font-family: 'Lora', Georgia, serif;
+  }
+
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -129,14 +136,44 @@
   .brand-title { font-size: 1.05rem; font-weight: 700; letter-spacing: -.02em; }
 
   .header-controls { display: flex; align-items: center; gap: .5rem; }
-  .theme-box { display: flex; align-items: center; gap: .35rem; }
-  .theme-select {
-    padding: .35rem .6rem; border: 1px solid var(--border); border-radius: 8px;
-    background: var(--surface); color: var(--text); font: inherit; font-size: .75rem;
-    font-weight: 500; cursor: pointer; outline: none;
-  }
 
-  /* FIRST-TIMER RECOMMENDATION BANNER */
+  /* ============================================================
+     CUSTOM UI SELECT BOX
+     ============================================================ */
+  .custom-select {
+    position: relative; width: 125px; user-select: none;
+  }
+  .select-trigger {
+    padding: .4rem .7rem; border: 1px solid var(--border); border-radius: 8px;
+    background: var(--surface); color: var(--text); font-size: .8rem; font-weight: 500;
+    cursor: pointer; display: flex; align-items: center; justify-content: space-between;
+    transition: all .15s;
+  }
+  .select-trigger:hover { background: var(--surface-hover); border-color: var(--border-strong); }
+  .select-options {
+    position: absolute; top: calc(100% + 4px); right: 0; width: 100%;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+    box-shadow: var(--shadow); list-style: none; padding: .3rem; z-index: 200;
+    display: none; flex-direction: column; gap: .2rem;
+  }
+  .custom-select.open .select-options { display: flex; animation: fadeIn .15s ease; }
+  .custom-option {
+    padding: .35rem .6rem; border-radius: 6px; font-size: .78rem; font-weight: 500;
+    color: var(--text-secondary); cursor: pointer; display: flex; align-items: center;
+    gap: .4rem; transition: all .12s;
+  }
+  .custom-option:hover { background: var(--surface-hover); color: var(--text); }
+  .custom-option.selected { background: var(--accent-bg); color: var(--accent); font-weight: 600; }
+
+  /* SETTINGS BUTTON */
+  .settings-btn {
+    width: 32px; height: 32px; border: 1px solid var(--border); background: var(--surface);
+    border-radius: 8px; cursor: pointer; display: flex; align-items: center; justify-content: center;
+    color: var(--text-secondary); transition: all .15s;
+  }
+  .settings-btn:hover { background: var(--surface-hover); color: var(--text); }
+
+  /* RECOMMENDATION BANNER */
   .rec-banner {
     background: var(--accent-bg); border-bottom: 1px solid var(--border);
     padding: .75rem 1.25rem; display: none; align-items: center; justify-content: center;
@@ -151,7 +188,7 @@
   .rec-btn-primary { background: var(--accent); color: #fff; }
   .rec-btn-dismiss { background: transparent; color: var(--text-muted); }
 
-  /* TOOLBAR (SEARCH + LANGUAGE CHIPS) */
+  /* TOOLBAR */
   .toolbar {
     max-width: 820px; width: 100%; margin: 1.25rem auto 0; padding: 0 1.25rem;
     display: flex; flex-direction: column; gap: .75rem;
@@ -183,7 +220,7 @@
   .lang-chip.active { background: var(--text); color: var(--surface); border-color: var(--text); }
   .lang-chip svg { flex-shrink: 0; }
 
-  /* FEED CONTAINER */
+  /* FEED */
   .feed {
     max-width: 820px; width: 100%; margin: 1rem auto; padding: 0 1.25rem 4rem;
     display: flex; flex-direction: column; gap: 1.25rem; flex: 1;
@@ -207,14 +244,15 @@
   .icon-btn {
     width: 32px; height: 32px; border: 1px solid var(--border); background: var(--surface);
     border-radius: 8px; cursor: pointer; display: flex; align-items: center; justify-content: center;
-    color: var(--text-secondary); transition: all .15s;
+    color: var(--text-secondary); transition: all .15s; position: relative;
   }
   .icon-btn:hover { background: var(--surface-hover); color: var(--text); }
   .icon-btn.copied { color: var(--success); border-color: var(--success); background: var(--success-bg); }
 
   .joke-text {
-    font-family: 'Lora', Georgia, serif; font-size: 1.15rem; line-height: 1.8;
-    color: var(--text); white-space: pre-wrap; word-break: break-word;
+    font-family: var(--joke-font-family); font-size: var(--joke-font-size);
+    line-height: var(--joke-line-height); color: var(--text);
+    white-space: pre-wrap; word-break: break-word; transition: font-size .2s ease;
   }
   .highlight { background: #fef08a; color: #1c1917; padding: 0 3px; border-radius: 3px; }
 
@@ -243,6 +281,41 @@
   .fab-top.visible { display: flex; }
   .fab-top:hover { transform: scale(1.08); }
 
+  /* TOAST NOTIFICATION */
+  .toast {
+    position: fixed; bottom: 25px; left: 50%; transform: translateX(-50%) translateY(30px);
+    background: var(--text); color: var(--surface); padding: .55rem 1.15rem; border-radius: 999px;
+    font-size: .8rem; font-weight: 500; box-shadow: var(--shadow); opacity: 0;
+    pointer-events: none; transition: all .25s ease; z-index: 300;
+  }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  /* SETTINGS MODAL */
+  .modal-overlay {
+    position: fixed; inset: 0; background: rgba(0,0,0,0.4); backdrop-filter: blur(3px);
+    z-index: 250; display: none; align-items: center; justify-content: center;
+  }
+  .modal-overlay.open { display: flex; }
+  .settings-modal {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 16px;
+    width: 340px; max-width: 90vw; padding: 1.5rem; box-shadow: var(--shadow);
+    display: flex; flex-direction: column; gap: 1.25rem; animation: fadeIn .2s ease;
+  }
+  .modal-header { display: flex; align-items: center; justify-content: space-between; }
+  .modal-header h3 { font-size: 1rem; font-weight: 600; }
+  .close-btn { background: none; border: none; color: var(--text-muted); cursor: pointer; }
+  .close-btn:hover { color: var(--text); }
+  .setting-group { display: flex; flex-direction: column; gap: .45rem; }
+  .setting-group label { font-size: .75rem; font-weight: 600; text-transform: uppercase; color: var(--text-muted); }
+  .btn-group { display: flex; gap: .35rem; }
+  .btn-choice {
+    flex: 1; padding: .45rem .6rem; border: 1px solid var(--border); background: var(--surface);
+    border-radius: 8px; font-size: .78rem; font-weight: 500; color: var(--text-secondary);
+    cursor: pointer; text-align: center; transition: all .15s;
+  }
+  .btn-choice:hover { background: var(--surface-hover); color: var(--text); }
+  .btn-choice.active { background: var(--text); color: var(--surface); border-color: var(--text); }
+
   /* FOOTER */
   .footer {
     margin-top: auto; border-top: 1px solid var(--border); background: var(--surface);
@@ -259,7 +332,6 @@
   <div class="header-inner">
     <a href="./" class="brand">
       <div class="brand-icon">
-        <!-- SVG Smile / Laugh Icon -->
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
           <circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/>
         </svg>
@@ -268,18 +340,24 @@
     </a>
 
     <div class="header-controls">
-      <div class="theme-box">
-        <!-- SVG Theme Icon -->
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--text-muted);">
-          <circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
-        </svg>
-        <select class="theme-select" id="themeSelect" aria-label="Select Theme">
-          <option value="light">Light</option>
-          <option value="dark">Dark</option>
-          <option value="sepia">Sepia</option>
-          <option value="midnight">Midnight</option>
-        </select>
+      <!-- CUSTOM UI THEME SELECTOR -->
+      <div class="custom-select" id="themeCustomSelect">
+        <div class="select-trigger" id="selectTrigger">
+          <span id="selectedThemeText">Light</span>
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </div>
+        <ul class="select-options">
+          <li class="custom-option" data-value="light">Light</li>
+          <li class="custom-option" data-value="dark">Dark</li>
+          <li class="custom-option" data-value="sepia">Sepia</li>
+          <li class="custom-option" data-value="midnight">Midnight</li>
+        </ul>
       </div>
+
+      <!-- SETTINGS BUTTON -->
+      <button class="settings-btn" id="openSettingsBtn" title="Reading Preferences" aria-label="Settings">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.6 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.6a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+      </button>
     </div>
   </div>
 </header>
@@ -288,7 +366,7 @@
 <aside class="rec-banner" id="recBanner">
   <div class="rec-banner-content">
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--accent);">
-      <circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+      <circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1 4-10z"/>
     </svg>
     <span id="recText">We detected your language preference. Would you like to read jokes in your language?</span>
   </div>
@@ -301,7 +379,6 @@
 <!-- TOOLBAR (Search + Language Chips) -->
 <div class="toolbar">
   <div class="search-wrap">
-    <!-- SVG Search Icon -->
     <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
       <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
     </svg>
@@ -313,7 +390,6 @@
 
 <!-- CONTINUOUS JOKE FEED -->
 <main class="feed" id="feedContainer">
-  <!-- Semantic Crawler Fallback Content for SEO -->
   <article class="joke-card">
     <div class="card-top">
       <span class="lang-badge">
@@ -332,6 +408,40 @@
   </svg>
 </button>
 
+<!-- TOAST MESSAGE -->
+<div class="toast" id="toast">Direct SEO link copied!</div>
+
+<!-- SETTINGS PREFERENCES MODAL -->
+<div class="modal-overlay" id="settingsModal">
+  <div class="settings-modal">
+    <div class="modal-header">
+      <h3>Reading Preferences</h3>
+      <button class="close-btn" id="closeSettingsBtn" aria-label="Close">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+
+    <!-- Font Size -->
+    <div class="setting-group">
+      <label>Font Size</label>
+      <div class="btn-group" id="fontSizeGroup">
+        <button class="btn-choice" data-size="1rem">Normal</button>
+        <button class="btn-choice active" data-size="1.15rem">Large</button>
+        <button class="btn-choice" data-size="1.3rem">Huge</button>
+      </div>
+    </div>
+
+    <!-- Font Family -->
+    <div class="setting-group">
+      <label>Reading Font</label>
+      <div class="btn-group" id="fontFamilyGroup">
+        <button class="btn-choice active" data-font="'Lora', Georgia, serif">Classic Serif</button>
+        <button class="btn-choice" data-font="'Inter', sans-serif">Modern Sans</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <footer class="footer">
   <p>© <span id="currentYear">2026</span> <a href="https://shifat100.github.io/daily-jokes/">Daily Jokes</a>. Endless clean humor feed.</p>
 </footer>
@@ -344,17 +454,15 @@
   const BRANCH = "main";
   const DATA_ROOT = "data";
   const BATCH_SIZE = 8;
-  const SITE_URL = "https://shifat100.github.io/daily-jokes/";
+  const BASE_URL = "https://shifat100.github.io/daily-jokes";
 
-  // Clean English Display Names
   const LANG_NAMES = {
     "en": "English", "bn": "Bengali", "hi": "Hindi", "ar": "Arabic",
     "es": "Spanish", "fr": "French", "de": "German", "ja": "Japanese",
     "zh": "Chinese", "ru": "Russian", "pt": "Portuguese", "ur": "Urdu"
   };
 
-  // Reusable inline SVG globe string for language chips
-  const SVG_GLOBE = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>`;
+  const SVG_GLOBE = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1 4-10z"/></svg>`;
 
   // ============================================================
   // APP STATE
@@ -370,23 +478,91 @@
   const feedContainer = document.getElementById("feedContainer");
   const langTabs = document.getElementById("langTabs");
   const searchBox = document.getElementById("searchBox");
-  const themeSelect = document.getElementById("themeSelect");
   const recBanner = document.getElementById("recBanner");
   const scrollTopBtn = document.getElementById("scrollTopBtn");
+  const toast = document.getElementById("toast");
 
   document.getElementById("currentYear").textContent = new Date().getFullYear();
 
-  // ============================================================
-  // THEME MANAGEMENT
-  // ============================================================
-  const savedTheme = localStorage.getItem("jokes_theme") || "light";
-  document.documentElement.setAttribute("data-theme", savedTheme);
-  themeSelect.value = savedTheme;
+  function showToast(msg) {
+    toast.textContent = msg;
+    toast.classList.add("show");
+    setTimeout(() => toast.classList.remove("show"), 2000);
+  }
 
-  themeSelect.addEventListener("change", (e) => {
-    const val = e.target.value;
-    document.documentElement.setAttribute("data-theme", val);
-    localStorage.setItem("jokes_theme", val);
+  // ============================================================
+  // CUSTOM UI SELECT BOX (THEME SWITCHER)
+  // ============================================================
+  const themeCustomSelect = document.getElementById("themeCustomSelect");
+  const selectTrigger = document.getElementById("selectTrigger");
+  const selectedThemeText = document.getElementById("selectedThemeText");
+  const savedTheme = localStorage.getItem("jokes_theme") || "light";
+
+  function applyTheme(theme) {
+    document.documentElement.setAttribute("data-theme", theme);
+    localStorage.setItem("jokes_theme", theme);
+    selectedThemeText.textContent = theme.charAt(0).toUpperCase() + theme.slice(1);
+
+    document.querySelectorAll(".custom-option").forEach(opt => {
+      opt.classList.toggle("selected", opt.dataset.value === theme);
+    });
+  }
+
+  applyTheme(savedTheme);
+
+  selectTrigger.addEventListener("click", (e) => {
+    e.stopPropagation();
+    themeCustomSelect.classList.toggle("open");
+  });
+
+  document.querySelectorAll(".custom-option").forEach(opt => {
+    opt.addEventListener("click", () => {
+      applyTheme(opt.dataset.value);
+      themeCustomSelect.classList.remove("open");
+    });
+  });
+
+  document.addEventListener("click", () => themeCustomSelect.classList.remove("open"));
+
+  // ============================================================
+  // UI PREFERENCES MODAL
+  // ============================================================
+  const settingsModal = document.getElementById("settingsModal");
+  const openSettingsBtn = document.getElementById("openSettingsBtn");
+  const closeSettingsBtn = document.getElementById("closeSettingsBtn");
+
+  openSettingsBtn.addEventListener("click", () => settingsModal.classList.add("open"));
+  closeSettingsBtn.addEventListener("click", () => settingsModal.classList.remove("open"));
+  settingsModal.addEventListener("click", (e) => {
+    if (e.target === settingsModal) settingsModal.classList.remove("open");
+  });
+
+  // Load Saved Preferences
+  const savedFontSize = localStorage.getItem("pref_font_size") || "1.15rem";
+  const savedFontFamily = localStorage.getItem("pref_font_family") || "'Lora', Georgia, serif";
+
+  document.documentElement.style.setProperty("--joke-font-size", savedFontSize);
+  document.documentElement.style.setProperty("--joke-font-family", savedFontFamily);
+
+  // Set active state on load
+  document.querySelectorAll("#fontSizeGroup .btn-choice").forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.size === savedFontSize);
+    btn.addEventListener("click", () => {
+      document.querySelectorAll("#fontSizeGroup .btn-choice").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      document.documentElement.style.setProperty("--joke-font-size", btn.dataset.size);
+      localStorage.setItem("pref_font_size", btn.dataset.size);
+    });
+  });
+
+  document.querySelectorAll("#fontFamilyGroup .btn-choice").forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.font === savedFontFamily);
+    btn.addEventListener("click", () => {
+      document.querySelectorAll("#fontFamilyGroup .btn-choice").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      document.documentElement.style.setProperty("--joke-font-family", btn.dataset.font);
+      localStorage.setItem("pref_font_family", btn.dataset.font);
+    });
   });
 
   // ============================================================
@@ -431,7 +607,7 @@
     setM('#twTitle', "content", title);
     setM('#twDesc', "content", desc);
 
-    const shareUrl = `${SITE_URL}?lang=${currentLang}`;
+    const shareUrl = `${BASE_URL}/?lang=${currentLang}`;
     setM('#canonicalUrl', "href", shareUrl);
     setM('#ogUrl', "content", shareUrl);
 
@@ -597,7 +773,7 @@
         if (!res.ok) return null;
         const raw = await res.text();
         const body = stripMeta(raw);
-        return { id: file.name, body, raw };
+        return { id: file.name.replace(/\.txt$/i, ""), body, raw };
       } catch {
         return null;
       }
@@ -610,7 +786,7 @@
   }
 
   // ============================================================
-  // RENDER JOKES (100% SVG ICONS)
+  // RENDER JOKES (DIRECT SEO LINK COPYING)
   // ============================================================
   function appendJokesToDOM(jokesList) {
     if (!jokesList.length && !feedContainer.children.length) {
@@ -628,6 +804,9 @@
     card.className = "joke-card";
     card.dataset.id = joke.id;
 
+    // DIRECT STATIC SEO URL: https://shifat100.github.io/daily-jokes/lang/{lang}/{id}.html
+    const directSeoLink = `${BASE_URL}/lang/${currentLang}/${joke.id}.html`;
+
     let displayBody = esc(joke.body);
     if (activeSearchQuery) {
       const regex = new RegExp(`(${activeSearchQuery})`, "gi");
@@ -641,17 +820,18 @@
           ${esc(getLangLabel(currentLang))}
         </span>
         <div class="card-actions">
-          <!-- SVG Copy Icon -->
-          <button class="icon-btn copy-btn" title="Copy Joke" aria-label="Copy Joke">
+          <!-- Copy Text Button -->
+          <button class="icon-btn copy-text-btn" title="Copy Joke Text" aria-label="Copy Joke Text">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
             </svg>
           </button>
-          <!-- SVG Share Icon -->
-          <button class="icon-btn share-btn" title="Share Joke" aria-label="Share Joke">
+
+          <!-- Direct Link Copy Button -->
+          <button class="icon-btn copy-link-btn" title="Copy Direct Page Link" aria-label="Copy Direct Page Link">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-              <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+              <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+              <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
             </svg>
           </button>
         </div>
@@ -659,29 +839,24 @@
       <p class="joke-text">${displayBody}</p>
     `;
 
-    // Copy Action with SVG Checkmark
-    const copyBtn = card.querySelector(".copy-btn");
-    copyBtn.onclick = () => {
+    // 1. Copy Joke Text Handler
+    const copyTextBtn = card.querySelector(".copy-text-btn");
+    copyTextBtn.onclick = () => {
       navigator.clipboard.writeText(joke.body).then(() => {
-        copyBtn.classList.add("copied");
-        copyBtn.innerHTML = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>`;
-        setTimeout(() => {
-          copyBtn.classList.remove("copied");
-          copyBtn.innerHTML = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>`;
-        }, 1500);
+        copyTextBtn.classList.add("copied");
+        showToast("Joke text copied!");
+        setTimeout(() => copyTextBtn.classList.remove("copied"), 1500);
       });
     };
 
-    // Share Action
-    const shareBtn = card.querySelector(".share-btn");
-    shareBtn.onclick = () => {
-      const shareText = `${joke.body}\n\nRead more at: ${SITE_URL}`;
-      if (navigator.share) {
-        navigator.share({ title: "Daily Joke", text: shareText, url: SITE_URL }).catch(() => {});
-      } else {
-        navigator.clipboard.writeText(shareText);
-        alert("Joke copied to clipboard with website link!");
-      }
+    // 2. Direct SEO Link Copy Handler (https://shifat100.github.io/daily-jokes/lang/{lang}/{id}.html)
+    const copyLinkBtn = card.querySelector(".copy-link-btn");
+    copyLinkBtn.onclick = () => {
+      navigator.clipboard.writeText(directSeoLink).then(() => {
+        copyLinkBtn.classList.add("copied");
+        showToast("Direct SEO Link copied!");
+        setTimeout(() => copyLinkBtn.classList.remove("copied"), 1500);
+      });
     };
 
     return card;
