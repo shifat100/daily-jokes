@@ -1,0 +1,2 @@
+What happens when you cross a mountain climber with a mosquito?
+Nothing, you can't cross a vector with a scaler.

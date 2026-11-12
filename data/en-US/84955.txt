@@ -1,0 +1,2 @@
+Why did the programmer get a job working with big data when his wife died?
+He just needed a little bit of Clojure.
