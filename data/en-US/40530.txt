@@ -1,0 +1,2 @@
+Coworker1: Yes! I found the bug that was inserting 'A' into all my messages.
+Coworker2: Eh? Was it Canadian?

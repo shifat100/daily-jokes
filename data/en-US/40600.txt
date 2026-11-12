@@ -1,0 +1,8 @@
+Programming Problems
+Two programmers are in an office block, conversing about their projects.
+
+"So, what's the language that you're going to be using?"
+
+"Ruby."
+
+"Well, I really hope you guys don't get derailed midway."
