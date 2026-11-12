@@ -1,0 +1,12 @@
+Noob calls tech support about partitioning a hard drive
+noob: So I'm at the partitioning screen what do I do now? 
+
+Tech support: Create a new MBR from the drop down box .
+
+noob: So what does MBR stand for? 
+
+Tech support: Master Boot Record 
+
+noob: what's a "master boot"? 
+
+Tech support: what your single car does while you're not looking.

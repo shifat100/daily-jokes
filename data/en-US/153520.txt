@@ -1,0 +1,2 @@
+Do you know that opening windows make the wifi slower.
+It's because the wifi signal goes out the window.
