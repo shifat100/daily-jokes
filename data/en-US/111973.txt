@@ -1,0 +1,10 @@
+So there’s a far-off place that consists of a perfectly triangular lake surrounded by land, with three kingdoms on the three sides...
+So there’s a far-off place that consists of a perfectly triangular lake surrounded by land, with three kingdoms on the three sides of the lake. The first kingdom is rich and powerful, filled with wealthy, prosperous people. The second kingdom is more humble, but has its fair share of wealth and power, too. The third kingdom is struggling and poor, and barely has an army.
+
+The kingdoms eventually go to war over control of the lake, as it’s a valuable resource to have. The first kingdom sends 100 of their finest knights, clad in the best armor and each with their own personal squire. The second kingdom sends 50 of their knights, with fine leather armor and a few dozen squires of their own. The third kingdom sends their one and only knight, an elderly warrior who has long since passed his prime, with his own personal squire.
+
+The night before the big battle, the knights in the first kingdom drink and make merry, partying into the late hours of the night. The knights in the second kingdom aren’t as well off, but have their own supply of grog and also drink late into the night. In the third camp, the faithful squire gets a rope and slings it over the branch of a tall tree, making a noose, and hangs a pot from it. He fills the pot with stew and has a humble dinner with the old knight.
+
+The next morning, the knights in the first two kingdoms are hung over and unable to fight, while the knight in the third kingdom is old and weary, unable to get up. In place of the knights, the squires from all three kingdoms go and fight. The battle lasts long into the night, but by the time the dust settled, only one squire was left standing - the squire from the third kingdom.
+
+..and it just goes to show you that the squire of the high pot and noose is equal to the sum of the squires of the other two sides.

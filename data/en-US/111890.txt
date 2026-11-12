@@ -1,0 +1,4 @@
+What do you get when you cross a Rat and a Mountain Climber?
+Nothing, you can't cross a vector by a scalar.
+
+EDIT: changed multiply to cross.
