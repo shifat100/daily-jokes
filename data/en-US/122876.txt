@@ -1,0 +1,2 @@
+[Meta] Can we get length of joke flair similar to /r/TIFU
+Is it possible to implement flair beside every joke that indicates the length of the jokes? /r/tifu has something to indicate this.  Personally, I like reading longer jokes and I find myself skimming through and ignoring a lot of titles that begin with "What do you" "Who" "Why does a" etc.  But even then I still end up clicking on short puns and such.
