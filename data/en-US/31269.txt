@@ -1,0 +1,10 @@
+ln(x) is hosting a calculus party....
+and all the functions are invited. Some of them are radical, at least 1/3 of them are rational, and like all parties, there are a few odd ones talking to their imaginary friends. Amidst all of this revelry, ln(x) is talking to some trig functions, when he sees his friend e^x sulking in a corner.
+
+ln(x): "What's wrong e^x?"
+
+e^x: "I'm so lonely!"
+
+ln(x): "Well, you should go integrate yourself into the crowd!"
+
+e^x looks up and cries, "It won't make a difference!"
