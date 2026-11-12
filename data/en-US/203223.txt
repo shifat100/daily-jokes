@@ -1,0 +1,2 @@
+What is Laziness?
+This is laziness!

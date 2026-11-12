@@ -1,0 +1,70 @@
+Girlfriend 1.0
+Dear Bob in Tech Support,
+
+
+
+I'm currently running the latest version of GirlFriend and I've been having some problems lately. I've been running the same version of DrinkingBuddies 1.0 forever, as my primary application, and all the GirlFriend releases I've
+
+tried have always conflicted with it.
+
+
+
+I hear that DrinkingBuddies won't crash if GirlFriend is run in background mode and the sound is turned off, but I'm embarrassed to say I can't find the switch to turn the sound off. I just run them separately, and it works
+
+okay. GirlFriend also seems to have a problem co-existing with my Leisure 3.1 and QuietTime programs, often trying to abort them with some sort of timing incompatibility.
+
+
+
+I probably should have stayed with GirlFriend 1.0, but I thought I might see better performance from GirlFriend 2.0. After months of conflicts and other problems, I consulted a friend who has had experience with GirlFriend 2.0. He said I probably didn't have enough cache to run GirlFriend 2.0, and eventually it would require a Token Ring to run properly. He was right - as soon as I purged my cache, it uninstalled itself.
+
+
+
+Shortly after that, I installed GirlFriend 3.0 beta. All the bugs were supposed to be gone, but the first time I used it, it gave me a virus anyway. I had to clean out my whole system and shut down for a while to re-check my hardware.
+
+
+
+I very cautiously upgraded to GirlFriend 4.0. This time I used a SCSI probe first and also installed a virus protection program. It worked okay for a while, until I discovered that GirlFriend 1.0 was still in my system. I
+
+tried running GirlFriend 1.0 again with GirlFriend 4.0 still installed, but GirlFriend 4.0 has a "feature" I didn't know about that automatically detects the presence of any other version of GirlFriend and communicates with it in the background in some way, which results in the immediate removal of both versions.
+
+
+
+The version I have now works pretty well, but there are still some problems. Like all versions of GirlFriend, it is written in some obscure language I can't understand, much less reprogram. Frankly I think there is too much attention paid to the look and feel rather than the desired functionality. Also, to get the best connections with your hardware, you usually have to use gold-plated contacts, which is very expensive. And I've never liked how GirlFriend is totally "object-oriented", as that interface is sometimes cumbersome and even counter-intuitive.
+
+
+
+A year ago, a friend of mine upgraded his version of GirlFriend to GirlFriendPlus 1.1, which is a Terminate and Stay Resident version of GirlFriend. To his dismay, however, he discovered that GirlFriendPlus 1.1 expires within a year of the upgrade, if you don't upgrade AGAIN to Fiancee 1.0. So he did, but soon after that, he had to upgrade YET AGAIN to Wife 1.0, which he describes as a HUGE resource hog.
+
+
+
+It has taken up all his space, so he can't load anything else. In fact, it has even automatically deleted several of his other programs to make room for itself, not the least of which was DrinkingBuddies 1.0, which used to be one of his favorite applications, as well. This is particularly disturbing to me, as we used to run DrinkingBuddies 1.0 on a network with several of our mutual friends, and now he can't even connect any more!
+
+
+
+He told me that one of the primary reasons he decided to go with Wife 1.0 was because it came bundled with FreeSexPlus, which sounded great. Well, it turns out the resource allocation module of Wife 1.0 sometimes inexplicably
+
+prohibits access to FreeSexPlus, particularly when he starts the new Plug-Ins he wanted to try. Also, for no apparent reason, the OralSex 1.0 module that worked fine in his previous versions of GirlFriendPlus and Fiancee, stopped working the instant the upgrade to Wife 1.0 finished
+
+installing.
+
+
+
+On top of that, Wife 1.0 must be running on a well warmed-up system before he can do anything with the FreeSexPlus module. This warming up process requires him to run an antiquated version of ForePlay Beta, which has an
+
+agonizingly slow interface, and which has an unfortunate tendency to crash, requiring a cold reboot to his system. The real insult to injury however, is that even though he did not ask for it, Wife 1.0 came embedded with MotherInLaw 2.0, which has an irritating automatic pop-up feature he can't turn off.
+
+
+
+I told him to try installing Mistress 1.0 (which I had heard works great in such situations), but he said he heard if you try to run it without first uninstalling Wife 1.0, Wife 1.0 will delete all of your MSMoney files before doing an uninstall of itself; then Mistress 1.0 won't install anyway because of insufficient resources.
+
+
+
+Please help me Bob, I don't know what to do. Since the initial release, I have had nothing but problems.
+
+
+
+I've heard that I would really like the CoolGirlFriend 1.0 Deluxe Upgrade (which is supposed to come bundled with a completely functioning version of FreeSexDeluxe), but that release is no where to be found - not even the Beta version! That release is also supposed to come with its own resource management module seamlessly layered in, so it won't conflict with any of my other programs (barring previous versions of GirlFriend, which I would happily delete!).
+
+
+
+Please advise.

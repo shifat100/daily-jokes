@@ -1,0 +1,14 @@
+Password Stars
+A blond employee calls the Help Desk to complain that there's something wrong with her password. 
+
+
+
+"The problem is that whenever I type the password, it just shows stars," she says. 
+
+
+
+"Those asterisks are to protect you," the Help Desk technician explains, "so if someone were standing behind you, they wouldn't be able to read your password." 
+
+
+
+"Yeah," she says, "but they show up even when there is no one standing behind me!"

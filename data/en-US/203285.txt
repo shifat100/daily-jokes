@@ -1,0 +1,2 @@
+Log Files
+We use IP addresses and browser type to analyze trends and administer the site. We do not do reverse DNS lookups, so IP addresses are not linked to personally identifiable information.
