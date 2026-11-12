@@ -1,0 +1,8 @@
+The Engineer and the Red Rubber Ball
+A mathematician, a physicist, and an engineer were all given a red rubber ball and told to find the volume.
+
+The mathematician carefully measured the diameter and evaluated a triple integral.
+
+The physicist filled a beaker with water, put the ball in the water, and measured the total displacement.
+
+The engineer looked up the model and serial numbers in his red-rubber-ball table.
