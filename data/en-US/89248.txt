@@ -1,0 +1,2 @@
+[meta] New mobile site is great for /r/jokes
+The new format of the mobile site http://m.reddit.com/r/jokes shows post titles along with a preview of the post details, meaning you can read the one liners without entering the post.

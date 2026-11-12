@@ -1,0 +1,3 @@
+Teacher: "Answer this math problem: if your father earns
+Teacher: "Answer this math problem: if your father earns $500 a week and gives half to your mother. What will he have?" 
+Student: "A heart attack."

@@ -1,0 +1,2 @@
+Why do some people think Python scripting is offensive?
+Because white space matters. hehee

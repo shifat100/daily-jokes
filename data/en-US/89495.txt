@@ -1,0 +1,4 @@
+A judge condemns a prisoner to a surprise execution that will take place at 11:59 PM on either Monday, Tuesday, Wednesday, Thursday, or Friday.
+The prisoner concludes that he won't be executed on Friday, since that wouldn't be a surprise.  Then he realizes that, with Friday eliminated, the latest he could be executed would be Thusday, which would mean that if he made it to Thursday evening, then an execution at that time wouldn't be surprising either.  He then realizes that the same logic applies to Wednesday, Tuesday, and Monday as well.  He concludes happily that he can't be executed at all.
+
+On Thursday at 11:59 PM, the prisoner was executed, which naturally came as a complete surprise to him.
