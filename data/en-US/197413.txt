@@ -1,0 +1,8 @@
+Q: How many mathematicians does it ...
+Q: How many mathematicians does it take to screw in a light bulb?
+    A: One. He gives it to six Californians, thereby reducing the problem to an earlier joke...
+    In earlier work, Wiener [1] has shown that one mathematician can change a light bulb.
+    If k mathematicians can change a light bulb, and if one more simply watches them do it, then k+1 mathematicians will have changed the light bulb.
+    Therefore, by induction, for all n in the positive integers, n mathematicians can change a light bulb.
+    Bibliography:
+    [1] Wiener, Matthew P., [email protected]

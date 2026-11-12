@@ -1,0 +1,6 @@
+Q: How many data base people does i...
+Q: How many data base people does it take to change a light bulb?
+A: Three:
+    One to write the light bulb removal program,
+    one to write the light bulb insertion program, and
+    one to act as a light bulb administrator to make sure nobody else tries to change the light bulb at the same time.
