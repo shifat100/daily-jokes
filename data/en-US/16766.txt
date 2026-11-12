@@ -1,0 +1,2 @@
+Our maths teacher told us that sin(x) is equal to x+x³ /3!+.... Someone asked how its derived.
+cos(x)
