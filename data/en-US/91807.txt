@@ -1,0 +1,5 @@
+M R ducks
+M R ducks.
+M R not ducks.
+O S A R, C D E D B D wings?
+L I B, M R ducks.

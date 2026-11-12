@@ -1,0 +1,4 @@
+A cop stops an electron for speeding.
+He says "Did you know you were going 100 mph?"
+
+"Great", says the electron, "now I'm lost!"

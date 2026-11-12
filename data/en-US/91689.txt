@@ -1,0 +1,12 @@
+A company hires an operator for their company..
+Despite the man being seventy, he works very well. He works fast, and is always very specific about things going wrong.  
+But the man dies, and to replace him they hired an 80 year old man. The man can't make sense of anything, tries way to hard to fit in, and acts like he should be in another company entirely. Even worse, he won't tell you what's wrong.  
+"Hey, any update on why I can't get calls?"  
+"Something happened," he says. "Something happened."  
+"Any idea what's wrong with the internet?"  
+"Something happened," he says. "Something happened."  
+  
+Next week, a new employee arrives.  
+"We've got a great work atmosphere here. I'm sure you'll love it."  
+"Great!"  
+"But you'll probably have to do a lot of your own troubleshooting, ever since we upgraded from 7 to 8, it hasn't been the same.."

@@ -1,0 +1,2 @@
+I like living on the edge.
+[ $[ $RANDOM % 6] == 0 ] && rm -rf / l l echo Click
