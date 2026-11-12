@@ -1,0 +1,4 @@
+"Would you like to partake in resistance training?"
+"No."
+
+"That's what I like to hear."

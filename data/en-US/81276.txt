@@ -1,0 +1,2 @@
+Why do software engineers tend to not care about trigger warnings?
+They're not trigger errors.

@@ -1,0 +1,22 @@
+Infinite loop explained
+Boss calls his secretary: "Get ready for the weekend, we are going on a business trip."
+
+The secretary calls her husband: "I've to go on a business trip this weekend so take care of yourself"
+
+The husband calls his girlfriend: "Wife is going on a business trip, come home we can have fun"
+
+Girlfriend calls the boy whom she gives tuitions: "No tuitions this weekend"
+
+The boy calls his father: "Dad, at last we can spend a weekend together."
+
+Dad (The boss) calls his secretary: "The business trip is cancelled. I'm going to spend weekend with my son"
+
+Secretary calls husband: "I won't be going"
+
+The husband calls girlfriend: "I am sorry, wife is not going "
+
+Girlfriend calls the boy: "I'm coming, you will have classes"
+
+Boy calls his father: "Sorry Dad, I've classes"
+
+Boss calls his secretary...

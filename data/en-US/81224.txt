@@ -1,0 +1,2 @@
+There are 2 light bulbs in a circuit. One day a strong current passes through bursting the first bulb.
+The bulbs friend was fine until he noticed that he was next. He realised that this was series
