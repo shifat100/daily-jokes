@@ -1,0 +1,2 @@
+[Original] Why do the majority of web programmers choose the PHP programming language over plain HTML?
+Because HTML is just HTML, but PHP has [HTML and Titties](http://php.net/manual/en/function.htmlentities.php)!
