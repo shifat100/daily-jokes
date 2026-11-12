@@ -1,0 +1,4 @@
+Cool
+"You certainly look cool."
+
+"Thanks, you don't look so hot yourself."

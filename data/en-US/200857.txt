@@ -1,0 +1,2 @@
+A Clock
+When a clock is hungry it goes back four seconds.
