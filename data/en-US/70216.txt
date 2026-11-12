@@ -1,0 +1,24 @@
+A guy walks into a bar with three ducks in a shopping bag.
+He sits down and proceeds to take each of the three ducks out of the bag and stand them on the bartop. Then he goes to the restroom. 
+
+The bartender sees this, and knowing he should mind his own business, can't help but introduce himself. The gets down to eye level with the first duck and says, "Hello there, little duck. What's your name?"
+
+^("The name's Huey.")
+
+"Pleased to meet you, Huey. How's your day?"
+
+^("Pretty good. We went to the park and we've been in and out of puddles all day.")
+
+"Oh, that's nice," says the bartender. He moves to the second duck and says, "And what's your name, little guy?"
+
+^("The name's Dewey.")
+
+"Well hello, Dewey. How's your day been?"
+
+^("Fine, just fine. Went to the park. Been in and out of puddles all day.") 
+
+"Well that sounds like great fun." The bartender looks to the last duck. "Let me guess. Your name is Louie, right?"
+
+The third duck looks up and says,
+ 
+^("No, dammit. The name's Puddles and I'm in no mood to talk about my day alright?!")
