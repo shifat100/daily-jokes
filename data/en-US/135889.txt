@@ -1,0 +1,15 @@
+Where is Jennifer's husband?
+Jennifer is 21 years older than her son Douglas. 6 years from now, Jennifer will be 5 times as old as Douglas.
+
+Question: Where is Jennifer's husband?
+
+----------------------------------------------------------
+
+Solution:
+
+J=D+21
+J+6=5(D+6)
+
+According to my math, Douglas has −3/4 years, which means -9 months. Pregnancy lasts for nine months, so Jennifer's husband is in the bed with her right now.
+
+Sauce: http://puzzling.stackexchange.com/questions/10542/where-is-jennifers-husband
