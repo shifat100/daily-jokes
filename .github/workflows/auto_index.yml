@@ -1,0 +1,33 @@
+name: Auto Index Jokes
+
+on:
+  push:
+    paths:
+      - 'data/**/*.txt'          # triggers ONLY when a .txt file is added/changed
+  schedule:
+    - cron: '0 18 * * *'         # daily safety run (12:00 AM BD time)
+  workflow_dispatch:              # manual "Run workflow" button
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Rebuild manifests
+        run: python scripts/rebuild_manifests.py
+
+      - name: Commit updated manifests
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "🔖 Auto-index: $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git push
