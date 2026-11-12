@@ -1,0 +1,2 @@
+True false tests
+Why did the school principal forbid the use of true/false tests? It was part of the school's anti Boolean campaign.
