@@ -1,0 +1,4 @@
+Perform a Specified Task
+How many members of a certain demographic group does it take to perform a specified task?
+
+A finite number: one to perform the task and the remainder to act in a manner stereotypical of the group in question.

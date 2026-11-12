@@ -1,0 +1,8 @@
+A Cup of Coffee
+Guest: "A cup of coffee, please!"
+
+Waiter: "Turkish or filtered?"
+
+Guest: "Why, filtered, of course."
+
+Waiter: "Then you'll have to bring your own filter paper for now."

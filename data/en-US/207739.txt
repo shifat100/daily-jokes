@@ -1,0 +1,2 @@
+Thirteen-dimensional Space
+A mathematician and his best friend, an engineer, attend a public lecture on geometry in thirteen-dimensional space. "How did you like it?" the mathematician wants to know after the talk. "My head's spinning," the engineer confesses. "How can you develop any intuition for thirteen-dimensional space?" "Well, it's not even difficult. All I do is visualize the situation in n-dimensional space and then set n = 13."

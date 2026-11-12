@@ -1,0 +1,4 @@
+Sin X
+What is sin x divided by n?
+
+Canceling the "n" yields six.

@@ -1,0 +1,2 @@
+Infinity Omega
+If 1/(x-8) approaches â as x approaches 8 from above, then will 1/(x-3) approach Ï as x approaches 3 from above?

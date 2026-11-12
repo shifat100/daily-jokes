@@ -1,0 +1,12 @@
+User Errors
+Attempting to enter a case-sensitive password with caps-lock on. 
+
+Not checking to ensure that the computer is indeed plugged in. 
+
+Clicking Yes on message boxes without reading them properly and deleting important files. 
+
+Forgetting to plug an ethernet cable into their laptop's network card when in the office. 
+
+Allowing sessions to timeout when using a web application. 
+
+Erroneous data entry.
