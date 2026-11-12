@@ -1,0 +1,8 @@
+The Ins And Outs Of Baseball
+This is a game played by two teams, one out the other in. The one that's in, sends players out one at a time, to see if they can get in before they get out. If they get out before they get in, they come in, but it doesn't count. If they get in before they get out it does count.
+
+When the ones out get three outs from the ones in before they get in without being out, the team that's out comes in and the team in goes out to get those going in out before they get in without being out.
+
+When both teams have been in and out nine times the game is over. The team with the most in without being out before coming in wins unless the ones in are equal. In which case, the last ones in go out to get the ones in out before they get in without being out.
+
+The game will end when each team has the same number of ins out but one team has more in without being out before coming in.
