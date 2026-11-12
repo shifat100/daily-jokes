@@ -1,0 +1,2 @@
+What kind of database does a Pokédex use?
+PokéMongoDB

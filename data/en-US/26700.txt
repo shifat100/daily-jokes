@@ -1,0 +1,2 @@
+TIL of Cunningham's Law: "the number of transistors per square inch on integrated circuits had doubled every year since the integrated circuit was invented"
+Very interesting, I suppose computers will just get more and more powerful?

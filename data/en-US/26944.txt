@@ -1,0 +1,2 @@
+Can a dog, given time and instruction, learn to program Haskell for an enterprise database management system? Already been asked this twice today
+The short answer?

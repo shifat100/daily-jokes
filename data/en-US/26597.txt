@@ -1,0 +1,2 @@
+TIL about Cunningham's law which states:
+The best way to get an answer online is to ask the question nicely.

@@ -1,0 +1,8 @@
+Subject-Object-Verb language problems
+An Italian gives a speech in a conference hall filled with English, French and Japanese people. The speaker speaks Italian, and his speech gets simultaneously translated into English, French and Japanese through audiosets. 
+
+At one point, the speaker starts telling a joke. All the English and the French people start laughing, tears coming from their eyes; whereas all the Japanese are just calmly listening, all with serious faces.
+
+One of the English can't hold himself and goes to a Japanese and asks: "Why aren't you guys laughing? Don't you find it funny?"
+
+To which, the Japanese respond: "We're waiting for the verb."
