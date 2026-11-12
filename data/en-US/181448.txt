@@ -1,0 +1,23 @@
+Why Businessmen earn more than engineers !
+Our mechanic's professor's reasoning of 
+
+"Why businessmen earn more than engineers ! "
+
+If we equate the two variables namely into the two field's general statements,
+
+- Time is money
+- Knowledge is power
+
+We know,
+
+- Power = Work / Time
+
+Substitute the variables into the equation and we get,
+
+- Knowledge = Work / money
+
+Rearranging we get,
+
+- money = Work / Knowledge
+
+Proving that as Knowledge reaches 0 money reaches infinity. And so the smarter you are (engineers?) The less you earn.

@@ -1,0 +1,2 @@
+Without Loss of Generality
+Assume x = 5
