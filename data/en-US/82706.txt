@@ -1,0 +1,2 @@
+I bought a game that, according to the box, required Windows 8, Mac OS X or better
+So I installed it on GNU/Linux.
