@@ -15,6 +15,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -22,14 +23,20 @@ jobs:
       - name: Rebuild manifests
         run: python scripts/rebuild_manifests.py
 
-      - name: Build SEO static pages + sitemap + robots
+      - name: Build SEO pages
         run: python scripts/build_seo.py
+
+      - name: Show generated structure
+        run: |
+          echo "===== data/ ====="
+          ls -R data/ || true
+          echo "===== root ====="
+          ls -la
 
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ english/ bengali/ hindi/ arabic/ spanish/ french/ \
-                  german/ japanese/ chinese/ korean/ sitemap.xml robots.txt
-          git commit -m "indexed + SEO build: $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git add -A
+          git commit -m "indexed: $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git push
