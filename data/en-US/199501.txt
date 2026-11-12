@@ -1,0 +1,22 @@
+The Doughnut Seller
+Visitor :  "Knock knock?"
+
+
+
+Worker:  "Who's there?"
+
+
+
+Visitor :  "Doughnut Man."
+
+
+
+Worker:  "Doughnut Man who?"
+
+
+
+Visitor :  "For the last time, do not (doughnut) bother me with your useless 'Knock-Knock' jokes!"
+
+
+
+Worker: "But you started it!"

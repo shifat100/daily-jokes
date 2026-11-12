@@ -1,0 +1,22 @@
+Ringing Dog
+A while back, over in Great Britain, a woman complained to the telephone company about her phone. Sometimes, it would not ring when someone called. 
+
+
+
+The strange part, she said, was that when it did ring, the ring was invariably preceded by her dog barking. So she was convinced she had a broken telephone and a psychic dog. 
+
+
+
+Now, in Britain, the ring signal is a high-voltage low-ampere current sent from the local office to the phone. The wire which carries this signal is run from the pole to a large metal spike in the yard, which grounds the circuit. 
+
+
+
+In order to isolate the problem, the phone company sent a repairman out to climb the pole and manually send the signal down the wire. Sure enough, when he did this, nothing happened the first time. The second time, the dog barked just before the phone rang. 
+
+
+
+Investigation revealed that the dog was chained (with an iron chain) to the spike that grounded the circuit. So this is what was happening: the ground was dry, preventing the ring signal from grounding itself easily through the spike, so the current ran down the chain to the dog, paralyzing him. 
+
+
+
+When the current released the dog, he yelped and urinated, which wet the ground, so that the second ring signal made it through and the phone rang.
