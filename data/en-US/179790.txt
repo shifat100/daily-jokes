@@ -1,0 +1,8 @@
+So an engineer, a psychologist, and a physicist are called into a dairy farm that is low on production...
+They're each given a day to inspect the farm, then they each deliver a thesis on how best to increase production.
+
+The engineer goes first; he says that if each stall is decreased in area by 40 inches, housing capacity could be doubled. 
+
+The psychologist then says that if the walls were painted green the cows would be more relaxed and likely produce more milk.
+
+When the physicist is called in he immediately draws a circle on a blackboard and says, "Now assume a cow is a sphere..."

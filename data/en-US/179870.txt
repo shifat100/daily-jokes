@@ -1,0 +1,4 @@
+Stop me if you've heard this one before.
+What is the difference between the [Rockettes](http://en.wikipedia.org/wiki/The_Rockettes) and [Doug Henning](http://en.wikipedia.org/wiki/Doug_Henning)?
+
+ Doug Henning shows you a cunning array of stunts.

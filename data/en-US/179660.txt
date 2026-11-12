@@ -1,0 +1,14 @@
+An engineer, a physicist and a mathematician are staying at a hotel...
+...when at night, a hotel wide fire starts and spreads from the bottom floor upwards. 
+
+The three professors quickly head up to the roof. From there they see a swimming pool on the ground, 50 stories below them. 
+
+The engineer says he will try first. He makes a rough calculation, runs, jumps and ... lands a few meters next to the pool and dies immediately. 
+
+The physicists sees this, thinks that if the engineer almost made it and since he can calculate much more accurately, he must make it. He calculates and calculates, finally has a solution, runs, jumps and ... lands on the edge of the pool and dies immediately. 
+
+The mathematician, upon seeing this, thinks to himself, I can calculate most accurately of all, hence I should definitely make it. He theorizes, postulates, proves and is finally convinced that he can hit exactly the middle of the pool. So he runs, jumps and ... flies up into the sky!
+
+What happened?
+
+Wrong sign (in his calculation).
