@@ -1,0 +1,6 @@
+Teacher and John
+Teacher: John. Give me a sentence beginning with "I". 
+Paul: I is the...
+
+Teacher: No, John . You must say "I am" not "I is." 
+John: All right.  I am the ninth letter of the alphabet.

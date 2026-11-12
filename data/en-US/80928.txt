@@ -1,0 +1,2 @@
+2 is the only even prime number.
+It's kind of odd, isn't it?
