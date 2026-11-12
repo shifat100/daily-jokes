@@ -1,0 +1,14 @@
+"I'm afraid you have a broken arm."
+Doctor: "I'm afraid you have a broken arm."
+
+Patient: "What?"
+
+Doctor: "I'm afraid you have a broken arm."
+
+Patient: "What?"
+
+Doctor: "I'm afraid you have a broken arm."
+
+Patient: "What?"
+
+Doctor: "I'm afraid you have a broken arm and a perforated eardrum."

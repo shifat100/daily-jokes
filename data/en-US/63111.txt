@@ -1,0 +1,2 @@
+What computer says "hello"
+A Dell
