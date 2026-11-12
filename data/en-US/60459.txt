@@ -1,0 +1,3 @@
+This soup tastes funny
+Customer: Waiter, this soup tastes funny.
+Waiter: Funny? But then why aren’t you laughing?
