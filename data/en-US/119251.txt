@@ -1,0 +1,2 @@
+What did the regular expression truck driver say when he saw the number 10000?
+10{4}

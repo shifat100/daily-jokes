@@ -1,0 +1,11 @@
+Prisoner's Dilemna [Solved!]
+Two members of a criminal gang are arrested and imprisoned. Each prisoner is interrogated separately, with no means of speaking to or exchanging messages with the other. The police offer each prisoner a bargain. Each prisoner is given the opportunity either to: betray the other by testifying that the other committed the crime, or to cooperate with the other by remaining silent. Here is the offer: 
+
+ * If A and B each betray the other, each of them serves 2 years in prison
+ * If A betrays B but B remains silent, A will be set free and B will serve 3 years in prison (and vice versa)
+ * If A and B both remain silent, both of them will only serve 1 year in prison (on the lesser charge)
+
+What should they choose?
+
+Answer: Be silent...
+because the police are probably lying.

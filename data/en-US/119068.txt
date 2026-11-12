@@ -1,0 +1,2 @@
+Why is it so hard to learn the C programming language?
+It has no class.
