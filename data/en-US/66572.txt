@@ -1,0 +1,20 @@
+Silent Monastery
+A new monk joined a monastery up in the mountains. The monastery had one rule: Everyone but the leader could only speak 2 words every 5 years.
+
+So after 5 years, the new monk goes to the leader to say his 2 words.
+
+"Bed's hard." he says
+
+The leader says "OK, those are your two words, see you in 5 years."
+
+5 more years pass, and the monk comes back to say his two words.
+
+"Food's lousy." he says
+
+Leader says "OK, thanks for your two words, see you in 5 years."
+
+Another 5 years pass, and the monk comes back to say his two words again.
+
+"I quit." he says
+
+The leader looks at him and says "I figured you would, you've been complaining ever since you got here!"
