@@ -1,0 +1,2 @@
+"The shortest distance between two points is a straight line"
+Triggered. Discriminates against gay lines.
