@@ -1,0 +1,8 @@
+3D modelling a house
+A while ago my friend wanted to model a house on his computer before he could build a model for it. However after seeing the prices for some of the modelling software, he decided to see if he could do it in MS paint.
+
+"That's crazy!" I told him, "You can't make a house plan in Paint"
+
+Nevertheless he persevered. He actually didn't do too bad and his house plan was coming along well. However when he was nearing completion he realised that because it was top down, and not 3d, he couldn't see the floor nor the roof. To convince him that it wasn't going to work I downloaded the trial version of CAD for him and imported his house plan. Then with the click of a button I was able to add a floor layer.
+
+"Aah", He said, "Now I see the floor in my plan"

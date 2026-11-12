@@ -1,0 +1,8 @@
+Pick a number between 1 and 10
+Pick any number between 1 and 10. I will try and guess what number it is.
+
+Pick a number
+
+I'd say you chose 6
+
+Some people will have just had their minds blown
