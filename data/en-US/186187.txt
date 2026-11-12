@@ -1,0 +1,54 @@
+Password reset
+A man was was unable to log into his online banking account and he pulled up the online chat support.
+
+"I put in my password and I cannot access my account"
+
+"Sorry that password has expired- you must register a new one."
+
+"Did anyone discover that password and hack my computer?"
+ 
+"No, but your password has expired- you must get a new one."
+ 
+"Why then do I need a new one as that one seems to be working pretty well?"
+ 
+"Well, you must get a new one as they automatically expire every 90 days."
+ 
+"Can I use the old one and just re-register it?"
+ 
+"No, you must get a new one."
+ 
+"I don't want a new one as that is one more thing for me to remember."
+ 
+"Sorry, you must get a new one."
+ 
+"OK, roses."
+ 
+"Sorry you must use more letters."
+ 
+"OK, pretty roses"
+ 
+"No good, you must use at least one numerical character."
+ 
+"OK, 1 pretty rose"
+
+"Sorry, you cannot use blank spaces."
+ 
+"OK, 1prettyrose"
+ 
+"Sorry, you must use additional characters."
+ 
+"OK, 1fuckingprettyrose"
+ 
+"Sorry, you must use at least one capital letter."
+ 
+"OK,1FUCKINGprettyrose"
+ 
+"Sorry, you cannot use more than one capital letter in a row."
+ 
+"OK, 1Fuckingprettyrose"
+ 
+"Sorry, you cannot use that password as you must use additional letters."
+ 
+"OK, 1Fuckingprettyroseshovedupyourassifyoudon'tgivemeaccessrightfuckingnow"
+
+"Sorry, you cannot use that password as it is already being used"
