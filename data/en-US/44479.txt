@@ -1,0 +1,2 @@
+How does a skeleton solve a problem?
+With the bare-bones approach.

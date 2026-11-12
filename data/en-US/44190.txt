@@ -1,0 +1,4 @@
+There are 2 truly difficult problems in Computer Science
+0: Naming things  
+1: Cache invalidation  
+2: Off by one errors

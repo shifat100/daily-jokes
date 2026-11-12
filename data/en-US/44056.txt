@@ -1,0 +1,35 @@
+Was asked to change my password
+Tried to login and the system indicated I have to change my password
+
+
+
+Please enter your new password:
+"cabbage"
+
+
+Sorry, the password must be more than 8 characters.
+"boiled cabbage"
+
+Sorry, the password must contain 1 numerical character.
+
+"1 boiled cabbage"
+
+Sorry, the password cannot have blank spaces.
+
+"50bloodyboiledcabbages"
+
+Sorry, the password must contain at least one upper case character.
+
+"50BLOODYboiledcabbages"
+
+Sorry, the password cannot use more than one upper case character consecutively.
+
+"50BloodyBoiledCabbagesShovedUpYourArse,
+IfYouDon'tGiveMeAccessnow”
+
+Sorry, the password cannot contain punctuation.
+
+“ReallyPissedOff50BloodyBoiledCabbagesShovedUpYourArseIf
+YouDontGiveMeAccessnow”
+
+Sorry, that password is already in use.
