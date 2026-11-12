@@ -1,0 +1,2 @@
+[Warning: Nerdy] Two self driving cars lost control on the freeway and crashed, killing 4.
+Experts say it was caused by a race condition.

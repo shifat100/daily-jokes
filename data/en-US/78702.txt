@@ -1,0 +1,2 @@
+[META] Is there (and if not, could we make) a sub for analysing and deconstructing jokes.
+You could either submit a joke you wrote and ask people to help you figure out how to make it work better or learn from good jokes by finding out exactly why they work so well.
