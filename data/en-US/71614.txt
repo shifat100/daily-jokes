@@ -1,0 +1,5 @@
+doctor: your test results have come
+patient: what does it say?
+doctor : but first , what is your zodiac sign?
+patient: cancer, but why ?
+doctor : what a coincidence !

@@ -1,0 +1,4 @@
+Lawyer: "What is your date of birth?"
+Witness: "July 15th."
+Lawyer: "What year?"
+Witness: "Every year."

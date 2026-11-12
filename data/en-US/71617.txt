@@ -1,0 +1,4 @@
+Doctor asks a patient...
+Do you use drugs or alcohol?
+Patient: Nope, but I vape.
+Doctor: So a no for sexual activity?

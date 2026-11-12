@@ -1,0 +1,2 @@
+How much work does it take to send a packet across the internet?
+20 Watts

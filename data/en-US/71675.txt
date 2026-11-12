@@ -1,0 +1,6 @@
+A Physicist, a Chemist, a Biologist, and a Mathematician are sitting in a park...
+A Physicist, a Chemist, a Biologist, and a Mathematician are sitting in a park, people-watching, when they see two women enter the washroom facilities. A few seconds later, three women walk out, and and the chemist is shocked! The physicist tries to calm him down: "It's OK, you just haven't accounted for measurement uncertainty: we observed 2 +/- 1 people walk in, then observed 3 +/-1 walk out. Don't worry, it's all consistent!
+
+The biologist quickly hushes her: "Nonsense! Our population is simply reproducing!" 
+
+The mathematician just stares at the building until another man walks in. He stands up: "Ah! Now it's empty!"
