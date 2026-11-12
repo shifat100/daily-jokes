@@ -1,0 +1,12 @@
+Line Painters
+There's a blonde and a brunette working for a painting company. They need to paint the yellow lines on a road by hand for the city since the trucks are broken.
+
+The first day the blonde paints 5.4 miles of road, the brunette paints 6 miles of road.
+
+The second day the blonde paints 4.1 miles of road, the brunette paints 6.7 miles of road.
+
+The third day the blonde paints 2.9 miles of road, the brunette paints 6.9 miles of road.
+
+Worried about the blonde, the supervisor goes to the blonde and asks why she is painting less and less road each day. 
+
+She replies, "The bucket just keeps getting further and further away."

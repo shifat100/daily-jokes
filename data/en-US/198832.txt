@@ -1,0 +1,6 @@
+Philosophers
+Q: How many philosophers does it take to change a lightbulb?
+
+
+
+A: 3. One to change it and the other two to argue whether the lightbulb really exists.
