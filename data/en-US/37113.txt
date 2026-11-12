@@ -1,0 +1,2 @@
+My jokes always result in segmentation fault
+like this one.

@@ -1,0 +1,2 @@
+Why do programmers like to concatenate time stamps?
+It's the only way they can get a string of dates.
