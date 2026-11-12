@@ -1,0 +1,12 @@
+Road Painter
+A man wants a line painted down the middle of a private road, so he posts an advertisement for a road painter.  Only one person calls him to apply for the job.
+
+When he interviews the applicant, the man can tell that the guy is dim-witted, but since he is the only person available for the job he decides to hire him anyway.
+
+The next day, the man shows the guy where he wants the line to begin.  "Start here," he says, plunking down five buckets of paint and a roller, "and paint a four inch line down the middle of the road."
+
+The man comes back the next day, and is amazed to see that the guy has painted a clean white line down the middle of the road, nearly the length of a football field.  "Great job!" he exclaims, "Well done!"
+
+The man comes back the following day, but is dismayed to see that the guy has only added a quarter of the length of a football field to his first effort.  "What happened?" he asks, "The first day you covered a fantastic distance, but today only a little more."
+
+"Well," replies the dimwit, "I kept getting farther away from the buckets."

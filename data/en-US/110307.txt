@@ -1,0 +1,4 @@
+There are 10000000 people in a room
+1 of them understands binary and the other 127 don't.
+
+Decided to make my own variation of the original joke :)
