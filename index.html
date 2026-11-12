@@ -65,7 +65,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 
 <style>
   /* ============================================================
@@ -230,7 +230,7 @@
   .joke-card {
     background: var(--surface); border: 1px solid var(--border); border-radius: 16px;
     box-shadow: var(--shadow); padding: 1.5rem 1.75rem; display: flex; flex-direction: column;
-    gap: 1.25rem; transition: transform .15s ease, box-shadow .15s ease;
+    gap: .9rem; transition: transform .15s ease, box-shadow .15s ease;
     animation: fadeIn .3s ease;
   }
   .joke-card:hover { transform: translateY(-2px); }
@@ -249,9 +249,18 @@
   .icon-btn:hover { background: var(--surface-hover); color: var(--text); }
   .icon-btn.copied { color: var(--success); border-color: var(--success); background: var(--success-bg); }
 
+  /* JOKE TITLE & TEXT */
+  .joke-title {
+    font-size: calc(var(--joke-font-size) * 1.1);
+    font-weight: 700;
+    line-height: 1.35;
+    color: var(--text);
+    margin-top: .15rem;
+    word-break: break-word;
+  }
   .joke-text {
     font-family: var(--joke-font-family); font-size: var(--joke-font-size);
-    line-height: var(--joke-line-height); color: var(--text);
+    line-height: var(--joke-line-height); color: var(--text-secondary);
     white-space: pre-wrap; word-break: break-word; transition: font-size .2s ease;
   }
   .highlight { background: #fef08a; color: #1c1917; padding: 0 3px; border-radius: 3px; }
@@ -382,7 +391,7 @@
     <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
       <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
     </svg>
-    <input type="text" class="search-input" id="searchBox" placeholder="Search jokes by punchline or keyword…" aria-label="Search Jokes" />
+    <input type="text" class="search-input" id="searchBox" placeholder="Search jokes by title or punchline…" aria-label="Search Jokes" />
   </div>
 
   <nav class="lang-bar" id="langTabs" aria-label="Language selection"></nav>
@@ -397,6 +406,7 @@
         Daily Humor
       </span>
     </div>
+    <h2 class="joke-title">Loading Daily Humor…</h2>
     <p class="joke-text">Loading fresh, funny, and clean jokes in English, Bengali, Hindi, and more…</p>
   </article>
 </main>
@@ -566,21 +576,47 @@
   });
 
   // ============================================================
-  // UTILITIES
+  // UTILITIES & TEXT PARSER (Line 0 = Title, Lines 1..n = Body)
   // ============================================================
   function esc(s) {
     return (s || "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" })[c]);
   }
 
-  function stripMeta(text) {
-    const lines = text.split("\n");
+  function parseJokeText(rawText) {
+    const rawLines = rawText.split(/\r?\n/);
     let start = 0;
-    for (let i = 0; i < Math.min(lines.length, 12); i++) {
-      const l = lines[i].trim();
-      if (l === "" || l.startsWith("---") || /^(language|date|category|title|author|source)\s*:/i.test(l)) start = i + 1;
-      else break;
+
+    // Skip optional YAML frontmatter or metadata keys if present
+    for (let i = 0; i < Math.min(rawLines.length, 12); i++) {
+      const l = rawLines[i].trim();
+      if (l.startsWith("---") || /^(language|date|category|author|source)\s*:/i.test(l)) {
+        start = i + 1;
+      } else {
+        break;
+      }
     }
-    return lines.slice(start).join("\n").trim() || text.trim();
+
+    const lines = rawLines.slice(start);
+    // Find the first non-empty line as Title (Line 0)
+    let firstLineIdx = lines.findIndex(l => l.trim() !== "");
+    
+    if (firstLineIdx === -1) {
+      return { title: "", body: rawText.trim() };
+    }
+
+    let title = lines[firstLineIdx].trim();
+    // Remove "Title:" prefix if the file had one
+    title = title.replace(/^title\s*:\s*/i, "").trim();
+
+    // Remaining lines form the full joke body
+    const body = lines.slice(firstLineIdx + 1).join("\n").trim();
+
+    // Fallback if the whole joke is on a single line
+    if (!body) {
+      return { title: "", body: title };
+    }
+
+    return { title, body };
   }
 
   function getLangLabel(code) {
@@ -772,8 +808,13 @@
         const res = await fetch(file.url, { cache: "no-store" });
         if (!res.ok) return null;
         const raw = await res.text();
-        const body = stripMeta(raw);
-        return { id: file.name.replace(/\.txt$/i, ""), body, raw };
+        const { title, body } = parseJokeText(raw);
+        return { 
+          id: file.name.replace(/\.txt$/i, ""), 
+          title, 
+          body, 
+          raw 
+        };
       } catch {
         return null;
       }
@@ -804,12 +845,14 @@
     card.className = "joke-card";
     card.dataset.id = joke.id;
 
-    // DIRECT STATIC SEO URL: https://shifat100.github.io/daily-jokes/lang/{lang}/{id}.html
     const directSeoLink = `${BASE_URL}/lang/${currentLang}/${joke.id}.html`;
 
+    let displayTitle = esc(joke.title);
     let displayBody = esc(joke.body);
+
     if (activeSearchQuery) {
       const regex = new RegExp(`(${activeSearchQuery})`, "gi");
+      if (displayTitle) displayTitle = displayTitle.replace(regex, `<mark class="highlight">$1</mark>`);
       displayBody = displayBody.replace(regex, `<mark class="highlight">$1</mark>`);
     }
 
@@ -836,20 +879,22 @@
           </button>
         </div>
       </div>
+      ${displayTitle ? `<h2 class="joke-title">${displayTitle}</h2>` : ""}
       <p class="joke-text">${displayBody}</p>
     `;
 
-    // 1. Copy Joke Text Handler
+    // 1. Copy Joke Text Handler (Title + Body together)
     const copyTextBtn = card.querySelector(".copy-text-btn");
     copyTextBtn.onclick = () => {
-      navigator.clipboard.writeText(joke.body).then(() => {
+      const textToCopy = joke.title ? `${joke.title}\n\n${joke.body}` : joke.body;
+      navigator.clipboard.writeText(textToCopy).then(() => {
         copyTextBtn.classList.add("copied");
-        showToast("Joke text copied!");
+        showToast("Joke copied!");
         setTimeout(() => copyTextBtn.classList.remove("copied"), 1500);
       });
     };
 
-    // 2. Direct SEO Link Copy Handler (https://shifat100.github.io/daily-jokes/lang/{lang}/{id}.html)
+    // 2. Direct SEO Link Copy Handler
     const copyLinkBtn = card.querySelector(".copy-link-btn");
     copyLinkBtn.onclick = () => {
       navigator.clipboard.writeText(directSeoLink).then(() => {
@@ -863,7 +908,7 @@
   }
 
   // ============================================================
-  // KEYWORD SEARCH FILTER
+  // KEYWORD SEARCH FILTER (Searches Title & Body)
   // ============================================================
   searchBox.addEventListener("input", async (e) => {
     activeSearchQuery = e.target.value.trim().toLowerCase();
@@ -875,7 +920,10 @@
     }
 
     feedContainer.innerHTML = "";
-    const filtered = loadedJokes.filter(j => j.body.toLowerCase().includes(activeSearchQuery));
+    const filtered = loadedJokes.filter(j => 
+      (j.title && j.title.toLowerCase().includes(activeSearchQuery)) || 
+      (j.body && j.body.toLowerCase().includes(activeSearchQuery))
+    );
 
     if (!filtered.length) {
       feedContainer.innerHTML = `
