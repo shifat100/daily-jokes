@@ -1,0 +1,3 @@
+Salesman: "So would you like to buy them or not?"
+Costumer: "Hm...I don't like the color. Do you also have them in blue?"  
+Salesman: "You don't buy Bananas a lot, do you?"
