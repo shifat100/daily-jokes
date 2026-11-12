@@ -1,0 +1,78 @@
+Attempting to Set A New Password
+Attempting to Set A New Password:
+
+
+Website: Sorry that password has expired - you must register  a new one.
+
+
+User: Did anyone discover that password and hack my  computer?
+
+
+Website: No, but your password has expired  - you must get a new one.
+
+
+ User: Why then do I need a  new one as that one seems to be working
+pretty  good?
+
+
+Website: Well, you must get a new one as they  automatically expire
+every 30 days.
+
+
+ User: Can I use  the old one and just re-register it?
+
+
+ Website: No, you  must get a new one.
+
+
+User: I don't want a new one as  that is one more thing for me to  remember
+
+.
+Website: Sorry, you must get a new  one.
+
+
+User: OK,  roses.
+
+
+Website: Sorry you must use more  letters.
+
+
+ User: OK, pretty  roses
+
+
+Website: No good, you must use at least one  number.
+
+
+User: OK, 1 pretty  rose
+
+
+Website: Sorry, you cannot use blank  spaces.
+
+
+User: OK,  1prettyrose
+Website: Sorry, you must use additional  letters.
+
+
+ User: OK,  1fuckingprettyrose
+
+
+Website: Sorry, you must use at  least one capital letter.
+
+
+User: OK,  1FUCKINGprettyrose
+
+
+Website: Sorry, you cannot use more than one capital letter  in a row.
+
+
+User: OK,  1Fuckingprettyrose
+
+
+ Website: Sorry, you cannot use  that password as you must use
+additional  letters.
+
+
+User: OK,  1FUCKINGprettyroseshovedupyourassifyoudon'tgivemeaccessrightfuckingnow
+
+
+ Website: Sorry,  you cannot use that password as it is already being  used
