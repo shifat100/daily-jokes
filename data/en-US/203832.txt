@@ -1,0 +1,6 @@
+Data Centre
+There is an old story about the data centre of the future. 
+
+This data centre runs 24/7 with only a man and a dog. The man's job is to feed the dog. 
+
+The dog's job is to make sure the man does not touch the computer.

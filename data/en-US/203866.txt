@@ -1,0 +1,14 @@
+The Fence
+An engineer, a physicist, and a mathematician are trying to set up a fenced-in area for some sheep, but they have a limited amount of building material. The engineer gets up first and makes a square fence with the material, reasoning that it's a pretty good working solution. 
+
+
+
+"No no," says the physicist, "there's a better way." He takes the fence and makes a circular pen, showing how it encompasses the maximum possible space with the given material. 
+
+
+
+Then the mathematician speaks up: "No, no, there's an even better way." To the others' amusement he proceeds to construct a little tiny fence around himself, then declares: 
+
+
+
+"I define myself to be on the outside."
