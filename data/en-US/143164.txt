@@ -1,0 +1,2 @@
+For my SysAdmins and DBA's: Why did Hitler secretly want to work on MySQL?
+.. just so he could rewrite my.cnf

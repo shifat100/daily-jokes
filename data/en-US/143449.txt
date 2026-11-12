@@ -1,0 +1,6 @@
+*Teacher to Student* T: "Use the word 'centimeter' in a sentence"
+S: "My grandma was arriving at the train station so i was centimeter"
+
+T: "No, no, that's 'Sent to meet her'.  Okay, try another one.  Use 'contagious' in a sentence please"
+
+S: "I had to wait at the train station for hours because it took that contagious!"
