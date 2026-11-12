@@ -1,0 +1,16 @@
+A sciencey joke for y'all.
+An American nuclear engineer is talking with a Japanese nuclear engineer about a new material they're planning on using for gamma radiation shielding. The Japanese engineer asks if he can see it in action, so the American takes a piece of iron about 3 inches thick and puts in front of a gamma source. The American pulls up the data for the counts detected by the gamma detector on the other side of the iron.
+
+The American says, "So, on a scale of one to ten, we'll call iron's shielding capabilities about a seven."
+
+The American then takes away the iron and puts a 3-inch plate of lead in front of the gamma source. He once again allows the system to collect data, and after the same amount of time, shows the Japanese engineer how the counts have gone down significantly.
+
+The American engineer says, "We'll say that's about a nine."
+
+Finally, the American engineer replaces the lead with a 3-inch thick slab of their newly-developed material, and allows the test to run for the same amount of time. When he shows the data to the Japanese engineer, the counts are almost zero--far below the counts recorded for lead.
+
+The Japanese engineer, astonished, asks, "So what do we call that?"
+
+The American responds, "A ten, you Asian."
+
+Edit: It works better if you read it aloud.
