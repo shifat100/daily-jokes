@@ -1,0 +1,12 @@
+Nerd Joke
+A joke told by my physics professor when doing map transformations.
+
+A physicist and an engineer are in an experiment. They put them in a room with a pot, a sink and a stove and tell them to boil water.  
+
+The engineer fills the pot, puts it on the stove and boils the water.  
+The physicist does the same.  
+
+Now they put them in the same room with a full pot of water. 
+ 
+The engineer puts the pot on the stove.  
+The physicist spends 15 minutes looking at the pot, dumps the water out and goes, "NOW THIS IS A PROBLEM I'VE SEEN BEFORE!"

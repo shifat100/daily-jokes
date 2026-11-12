@@ -1,0 +1,1 @@
+You know it's bad when your C++ program has more friends than you do.
