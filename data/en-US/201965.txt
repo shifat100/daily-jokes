@@ -1,0 +1,14 @@
+Problems Printing Yellow
+I had been doing Tech Support for Hewlett-Packard's DeskJet division for about a month when I had a customer call with a problem I just couldn't solve. She could not print yellow. All the other colors would print fine, which truly baffled me because the only true colors are cyan, magenta, and yellow. For instance, green is a combination of cyan and yellow, but green printed fine. 
+
+
+
+Every color of the rainbow printed fine except for yellow. I had the customer change ink cartridges. I had the customer delete and reinstall the drivers. Nothing worked. I asked my co-workers for help; they offered no new ideas. 
+
+
+
+After over two hours of troubleshooting, I was about to tell the customer to send the printer in to us for repair when she asked quietly, 
+
+
+
+"Should I try printing on a piece of white paper instead of this "yellow" construction paper?"

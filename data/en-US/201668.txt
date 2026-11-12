@@ -1,0 +1,14 @@
+Salesman
+A salesman, and engineer, and a technician are driving in a car when, just outside of town, they get a flat tire. The three of them get out of the car and scratch their heads.
+
+
+
+The salesman says, "Maybe I should walk into town and get us a new tire. I know that I can bargain with the man at the parts store and get us a great deal."
+
+
+
+The engineer stops him, saying, "No, before you do that, we'll have to do some computations, figuring the grade of the road, the asphalt temperature, and the average rate of speed we will be traveling to know what kind of tire you should buy."
+
+
+
+The technician laughs and shakes his head. "No, no, no! What's wrong with you guys? Hell, we have a spare tire in the trunk - now all we have to do is start swapping tires until we find the flat one!"

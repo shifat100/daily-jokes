@@ -1,0 +1,6 @@
+Do You...
+DOCTOR: "Do you smoke or drink?"
+
+
+
+PATIENT:  "I didn't know I had a choice."

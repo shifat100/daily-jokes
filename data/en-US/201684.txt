@@ -1,0 +1,16 @@
+Simple Algebra
+Given m = money, e = evil, t = time and w = women, prove that women are evil (women = evil)
+
+1. m = e ^ (1/2) (money is the root of all evil)
+
+2. t = m (time is money)
+
+3. w = t * m (women are the product of time and money)
+
+4. w = m ^ 2 (substitution)
+
+5. w = {e ^ (1/2)} ^ 2 (substitution)
+
+6. w = e
+
+Proven by mathematics - women are evil.

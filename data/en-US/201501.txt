@@ -1,0 +1,14 @@
+Alphabet Problem
+Teacher: Alvin, how many letters are in the alphabet?
+
+
+
+Alvin: 18.
+
+
+
+Teacher: Wrong, there are 26.
+
+
+
+Alvin: No, teacher, there used to be 26, but ET went home in a UFO and the CIA went after him.
