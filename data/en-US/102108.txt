@@ -1,0 +1,2 @@
+A group of philosophers walk into a bar. Over drinks, they all are trying to convince each other the statement "All the philosophers in this group will never simultaneously believe this statement" is false.
+They all leave believing it's true.
