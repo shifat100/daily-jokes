@@ -1,0 +1,4 @@
+A: We are moving to nicer street
+B: So are we going to more peaceful one
+A: Really? You are moving too?
+B: No, we are staying
