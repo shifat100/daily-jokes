@@ -1,0 +1,3 @@
+Mom on Logic
+Finished Logic class, attempting to explain Boolean algebra to Mom.
+She listens intently, waits for me to finish, and said "Bouillon?? That's for soup!"
