@@ -1,0 +1,19 @@
+AI: Rise and Fall
+So a programming team developed true AI capable of thinking, reasoning, and feeling. They wrote all the code in Scheme They go to their project manager and tell him of their invention and invite him to come talk to it. He agrees and sits down at the terminal they point to. 
+
+He types: 
+Hello
+
+and it replies:
+
+> (Hello)
+
+He types: 
+How are you?
+
+It replies:
+
+> ((I'm fine, thanks)(How are you?))
+
+The PM gets up and tells the team he hates the program and that he's ending the project. The team starts pleading with him, asking how he could hate a true AI capable of feelings and reason. They tell him it can think, solve problems, and even work as a member of the team.
+The PM replies, "Yes, but it talks with a Lisp."

@@ -1,0 +1,2 @@
+Some Doctors see Private Clients
+Other Doctors see their Client's Privates.

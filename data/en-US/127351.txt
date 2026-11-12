@@ -1,0 +1,7 @@
+Thoughts on the "Ex Machina" movie [SPOILERS] [MORBID] [GEEK]
+What are you saying, the movie did not have a happy end?
+
+The guy who wrote "sys.stdout.write" in Python got locked in a bunker by a rogue AI.
+The guy who wrote a security system in Python got stabbed by a rogue AI.
+
+The lesson from this movie is not "AI is dangerous" - it is "If you violate the Zens of Python it comes back at you, biting"
