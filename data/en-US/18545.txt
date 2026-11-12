@@ -1,0 +1,2 @@
+Where does Google and Apple get their weather information?
+The Cloud.

@@ -1,0 +1,2 @@
+How many philosophers does it take to change a light bulb?
+None – its a pseudo-problem… light bulbs give off light (hence the name). If the bulb was broken and wasn’t giving off light, it wouldn’t be a ‘light bulb’ now would it? And if it wasn't broken, then why does it need changing?
