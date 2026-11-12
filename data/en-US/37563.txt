@@ -1,0 +1,2 @@
+What's the difference between Java and JavaScript?
+Java and JavaScript are similar in the same way car and carpet are.

@@ -1,0 +1,18 @@
+A QA engineer walks into a bar, and orders a beer.
+Then he orders 0 beers.
+
+Then he orders 999999999999 beers.
+
+Then he orders an aardvark.
+
+Then he orders nothing.
+
+Then he orders -1 beers.
+
+Then he orders NULL beers.
+
+Then he orders asnwikfjsdf.
+
+Then he orders a "><script>give_me_your_credit_card()</script>.
+
+Finally, the QA engineer leaves without paying, comes back, and asks for the tab.
