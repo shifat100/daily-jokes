@@ -1,0 +1,4 @@
+There are 10 kinds of people...
+Those who understand ternary notation, those who don't and those who thought this would be a binary joke.
+
+Credits to /u/johnnybenude
