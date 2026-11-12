@@ -1,0 +1,4 @@
+Teacher to student “If you had one dollar and you asked your father for another, how many dollars would you have?”
+Student: “One dollar.”
+Teacher: “You don’t know your arithmetic.”
+Student: “You don’t know my father.”

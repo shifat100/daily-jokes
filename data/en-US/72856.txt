@@ -1,0 +1,2 @@
+Patient: "Doctor, I've got a strawberry stuck up my bum."
+Doctor: "I've got some cream for that."
