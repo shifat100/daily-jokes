@@ -1,0 +1,6 @@
+A pair of strings walk into the bar
+A pair of strings walk into the bar and sit down. The bartender says, "So what'll it be?"
+
+The first string says, "I think I'll have a beer quag fulk boorg jdkCjfdLk jk3s d#f67howe%U r89nvy owmc63Dz x.xvcu"
+
+"Please excuse my friend," the second string says, "He isn't null-terminated."
