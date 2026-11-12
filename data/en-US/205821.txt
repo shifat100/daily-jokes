@@ -1,0 +1,10 @@
+A = b B = c A = c
+a = b, b = c, a = c.
+
+
+
+Math Teacher: If a = b and b = c then a = c. Now give me the practical example of this principle from real life.
+
+
+
+Student: I love you, sir, and you love your daughter, which means I love your daughter.

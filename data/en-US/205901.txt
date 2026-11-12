@@ -1,0 +1,86 @@
+Sardarji
+A plain computer illeterate SARDAR rings tech support to report that his computer is faulty.
+
+
+
+Tech: What's the problem?
+
+
+
+Sardaar: There is smoke coming out of the power supply.
+
+
+
+Tech: You'll need a new power supply.
+
+
+
+Sardaar: No, I don't! I just need to change the startup files.
+
+
+
+Tech: Sir, the power supply is faulty. You'll need to replace it.
+
+
+
+Sardaar: No way! Someone told me that I just needed to change the startup and it will fix the problem! All I need is for you to tell me the command.
+
+
+
+10 minutes later, the Sardaar is still adamant that he is right. The tech is frustrated and fed up.
+
+
+
+Tech: Sorry, Sir. We don't normally tell our customers this, but there is an undocumented DOS command that will fix the problem.
+
+
+
+Sardaar: I knew it!
+
+
+
+Tech: Just add the line LOAD NOSMOKE.COM at the end of the CONFIG.SYS. Le me know how it goes.
+
+
+
+10 minutes later.
+
+
+
+Sardaar: It didn't work. The power supply is still smoking.
+
+
+
+Tech: Well, what version of DOS are you using?
+
+
+
+Sardaar: MS-DOS 6.22.
+
+
+
+Tech: That's your problem there. That version of DOS didn't come with NOSMOKE. Contact Microsoft and ask them for a patch that will give you the file. Let me know how it goes.
+
+
+
+1 hour later.
+
+
+
+Sardaar: I need a new power supply.
+
+
+
+Tech: How did you come to that conclusion?
+
+
+
+Sardaar: Well, I rang Microsoft and told him about what you said, and he started asking questions about the make of power supply.
+
+
+
+Tech: Then what did he say?
+
+
+
+Sardaar: He told me that my power supply isn't compatible with NOSMOKE.COM

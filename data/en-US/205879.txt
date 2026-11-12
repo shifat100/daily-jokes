@@ -1,0 +1,32 @@
+Amazing Facts 20
+The Year 2038 Problem..........................
+
+Test it now... 
+
+Steps... 
+
+1. Login to yahoo messenger 
+
+2. Send instant message to anyone - fine, it's working... 
+
+3. Now, change your system date to 19-Jan-2038, 03:14:07 AM or above 
+
+(as mentioned in mail) 
+
+4. Confirm whether your date is changed 
+
+5. Again send instant message to anyone... 
+
+Your YM crahes.... 
+
+
+
+* * * YES ALL NETWORK BASED APPLICATION WILL NOT WORK NOW * * * 
+
+
+
+Why.....? What is it? 
+
+
+
+Starting at GMT 03:14:07, Tuesday, January 19, 2038, it is expected to see lots of systems around the world breaking magnificently: satellites falling out of orbit, massive power outages (like the 2003 North American blackout), hospital life support system failures, phone system interruptions, banking errors, etc. One second after this critical second, many of these systems will have wildly inaccurate date settings, producing all kinds of unpredictable consequences. In short, many of the dire predictions for the year 2000 are much more likely to actually occur in the year 2038! Consider the year 2000 just a dry run. In case you think we can sit on this issue for another 30 years before addressing it, consider that reports of temporal echoes of the 2038 problem are already starting to appear in future date calculations for mortgages and vital statistics!
