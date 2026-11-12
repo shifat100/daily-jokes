@@ -1,0 +1,6 @@
+A wooden bridge and an economist
+The IRR of an investment in one steel bridge for a cost 1,000 is 15.24%
+
+The IRR of an investment in 20 wooden bridges for a cost of 1,000 is 15.24%
+
+Ahhh, but the economist says the first bridge must be the most profitable and each bridge after must be less in value and this could not be true.

@@ -1,0 +1,4 @@
+Which word has T at the beginning, T at the end, and T in the middle?
+> A teapot
+
+(helps to say it out loud...)
