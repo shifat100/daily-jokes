@@ -1,0 +1,87 @@
+Costello calls Abbott with some que...
+Costello calls Abbott with some questions about UNIX
+
+Costello: What is the command that will tell me the revision code of
+a program?
+
+Abbott: Yes, that's correct.
+
+Costello: No, what is it?
+
+Abbott: Yes.
+
+Costello: So, which is the one?
+
+Abbott: No. 'which' is used to find the program.
+
+Costello: Stop this. Who are you?
+
+Abbott: Use 'who am i' not 'who r yoo'. You can also 'finger yoo' to
+get information about yoo'.
+
+Costello: All I want to know is what finds the revision code?
+
+Abbott: Use 'what'.
+
+Costello: That's what I am trying to find out. Isn't that true?
+
+Abbott: No. 'true' gives you 0.
+
+Costello: Which one?
+
+Abbott: 'true' gives you 0. 'which is program name'
+
+Costello: Let's get back to my problem. What program? How do I find
+it?
+
+Abbott: Type 'find / -name it -print' to find 'it'. Type 'what program'
+to get the revision code.
+
+Costello: I want to find the revision code.
+
+Abbott: You can't 'find revisioncode', you must use 'what program'.
+
+Costello: Which command will do what I need?
+
+Abbott: No. 'which command' will find 'command'.
+
+Costello: I think I understand. Let me write that.
+
+Abbott: You can 'write that' only if 'that' is a user on your system.
+
+Costello: Write what?
+
+Abbott: No. 'write that'. 'what program'.
+
+Costello: Cut that out!
+
+Abbott: Yes. those are valid files for 'cut'. Don't forget the options.
+
+Costello: Do you always do this?
+
+Abbott: 'du' will give you disk usage.
+
+Costello: HELP!
+
+Abbott: 'help' is only used for Source Code Control System (SCCS).
+
+Costello: You make me angry.
+
+Abbott: No, I don't 'make me' angry but I did 'make programname' when
+I was upset once.
+
+Costello: I don't want to make trouble, so no more.
+
+Abbott: No 'more'? 'which' will help you find 'more'. Every system has
+'more'.
+
+Costello: Nice help! I'm confused more now!
+
+Abbott: Understand that since 'help' is such a small program, it is
+better not to 'nice help' and 'more now' is not allowed, but 'at now' is.
+Unless of course 'now' is a file name.
+
+Costello: This is almost as confusing as my PC.
+
+Abbott: I didn't know you needed help with 'pc'. Let me get you to the
+Pascal compiler team.

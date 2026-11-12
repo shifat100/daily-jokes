@@ -1,0 +1,8 @@
+For immediate issue:
+Password Secur...
+For immediate issue:
+Password Security Guidelines V2.2b
+
+Due to new security policies, the following guidelines have been issued to assist in choosing new passwords. Please follow them closely.
+
+Passwords must conform to at least 21 of the following attributes.
