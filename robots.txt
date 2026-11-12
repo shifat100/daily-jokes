@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shifat100.github.io/daily-jokes/sitemap.xml
