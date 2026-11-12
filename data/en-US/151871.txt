@@ -1,0 +1,14 @@
+A hotel is holding a convention for chess aficionados...
+During the daytime, the chess fans can play each other in the ballroom, watch panels that discuss optimal tactics and long-term strategies, or watch videos of famous chess matches. In the night, many of them gather in the hotel lobby to discuss the game and what they've seen today.
+
+The hotel manager overhears groups of conversations in the lobby as he walks around. "I once beat a supercomputer at my local university," brags one. 
+
+"That's nothing," counters another. "I played five Master-level players at the same time, and beat four of them!"
+
+"You think that's good? I tricked a Grandmaster into a trap and got him to checkmate himself!" claims yet another. 
+
+By this point, the manager has had enough. "Excuse me, everyone," he announces, "We're shutting down the lobby for congregating for the evening, please take these conversations to your rooms, to the bar, or elsewhere." Begrudgingly, the chess fans disperse.
+
+The concierge looks puzzled. "Why'd you do that, Stanley?" she asks. "We don't shut down the lobby for another hour."
+
+The manager sighs. "To tell you the truth, Carolyn? I just can't stand chess nuts boasting in an open foyer."

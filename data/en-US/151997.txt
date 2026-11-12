@@ -1,0 +1,8 @@
+A man brings 3 scientists into a large room...
+...a biologist, an engineer, and a physicist. In corner of the room is an elephant, and nothing else. The man tells the scientists "If you can correctly identify this animal, I will give you $50,000". He lets each of the scientists examine the animal, and then separates them.
+
+The man first asks the biologist, "What is this animal?". The biologist responds "That is an African Elephant, *Loxodonta africana*". The biologist takes his $50,000 and leaves.
+
+The man then asks the engineer, "What is this animal?". The engineer responds "That is an elephant, but lets say two elephants to be sure". The engineer takes his $50,000 and leaves.
+
+The man finally asks the physicist, "What is this animal?". The physicist says "Well, let's first assume its a perfect sphere in a vacuum..."
