@@ -1,0 +1,2 @@
+Why do the Heisenberg operators for position and momentum work from home?
+Because they won't commute.
