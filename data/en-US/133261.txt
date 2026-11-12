@@ -1,0 +1,12 @@
+Dispatch Call
+Two policemen call in to Dispatch.
+
+    "Hello, Dispatch?"
+
+    "Yes."
+
+    "This is sergeant John Smith. We have a case here. A woman has shot her husband for stepping on a floor that she had just mopped clean."
+
+    "Have you arrested the woman?"
+
+    "No, sir. The floor is still wet."

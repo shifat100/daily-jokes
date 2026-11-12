@@ -1,0 +1,6 @@
+So I was teaching my students...
+"Now the pOH is simple calculated by pKw- pH, where pKw is 14 at STP.  If you have the hydroxide concentration, then you can express it in a logarithmic formula shown as. pOH = -log[ OH^- ].   Remember! [ OH^- ] * [ H^+ ] =1 x10^-14 is useful when figuring out unknown values."
+
+One of my student looks at me all blanked eye. "I don't understand this at all."
+
+"You should.  I mean, after all it's just basic chemistry!"
