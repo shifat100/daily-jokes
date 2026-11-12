@@ -1,0 +1,2 @@
+You know it's love when
+you let her commit to your source tree without reviewing her code.
