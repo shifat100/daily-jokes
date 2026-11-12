@@ -1,0 +1,6 @@
+An engineer, a physicist, and a mathematician are staying in adjacent rooms of a hotel.
+The engineer decides to smoke before he goes to bed, carelessly throws the cigarette into the trashcan, and then goes to sleep. He wakes up about an hour later to see that the trashcan is on fire! So he rises hurriedly, takes some water from the sink, throws it on the fire, and puts it out. Relieved, the engineer goes back to bed and sleeps soundly. But he was too late, and meanwhile, the fire has traveled through a nearby air duct into the physicist's room, lighting his trashcan on fire.
+
+The physicist wakes up and sees the fire. He quickly approximates the volume of the fire, then the volume of water needed to put it out. He takes this amount of water, throws it on the fire, and it works like a charm. So the physicist goes back to bed. But the fire has already traveled into the next room, where the mathematician sleeps.
+
+The mathematician wakes to find that he is in the same predicament as the other two. So he sits up, looks at the fire, looks at the sink, mutters "there is a solution," and goes back to sleep.
