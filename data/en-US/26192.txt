@@ -1,0 +1,10 @@
+Starting salary
+Reaching the end of an extensive job interview, the HR person asked a young Engineer fresh out of college, "And what starting salary were you looking for?"
+
+The engineering graduate said, "In the range of $100,000 - 125,000 a year, depending on the benefits package."
+
+The HR person said, "Well, what would you say to a package of 5 weeks vacation, 14 paid holidays, full medical and dental, a company matching retirement fund for 50% of your salary, and a company car leased every 2 years -- say, a brand new BMW?"
+
+The engineering graduate sat up straight and said, "Wow! Are you kidding?"
+
+And the interviewer replied, "Yeah, but you started it."
