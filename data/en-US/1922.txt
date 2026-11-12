@@ -1,0 +1,2 @@
+An evil mathematician makes a plan to multiply binomials
+It was FOILed

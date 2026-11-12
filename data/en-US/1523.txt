@@ -1,0 +1,4 @@
+This joke is ironic.
+This joke is not ironic.
+
+Isn't that ironic?

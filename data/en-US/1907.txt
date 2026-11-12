@@ -1,0 +1,2 @@
+Linkin Park's web developer spent hours trying to fix a byte ordering bug.
+He tried so hard and got so far, but in the endian it doesn't even matter.
