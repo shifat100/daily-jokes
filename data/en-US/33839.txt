@@ -1,0 +1,8 @@
+Two programmers are in a TV show...
+The host describes the rules:
+"One of you will have to guess a person by asking yes/no questions to the other person, which will have a name of this person assigned by us."
+
+When the game starts, the first question is asked: "What is the name of this person?"
+
+The second programmer thinks for a while and then aswers
+"no, yes, no, yes, no, no, yes, yes, no, yes, yes, no, no, yes..."

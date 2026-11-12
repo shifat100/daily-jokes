@@ -1,0 +1,2 @@
+If a bank every returns a check marked "Insufficient funds"
+Ask if they meant you or them.

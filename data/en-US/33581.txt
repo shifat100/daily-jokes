@@ -1,0 +1,6 @@
+You wake up in a lab, but you don't remember which one is it. how can you tell them apart?
+If your experiment stinks, you're in a Biology lab.
+
+If your experiment explodes, you're in a Chemistry lab.
+
+If your experiment fails, you're in a Physics lab.
