@@ -1,0 +1,2 @@
+One thing changed when I switched from teaching math to teaching computer classes.
+When students left at the end of class, I used to say, "Calcu-later!" Now I say "CPU later!"

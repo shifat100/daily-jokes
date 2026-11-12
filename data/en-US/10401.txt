@@ -1,0 +1,6 @@
+A Cow Grazing
+Artist : “That, sir, is a cow grazing”
+Visitor : “Where is the grass ?”
+Artist : “The cow has eaten it”
+Visitor : “But where is the cow ?”
+Artist : “You don’t suppose she’d be fool enough to stay there after she’d eaten all the grass, do you ?
