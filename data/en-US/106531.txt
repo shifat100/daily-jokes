@@ -1,0 +1,4 @@
+Farm counting
+A farmer had 30 cows, and 28 chickens...
+
+How many didn't?
