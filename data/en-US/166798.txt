@@ -1,0 +1,6 @@
+X = Y
+The teacher asked the student, "If x=y, what is x?"
+
+The student answered, "y?"
+
+The teacher replied, "why not?"
