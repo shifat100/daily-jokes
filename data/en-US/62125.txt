@@ -1,0 +1,6 @@
+An Evil Overlord Purchases a Web Server...
+For the purposes of building a website where various villains and ne'er do wells could collaborate and show off their evil schemes.
+
+Early on he had some troubles keeping the site up so he bought several backup servers running a clone of the website. 
+
+After that there was no problem. Sure the world governments would occasionally manage to take one or two servers offline for a while, but they could never take down his final forum.

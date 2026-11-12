@@ -1,0 +1,12 @@
+The Less you Know, the More you Make
+Engineers and scientists will never make as much money as business executives. Now a rigorous mathematical proof has been developed that explains why this is true: 
+Postulate 1: Knowledge is Power. 
+Postulate 2: Time is Money. 
+As every engineer knows, 
+Work = Power * Time 
+Since Knowledge = Power, and Time = Money, we have: 
+Work = Knowledge * Money 
+Solving for Money, we get: 
+Money = Work / Knowledge 
+Thus, as Knowledge decreases, Money increases, regardless of how much Work is done. 
+Conclusion: The Less you Know, the More you Make.

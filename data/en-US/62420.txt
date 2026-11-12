@@ -1,0 +1,2 @@
+Why does the CPU never get any work done?
+Because it gets interrupted constantly.

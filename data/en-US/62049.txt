@@ -1,0 +1,2 @@
+(Waiter) "What can I get you sir?"
+(Gastronomist) "Something with a simpler plot."

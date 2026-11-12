@@ -1,0 +1,12 @@
+"Homework!"
+Teacher: "Kids, what does the fluffy chicken give you?"
+
+Student: "Eggs!"
+
+Teacher: "Very good! Now what does the pink pig give you?"
+
+Student: "Bacon!"
+
+Teacher: "Great! And what does the fat cow give you?"
+
+Student: "Homework!"
