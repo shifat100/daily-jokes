@@ -1,0 +1,12 @@
+'Knock knock'
+'Who's there'
+
+'Okay Google'
+
+'Okay Google, who?'
+
+'Sorry I didn't catch that'
+
+'OKAY GOOGLE WHO?'
+
+'The World Health Organization is a specialized agency of the United Nations that is concerned with international public health. It was established on 7 April 1948, headquartered in Geneva, Switzerland. '
