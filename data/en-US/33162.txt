@@ -1,0 +1,4 @@
+Income
+A new employee was given the choice that either his income be incremented or multiplied. He, like most people, chose to multiply. However, his income never increased, because...
+
+...he is still at square one.

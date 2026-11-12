@@ -1,0 +1,6 @@
+A comma is the difference between
+"Yesterday, I met the strippers, Donald Trump, and Hillary Clinton."
+
+and
+
+"Yesterday, I met the strippers, Donald Trump and Hillary Clinton."
