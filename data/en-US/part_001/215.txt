@@ -1,0 +1,32 @@
+An interviewer asks a shepard
+Interviewer: How much milk do these cows give?
+
+Farmer: Which one? The Black ones or the brown ones?
+
+Interviewer: Brown ones.
+
+Farmer: A couple of litres per day.
+
+Interviewer: And the black ones?
+
+Farmer: A couple of litres per day.
+
+Interviewer(naturally a bit flummoxed): I see. What do you give them to eat?
+
+Farmer: Which ones? Black or brown?
+
+Interviewer: Black.
+
+Farmer: It eats grass.
+
+Interviewer: And the other ones?
+
+Farmer: Grass.
+
+Interviewer(now annoyed) : Why do you keep asking which one when the answers are the same?!
+
+Farmer: Because the black ones are mine.
+
+Interviewer: Oh, and the brown ones?
+
+Farmer: they are also mine

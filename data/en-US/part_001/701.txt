@@ -1,0 +1,8 @@
+A group of scientists run an experiment on a frog
+They teach it to jump on command by using flies as treats. Now when they say "Jump" the frog jumps.
+
+Then they chop off one leg. They say "Jump" and the frog jumps in a crooked path. So far so good.
+
+Finally, they chop off the other leg. They say "Jump" and the frog does not jump.
+
+It has been concluded that frogs cannot hear without their legs.
