@@ -1,0 +1,2 @@
+Why is NTFS healthy?
+Because it's FAT free.
