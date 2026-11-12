@@ -1,0 +1,8 @@
+A physicist, a biologist, and a mathematician are sitting on a bench across from a house
+They watch as two people walk in, and a while later three people walk out.
+
+"The initial measurement was incorrect," says the physicist.
+
+"They must have reproduced," says the biologist.
+
+"If exactly one person goes in, the house will be empty," says the mathematician.

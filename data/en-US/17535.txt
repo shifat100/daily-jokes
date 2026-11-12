@@ -1,0 +1,4 @@
+A: "What is the integral of 1/cabin?"
+B: "Log cabin!"
+
+A: "Nope, Houseboat. You forgot the C."

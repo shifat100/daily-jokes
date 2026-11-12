@@ -1,0 +1,2 @@
+Why don't we use some Fourier Analysis on our relationship
+And reduce to a series of periodic functions.

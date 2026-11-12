@@ -1,0 +1,4 @@
+My clock always stops working at the same time each day.
+Everyday after 4:03 it gives a 404. 
+
+Any idea what causes this? Also it only lasts for 60s.
