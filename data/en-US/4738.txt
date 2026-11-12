@@ -1,0 +1,10 @@
+New president of a country is handed 3 envelopes by the previous leader.
+President of a country is handed 3 numbered envelopes by the previous leader.  Previous leader says "If you screw anything up, then open one of the envelopes and it will tell you what to do."
+
+Eventually, over time, the president screws some things up.  Everyone gets mad at him and threatens to impeach him.  So he opens the Envelope #1.  It says "Blame everything on me, your predecessor."
+
+So he does that and eventually is forgiven. 
+
+But then, as time goes on, the president screws up again.   He doesn't know what to do.  So he opens up Envelope #2.  It says "Blame everything on me again."  So, in time, the people forgive him again. 
+
+But then, as time goes on, the president screws things up yet a 3rd time.  He doesn't know what to do.  Relieved that he still has one envelope left, he opens it up.  It says "Prepare 3 envelopes."
