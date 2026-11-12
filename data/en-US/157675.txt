@@ -1,0 +1,2 @@
+Why does AMD call having 2 or more cards Crossfire?
+Because no matter what card you cross, and how many, you're bound to start a fire.

@@ -1,0 +1,1 @@
+A code tester walks into a bar. Orders a beer. Orders ten beers. Orders 2.15 billion beers. Orders -1 beers. Orders a nothing. Orders a cat. Tries to leave without paying.
