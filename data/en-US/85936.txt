@@ -1,0 +1,5 @@
+"Sorry, that name is already taken"
+A lady tells to the nurse at the maternity hospital:
+-	I think I will call my little newborn Anna.
+Doctor:
+-	Sorry, that name is already taken, but you can name her Anna532 or Anna_153.

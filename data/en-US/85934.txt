@@ -1,0 +1,2 @@
+Teacher to child: 'do you know how to spell banana?
+Child: 'Yes, but I don't know when to stop'.

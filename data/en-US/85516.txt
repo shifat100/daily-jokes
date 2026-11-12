@@ -1,0 +1,4 @@
+Identify a superhero: You see him flying: Superman
+If you see him climbing: Spiderman
+If you see him swimming: Aquaman
+If you see him exploding: Musulman
