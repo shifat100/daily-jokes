@@ -1,0 +1,74 @@
+LOL : No love from Apple
+Here is the back story , I have an app called "Quotes for Instagram" that does one thing and only one thing, it displays picture quotes and allows the user to share directly to Instagram and only Instagram. To share to Instagram  the user would need to have the Instagram app installed . It was rejected by Apple , here is our funny thread going back and forth in the message center.
+
+
+---------------
+September 23, 2015 at 12:39 PM
+From Apple
+2.2 Details
+
+We discovered one or more bugs in your app when reviewed on iPhone running iOS 9 on both Wi-Fi and cellular networks.
+
+Specifically, no action takes place when we tapped the Share button on each picture.
+
+Next Steps
+
+Please run your app on a device to identify the issue(s), then revise and resubmit your app for review. 
+
+---------------
+
+September 23, 2015 at 12:50 PM
+Me :
+The device requires that the user have Instragram installed on their device, If Instagram is not installed on the device then they can not share to instagram . Is Instagram installed on your test devices? Their should be prompt that appears detailing this , I will double check , but in the meanwhile I hope this helps to track down the issue.
+
+---------------
+
+September 23, 2015 at 2:20 PM
+From Apple
+Hello,
+
+Thank you for providing this information. Upon further review, we found your app to be in violation of the following guideline:
+
+10.6 Details
+
+We were required to install Instagram before we could use your app. Apps should be able to run on launch, without requiring additional applications to be installed.
+
+Next Steps
+
+Please revise your app so that a user can use it upon launch. If your app requires authentication before use, please use methods that can authenticate users from within your app.
+
+We look forward to reviewing your revised app.
+
+Best regards,
+
+App Store Review
+
+----------------
+
+September 23, 2015 at 3:52 PM
+Me :
+LOL Technically you can still use the app (just not the share to IG part), I presume users would be clever enough to know that they should probably have Instagram installed to share to Instagram no? Re: Please revise your app so that a user can use it upon launch. If your app requires authentication before use, please use methods that can authenticate users from within your app. Authentication can only take place if the user has Instagram installed . If a user has the Instagram app installed but is not authenticated then upon clicking the sharing button they would be redirected to the Instagram in-app login screen where they would login and then be able to share their newly found quote.
+
+----------------
+
+September 23, 2015 at 6:45 PM
+From Apple
+2.2 - Apps that exhibit bugs will be rejected
+Hello,
+
+Thank you for your response. For your app to become compliant with guideline 10.6 it would be appropriate to update the app to not require the Instagram app.
+
+We look forward to reviewing your revised app.
+
+Best regards,
+
+App Store Review
+
+----------------
+
+
+September 23, 2015 at 8:00 PM
+Me:
+Lol, This thread is very humorous, an app that shares to Instagram that does not require Instagram , I see the Gods are against us.
+
+ Cheers

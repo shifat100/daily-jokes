@@ -1,0 +1,8 @@
+A Short History of Military Budget Cutbacks.
+In 2005, due to budget cutbacks the US army decided to start combining military occupational specialties within the computer science field into new MOSs. Soldiers that joined the army to write software now had to also know hardware. Soldiers that wanted to install cabling now also had to install fiber optic networking. Officers had to learn their new responsibilities just as their soldiers did in order to maintain a good work force. 
+
+In 2008, more budget cutbacks caused the same thing to happen. The soldiers doing hardware and software now had to learn how to install fiber optic cabling and do networking. Officers had to manage these new soldiers, but all worked out well.  
+
+In 2010, more cutbacks resulted in those same soldiers having to install network cabling that follow industry standard and insure all work is kept up to code. Officers took note and made sure their soldiers did their jobs correctly given the new responsibilities.
+
+In 2015, more budget cutbacks caused the MOSs to only be available to the officer core. All of the titles have been combined to a single position typically filled by a single lieutenant.  Every unit gets only one of these types of computer science officers. When the army needs support for hardware, software or any other computer type support they call the Software, Hardware, Information Technology, Industry Fiber-optic Installation & Networking Officer or SHITIFINO for short.
