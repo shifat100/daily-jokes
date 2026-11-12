@@ -1,0 +1,30 @@
+German
+I went to Google Translater to write something to my friend in German. 
+
+
+
+I typed in English: 
+
+
+
+Hey there! I am bored. What do you want to do? 
+
+
+
+It came out in German: 
+
+
+
+Hey dort!  ich werde gebohrt, was Sie tun mÃ¶chten? 
+
+
+
+If I translate it back into English, it comes out: 
+
+
+
+Hey there! I am bored, which you would like to do? 
+
+
+
+I don't want to do anyone!
