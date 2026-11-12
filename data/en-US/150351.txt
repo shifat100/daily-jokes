@@ -1,0 +1,2 @@
+A SQL Query walks into a bar
+It Drops by a Group of Tables and asks, "can I Join you?"
