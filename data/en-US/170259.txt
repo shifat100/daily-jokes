@@ -1,0 +1,10 @@
+Kinda nerdy IT thing that escaped my mouth today at work...
+I'd set up a server and tested everything internally. I was able to visit pages on the apache server, and make calls to the tomcat rest api servlet just fine. 
+
+However, when I tried external tests nothing worked. I checked,  rechecked and verified the firewall was allowing the correct ports through, the router had the correct port forwarding settings, and that apache and tomcat servers were set to those ports.
+
+After a couple hours of pulling my hair out, on a whim I decided to check our internet providers, Cox, policies on incoming traffic. It turns out they don't allow certain ports access, for security reasons. 
+
+Finally having found the answer, in a room full of people, in astonishment I exclaimed, "I've been Cox blocked!"
+
+(sorry all, I know it's really punny, but true stories occasionally are)

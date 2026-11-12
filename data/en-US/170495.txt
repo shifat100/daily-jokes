@@ -1,0 +1,7 @@
+3 Philosophers go to a bar
+when the bartender asks what they want
+the first one says "I'll have a beer"
+the second one says "me too"
+the third one doesn't get anything
+the bartender asks the first philosopher "why isn't that guy getting anything?"
+"because Immanuel Kant"

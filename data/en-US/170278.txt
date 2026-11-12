@@ -1,0 +1,8 @@
+The Programming Language Competition (OC)
+The programming languages are in a competition to see who's the best. 
+
+Java makes the brackets. In the major bracket, C++ is against C#. Binary is against assembly. C is against Java. Visual Basic is against PHP. Perl is against JavaScript. 
+
+And Python is in the lowest bracket, with all the esoteric programming languages like LOLCODE and Brainfuck. Normally a programming language as big as Python would be angry at this placement, but instead Python politely asks Java,
+
+"Excuse me. What's a bracket?"
