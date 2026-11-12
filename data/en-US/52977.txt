@@ -1,0 +1,2 @@
+Why the Indian programmers are good at C or Java, but not Basic?
+​Because they're cast-sensitive!
