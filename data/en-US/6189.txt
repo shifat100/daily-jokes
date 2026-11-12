@@ -1,0 +1,45 @@
+Trying to think of a new password
+WINDOWS:
+Please enter your new password.
+
+USER:
+cabbage
+ 
+WINDOWS:
+Sorry, the password must be more than 8 characters.
+
+USER:
+boiled cabbage
+
+WINDOWS:
+Sorry, the password must contain 1 numerical character.
+
+USER:
+1 boiled cabbage
+ 
+WINDOWS:
+Sorry, the password cannot have blank spaces.
+
+USER:
+50fuckingboiledcabbages
+ 
+WINDOWS:
+Sorry, the password must contain at least one upper case character.
+
+USER:
+50FUCKINGboiledcabbages
+ 
+WINDOWS:
+Sorry, the password cannot use more than one upper case character consecutively.
+
+USER:
+50FuckingBoiledCabbagesShovedUpYourAssIfYouDon'tGiveMeAccessNow!
+ 
+WINDOWS:
+Sorry, the password cannot contain punctuation.
+
+USER:
+ReallyPissedOff50FuckingBoiledCabbagesShovedUpYourAssIfYouDontGiveMeAccessNow
+
+WINDOWS:
+Sorry, that password is already in use.
