@@ -1,0 +1,10 @@
+Digits of Zero
+Is zero a 1-digit number or a 0-digit number, or neither? 
+
+
+
+You may think that 0 is a 1-digit number. However, this will make 00 a 2-digit number, 000 a 3-digit number, and so on. Leading zeros do not count towards the digits, and 0 itself is a leading zero.
+
+
+
+If you think that 0 is a 0-digit number, you're still wrong. 100 is a 3-digit number, 10 is a 2-digit number, 1 is a 1-digit number, and therefore, .1 is a 0-digit number, .01 is a -1-digit number, and so on. Therefore, the number of digits of a real number x is 1+int(lgx). Since lg0 is meaningless, the number of digits of 0 can't be defined.

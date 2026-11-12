@@ -1,0 +1,6 @@
+Waiter 4
+Customer: I see you have gravy on your menu today.
+
+  Waiter: Yes, sir.  What would you like to have?
+
+Customer: A clean menu!

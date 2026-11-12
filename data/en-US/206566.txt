@@ -1,0 +1,8 @@
+A Shepherd, a Wolf, and a Flock
+As a shepherd you herd your sheep into your barn.
+
+As you walk away you hear two wolves in the barn.
+
+What do you do?
+
+   I would get the flock out of there!
