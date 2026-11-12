@@ -1,0 +1,2 @@
+ISIS math problem
+Ahmed has 5 bags. If he gives 2 to Mohamed and 1 to Jamal. Then calculate the radius of the blast.

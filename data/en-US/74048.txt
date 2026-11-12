@@ -1,0 +1,18 @@
+Game of Sea Chicken
+While traversing the dark ocean at night, the captain of a Navy aircraft carrier sees a light straight ahead on a collision course with his ship. Not able to reach anyone by radio, he sends a Morse code message with his lights:
+
+"Warning! Change your course by 12 degrees west."
+
+After a short pause, the light signals back, "No. Change your course by 12 degrees east."
+
+Annoyed, the captain replies, "This is Carrier Strike Group 13; I order you to change your course!"
+
+"Change yours", came the quick response.
+
+Fuming now, the captain signals: 
+
+"Change your course now!! I'm evoking maritime law, which states that we have the right of way! If you don't change course immediately, prepare to be destroyed!"
+
+After a long pause, the captain receives one final message:
+
+"Uh, don't do that. I'm in a lighthouse."
