@@ -1,0 +1,4 @@
+To follow up on the Java/C# joke...
+Q: Why did the Java Developer quit his job?
+
+A: Because he didn't get arrays.
