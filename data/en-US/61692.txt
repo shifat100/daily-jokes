@@ -1,0 +1,2 @@
+3 Engineers
+Three engineers are gathered around counting steel bearings for a project. The electrical and mechanical engineer have counted 112 items, the computer engineer has counted 0111 0000. They sigh and move on to the next project they count those bearings and the two engineers come up with 5, while the computer engineer comes up with 4. They look at him, take a deep breath and say "Ok, binary was right, but what do you mean you only count 4 items?" The computer engineer responds "0,1,2,3,4"
