@@ -1,0 +1,32 @@
+Do you smoke?
+Lady: Do you smoke?
+
+Boy: Yes
+
+Lady: How many packs a day?
+
+Boy: 3 packs
+
+Lady: How much per pack?
+
+Boy: $10.00
+
+Lady: And how long have you been smoking?
+
+Boy: 15 years
+
+Lady: So 1 pack cost $10.00 and you have 3 packs a day which puts your spending each month at $900. In one year, it would be $10,800 correct?
+
+Boy: Correct
+
+Lady: If in 1 year you spend $10,800 not accounting for inflation, the past 15 years puts your spending at $162,000 correct?
+
+Boy: Correct
+
+Lady: Do you know that if you hadn't smoked, that money could have been put in a step-up interest savings account and after accounting for compound interest for the past15 years, you could have now bought a Ferrari?
+
+Boy: Do you smoke?
+
+Lady: No
+
+Boy: Then where's your fucking Ferrari?

@@ -1,0 +1,2 @@
+There are 10 types of people
+those who understand ternary, those who don't, and those who mistake it for binary.
