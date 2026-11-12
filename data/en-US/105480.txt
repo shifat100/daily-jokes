@@ -1,0 +1,16 @@
+Secret
+[1]There is a secret on 5  
+[2]I'm sorry for making you mad, look at 12  
+[3]I promise its on 7  
+[4]there is only a few more, its on 14  
+[5]Or was it on 9?  
+[6]I found it! its on 15.  
+[7]don't be mad, Its on 13  
+[8] I'm sorry for wasting your time.I love for going through this with me  
+[9]Wait, I think its 6.  
+[10]I promise its on 8.  
+[11]its at 3  
+[12]It will all be over soon, just go to 4  
+[13]I know you're mad, it's on 2  
+[14] last one, go to 10  
+[15]look at 11

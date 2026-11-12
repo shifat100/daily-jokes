@@ -1,0 +1,10 @@
+QA Engineer Goes To A Bar
+He orders 1 beer.
+
+He orders -1 beer.
+
+He orders 644644678 beer.
+
+He orders a goat.
+
+He orders asdfg.
