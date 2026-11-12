@@ -1,0 +1,2 @@
+There are 10 types of people in the world:
+People who understand ternary, people who don't, and people who thought this was going to be the binary joke.
