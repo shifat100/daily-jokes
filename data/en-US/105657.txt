@@ -1,0 +1,2 @@
+What's the final digit of the square root of 2 (√2)?
+I don't know, sometimes radicals can be irrational.
