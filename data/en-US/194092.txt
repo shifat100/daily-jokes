@@ -1,0 +1,17 @@
+Engineer, Physicist and Mathematician
+An engineer, a physicist, and a mathematician are sleeping in their respective hotel rooms when a problem with the hotel's electrical system causes sparks to fly from the sockets and catch fire to the wastepaper basket. 
+
+The engineer wakes up from the alarm, sees what is going on and runs to the bathroom. He fills a bucket with water, which he throws onto the wastepaper basket. Relieved that the fire is out, he goes back to bed.
+
+The physicist wakes up from the alarm and sees what is going on. He grabs a pad of paper and a pencil, and works out how much water he will need to put out the fire. He then goes to the bathroom and fills a bucket with the precise amount of water he needs (accounting for measurement error), and proceeds to put out the fire. He then goes back to bed.
+
+The mathematician wakes up from the alarm and sees what is going on. He grabs a pad of paper and a pencil, and works out how much water he will need to put out the fire.
+
+"Aha! A solution exists!" And he goes back to bed.
+
+
+*Alternate ending*
+
+Later that night the hotel's electrical system fails again, causing sparks to fly from the sockets and catch fire to the bed sheets. The mathematician wakes up, considers the fire, and then takes the still-burning sheets and puts them in the wastepaper basket. 
+
+"Aha! I've reduced the problem to a previously-solved form!" And he goes back to bed.

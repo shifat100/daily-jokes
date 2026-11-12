@@ -1,0 +1,5 @@
+An engineer, physicist and mathematician are in an interview (with no accountants) ...
+An engineer, a physicist and a mathematician are in an interview. 
+The engineer is asked, 'What is 2+2?'. The engineer instantly pulls out his calculator, but since its floating point processor firmware has a bug, 2+2 gives him 3.999 which he tells the panel. 
+The physicist is asked the same question, and he replies 'Well, using a back of the envelope calculation, 2 is order of magnitude 1. Adding two numbers of magnitude 1, will result in a number less than order of magnitude 2. Therefore 2 + 2 is less than 100'.
+They finally pose the problem to the mathematician, and he pulls out this notebook and starts scribbling. 30 minutes later, he looks up the panel and triumphantly declares, 'It converges!!!'
