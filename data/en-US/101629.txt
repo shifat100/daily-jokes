@@ -1,0 +1,5 @@
+You can tell the gender of an Ant by putting it in water
+If it sinks: Girl Ant
+
+
+If it floats: Boy ant

@@ -1,0 +1,5 @@
+About the newest Microsoft patch
+Microsoft confirms that there's an issue with their most recent patch: it can corrupt Windows installations.  A Microsoft developer by the name of Benedict [Last name withheld due to reddit rules] admitted that the code he wrote was faulty and could lead to corruption of some system files.   
+However, Microsoft still recommends downloading the patch, since these cases are rare, and a tool that repairs affected installations will be available by tomorrow, and can easily be downloaded, since the faulty patch doesn't break any Internet features.  Microsoft estimates that only 0.002% of Windows installations will be affected, and that on all other PCs, the patch does fix the bug it addresses.  Although some sources on the net claim otherwise, Microsoft states that...
+
+Benedict's Blunder Patch is low-key.
