@@ -1,0 +1,27 @@
+Salary Theorem: The less you know, the more money you'll earn (PROVEN INSIDE!)
+“Salary Theorem” states that “Engineers and Scientists can never earn as much as Business Executives and Sales People.”
+
+This theorem can now be supported by a mathematical equation based on the following two postulates:
+
+1. Knowledge is Power.
+2. Time is Money.
+
+As every engineer knows:
+Power = Work / Time
+
+Since:
+
+Knowledge = Power
+
+Time = Money
+
+It follows that:
+Knowledge = Work/Money.
+
+Solving for Money, we get:
+Money = Work / Knowledge.
+
+Thus, as Knowledge approaches zero, Money approaches infinity, regardless of the amount of work done.
+
+Conclusion:
+The less you know, the more you make.
