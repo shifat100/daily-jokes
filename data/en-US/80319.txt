@@ -1,0 +1,2 @@
+What's the difference between 2 objects?
+The properties that only one of them has.
