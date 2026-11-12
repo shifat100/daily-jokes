@@ -1,0 +1,4 @@
+Doctor: "I'm sorry but you suffer from a terminal illness and only have 10 to live"
+Patient: "What? 10 What? Years? Weeks?!!"
+
+Doctor: "Nine"

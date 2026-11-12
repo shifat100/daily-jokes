@@ -1,0 +1,16 @@
+I can't get WiFi on my phone
+Did Tech Support for an ISP
+
+Customer: "I can't get WiFi on my phone"
+
+TS : does routine checks, remote login to router, etc....
+
+TS : "All looks OK here. Can't see your phone connected to the router though I can see a computer and a TV box connected on Wi-Fi. Any errors on the phone?"
+
+Customer: "It looks OK. It worked fine yesterday"
+
+TS : does a bit more digging - can't see a problem
+
+TS : "can you move closer to the router?"
+
+Customer: "I'm in Spain on holidays - the router is back home, would that make a difference?"

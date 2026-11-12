@@ -1,0 +1,10 @@
+A software engineer walks into a bar.
+He sits down and sees the bartender yelling at the computer when trying to process a customer's order.
+
+"Why are you yelling at the computer?" the engineer asks.
+
+"Nothing is working! The software on the computer is riddled with bugs!" responds the bartender.
+
+The engineer takes a look at the computer and notices the software it is running was actually written by himself a few years earlier. Immediately, he gets offended.
+
+"Those aren't bugs!" the engineer yelled. "Those are alternative features!"
