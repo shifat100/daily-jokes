@@ -1,0 +1,25 @@
+A programmer is working on a convenience store cash register...
+A programmer is working on the software for a cash register computer at a convenience store. He finally thinks he got it done and tests a few items. Scans a gallon of milk:
+
+> $2.50
+
+Perfect. How about this bag of beef jerky?
+
+> $4.99
+
+Excellent. 20 oz soda?
+
+> $1.59
+
+Perfect. How about this box of cigarettes?
+
+> ERROR
+
+Huh? Maybe try this can of snuff?
+
+> ERROR
+
+Shit.  
+So he looks through the code again, making sure he checked every parenthesis and spelled every function correctly. He checks. Double checks. Triple checks. Finally, he sees the problem.
+
+It was a sin tax error.

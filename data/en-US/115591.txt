@@ -1,0 +1,8 @@
+password
+During a recent password audit, an employee was found using the following password:
+
+"MickeyMinniePlutoHueyLouieDeweyDonaldGoofySacramento"
+
+When asked why he had such a long password, they employee said he was told that it had to be at least 8 
+
+characters long and include one capital.
