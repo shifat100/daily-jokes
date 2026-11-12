@@ -1,0 +1,5 @@
+A TCP Request walks into a bar
+- I want a bier
+- Do you want a bier ?
+-Yes, I want a bier
+-Fine
