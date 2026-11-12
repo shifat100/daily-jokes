@@ -1,0 +1,12 @@
+The Evolution of Math Teaching
+**1960s:** A peasant sells a bag of potatoes for $10. His costs amount to 4/5 of his selling price. What is his profit?  
+
+**1970s:** A farmer sells a bag of potatoes for $10. His costs amount to 4/5 of his selling price, that is, $8. What is his profit?  
+
+**1980s:** A farmer exchanges a set P of potatoes with set M of money. The cardinality of the set M is equal to 10, and each element of M is worth $1. Draw ten big dots representing the elements of M. The set C of production costs is composed of two big dots less than the set M. Represent C as a subset of M and give the answer to the question: What is the cardinality of the set of profits?  
+
+**1990s:** A farmer sells a bag of potatoes for $10. His production costs are $8, and his profit is $2. Underline the word "potatoes" and discuss with your classmates.  
+
+**2000s:** A farmer sells a bag of potatoes for $10. His or her production costs are 0.80 of his or her revenue. On your calculator, graph revenue vs. costs. Run the POTATO program to determine the profit. Discuss the result with students in your group. Write a brief essay that analyzes this example in the real world of economics.  
+
+**2010s:** A person sells a bag of potatoes for $10. Circle the number that most accurately represents a real world example of his/her/er/its/their profit. Use the visual counting method to demonstrate understanding of Standard 14C, section 2.

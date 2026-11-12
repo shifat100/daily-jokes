@@ -1,0 +1,4 @@
+An electron is driving down the highway...
+...and a policeman pulls him over. The policeman says, “Sir, do you realize that you were traveling at 670,616,629 MPH?”
+
+The electron replies, “Oh great, now I’m lost.”
