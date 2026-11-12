@@ -1,0 +1,2 @@
+I see ISIS is finally practicing Structured Programming.
+They're eliminating GOTOs.
