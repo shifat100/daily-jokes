@@ -1,2 +1,0 @@
-The bartender asks the first one "What can I get you?"
-Two race conditions walk into a bar.

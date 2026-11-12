@@ -1,4 +1,0 @@
-A: What comes after 75?
-B: 76
-
-A: That's the spirit.

@@ -1,5 +1,0 @@
-Amazon Drones
-I read an article about drones recently. A software development firm was testing drones in the Amazon basin and developing mapping software when they began receiving strange anomalies in the data. 
-The drones were covering more area than they had modeled in the software. 
-They couldn't figure out why the drones were exceeding the units per second figures of their graphs. 
-That's when I realized: Amazon drones are always faster than U(nit)P(er)S(econd) estimations.
