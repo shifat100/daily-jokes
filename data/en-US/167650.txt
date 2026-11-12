@@ -1,0 +1,6 @@
+Diagnose
+Doctor: Well, those results look bad...
+Patient: How bad are they?
+Doctor: It depends, how old are you?
+Patient: I will be 24 soon.
+Doctor: Pffff, no you won't.
