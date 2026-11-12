@@ -1,0 +1,2 @@
+How does a tree access the internet?
+It logs on.
