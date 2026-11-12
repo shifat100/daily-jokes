@@ -1,0 +1,2 @@
+"Doctor, I'm feeling sick"
+"Well then, let's find out what you have. Would you cough once please?". The patient coughs. "Would you cough once more please?". The patient does as he is told and coughs a second time, then asks "So, what is wrong?". The doctor replies "I think you have a cough".

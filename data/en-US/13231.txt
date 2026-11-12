@@ -1,0 +1,6 @@
+A barber starts a conversation with a new customer
+* Barber: Where have you been getting your hair cut before coming here? 
+* Customer: Actually my dad's been doing it for a while now.
+* Barber: Is he Jewish or Italian? 
+* Customer: He's Italian, why do you ask? 
+* Barber: Well either he's cheap or he knows what he's doing.

@@ -1,0 +1,6 @@
+Doctor talking to a woman
+Doctor says: It looks like you're pregnant.
+
+Woman says: I'm pregnant?
+
+Doctor says: No, it just looks like you're pregnant.
