@@ -1,0 +1,2 @@
+Two programmers walk into a bar.
+However, they never made it past compile time because Error 4: 'bar' does not contain a definition for 'walkInto' and no extension method 'walkInto' accepting a first argument of type 'bar' could be found (are you missing a using directive or an assembly reference?)
