@@ -1,0 +1,4 @@
+Why should every woman know a C++ programmer?
+Because they'll always let friends access their private members.
+
+Ba dum tiss.
