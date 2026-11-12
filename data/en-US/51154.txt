@@ -1,0 +1,10 @@
+A betting syndicate hires a biologist, a statistician and a physicist to help them predict the outcome of horse races...
+They research for a year and then each of them reports back to the syndicate.
+
+The biologist tells them that he can breed them the perfect horse,that will win any race, but it'll cost 10 billion and take twenty years. They thank him, but tell him that's too much and turn to the statistician.
+
+The statistician tells them that he can write a formula to predict the outcome of every race, but he'll need a computer that'll cost 100 million and it'll only be right 49% of the time. They tell him that's worse than a coin flip and turn to the physicist.
+
+Now the physicist is beaming from ear to ear and proudly announces that he can win them every singe race no problem. Excited the syndicate begs him to tell them more, so he walks to a whiteboard and begins to sketch out his proposal. 
+
+"Now, to start with, we made a number of simplifying assumptions, beginning with presuming that each horse is a perfect sphere..."

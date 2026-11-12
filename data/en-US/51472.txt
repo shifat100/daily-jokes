@@ -1,0 +1,12 @@
+A biologist, a physicist, a mathematician, and an engineer...
+Came up with this a while back, and found it today. I cleaned it up a bit:
+
+A biologist, a physicist, a mathematician, and an engineer can't take it anymore and decide to commit suicide. 
+
+The biologist reviews some data and determines the impact velocity required to kill a human. He then  calculates the appropriate drop height using basic conservation of energy, and finds a suitable building.  The biologist jumps off, but the wind resistance slows him down just enough that he survives with major crippling injuries. 
+
+The physicist, hearing of this, develops a more complex model. He models himself as a uniform cone and uses a second order drag model to account for wind resistance. He obtains a numerical solution for the appropriate drop height, which is a little bit higher than what the biologist had anticipated. He finds a suitable building, and jumps off. On the way down, a strong gust blows him into a tree, and then he bounces to the ground. He survives with major crippling injuries. 
+
+The mathematician hears of this and is determined to do it right. He models himself as a non-uniform complex 3D body, and sets up a full-on coupled analysis using the Navier-Stokes equations. To determine the required impact velocity, he uses nonlinear FEA software to model skeletal impact. He then reviews 50 years of local wind statistics and surveys the surrounding area to determine any possible gusts and their respective  probabilities. He analyzes an array of scenarios using a supercomputer running the best CFD software, and determines a 99% confidence interval for the required drop height. He picks the highest number and applies an additional 10% margin of safety. Finally, the mathematician finds a suitable building and jumps off. Higher than average ambient temperatures cause a nearby snow pile to collapse and slide right into the impact zone. The snow cushions his fall just enough that he survives with major crippling injuries. 
+
+The engineer shot himself in the face.
