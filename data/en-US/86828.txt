@@ -1,0 +1,2 @@
+DC sends a friend request to Capacitor.
+Capacitor blocks DC.
