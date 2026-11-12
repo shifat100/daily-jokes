@@ -1,0 +1,4 @@
+Data
+Today, a CS professor asked us what data is.
+
+Apparently, even though technically correct, the plural form of datum was not the answer he had in mind...
