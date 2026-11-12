@@ -1,0 +1,2 @@
+Why does 0=1
+COS(0)=1
