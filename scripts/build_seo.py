@@ -170,7 +170,7 @@ def build_joke_page(lang: str, fname: str, joke: str, all_langs: list) -> str:
     <h1 style="font-size:1.25rem;margin-bottom:1rem;font-family:sans-serif;">{esc(name)} Joke</h1>
     <article style="white-space:pre-wrap;word-break:break-word;">{esc(joke)}</article>
     <p style="margin-top:2.5rem;font-size:.875rem;font-family:sans-serif;">
-      <a href="/index.html" style="color:#2563eb;text-decoration:none;font-weight:600;">← All {esc(name)} jokes</a>
+      <a href="/index.html" style="color:#2563eb;text-decoration:none;font-weight:600;">← Back</a>
     </p>
   </main>
 </body>
