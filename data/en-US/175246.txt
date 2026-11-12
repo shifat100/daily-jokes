@@ -1,0 +1,2 @@
+Philosopher’s game
+A philosopher is standing behind a desk with 3 red cups. As someone approaches it, he gets from his pocket a small piece of paper with just a small dot printed, hides it under one of the cups and shows that the other ones are empty. Then he shuffles the cups very fast and ask “What’s the point?”

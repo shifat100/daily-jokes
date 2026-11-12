@@ -1,0 +1,2 @@
+Why are Jedis allowed to use negative numbers?
+Because only Siths deal in absolutes.
