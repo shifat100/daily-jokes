@@ -1,0 +1,2 @@
+I don't like Fahrenheit. I don't like Celsius. I don't like Kelvin.
+I prefer to measure my degrees in Radians.

@@ -1,0 +1,20 @@
+A knock knock joke.
+[1] - "Knock knock."
+
+[2] - "Who's there?"
+
+[1] - "WooOOooOOo it's me a spooky ghost."
+
+[2] - "Oh no! Go away from me you spooky ghost!"
+
+[1] - "No thank you."
+
+[2] - "Ok. Do you want a cup of tea?"
+
+[1] - "What teabags have you got?"
+
+[2] - "I have green te- oh wait you can't have tea because you're a ghost."
+
+[1] - "Oh yeah..."
+
+The ghost flies away, clearly upset.
