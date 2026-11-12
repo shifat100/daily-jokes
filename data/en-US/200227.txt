@@ -1,0 +1,20 @@
+Three Boys
+There were three boys with names Shutup, Manners and Trouble. They were walking around town when they realized Trouble was missing. Shutup and Manners searched and searched but failed to find the missing boy. At a lost, they went up to the Neighbourhood Police Post. Manners had to go to the toilet so Shutup went up and spoke to the policeman there.
+
+
+
+Policeman=P Shutup=S
+
+
+
+P: Hi little boy, what's your name?
+
+S: Shutup
+
+P: What a rude boy! Where are your manners?
+
+S: At the toilet
+
+P: What are you talking about? Are you looking for trouble here?
+
+S: Yes

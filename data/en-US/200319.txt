@@ -1,0 +1,20 @@
+Look at the Check
+A guy eats at a restaurant.
+
+At the end of the meal, the guy looks at the check:
+
+Salads . . . . . . $3
+
+Steak . . . . . . $10
+
+Works . . . . . . .$5
+
+Cola . . . . . . . $2
+
+-----------------------
+
+Total             $20
+
+The customer asked the waiter "What's 'works'?"
+
+"This time it didn't work" said the waiter and crossed out that row.
