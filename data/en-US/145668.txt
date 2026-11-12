@@ -1,0 +1,214 @@
+Abbot and Costello: Computer Shopping
+ABBOT: Ultimate Super Duper Computer Store. Can I help you? 
+
+COSTELLO: Thanks. I'm setting up a home office in the den, and I'm thinking of buying a computer. 
+
+ABBOT: Mac? 
+
+COSTELLO: No, the name is Bud. 
+
+ABBOT: Your computer? 
+
+COSTELLO: I don't own a computer. I want to buy one. 
+
+ABBOT: Mac? 
+
+COSTELLO: I told you, my name is Bud. 
+
+ABBOT: What about Windows? 
+
+COSTELLO: Why? Does it get stuffy? 
+
+ABBOT: Do you want a computer with Windows? 
+
+COSTELLO: I don't know. What do I see when I look out the windows? 
+
+ABBOT: Wallpaper. 
+
+COSTELLO: Never mind the windows. I need a computer and software. 
+
+ABBOT: Software that runs on Windows? 
+
+COSTELLO: No, on the computer! I need something I can use to write proposals, track expenses. You know, run a business. What have you got? 
+
+ABBOT: Office. 
+
+COSTELLO: Yeah, for my office. Can you recommend anything? 
+
+ABBOT: I just did. 
+
+COSTELLO: You just did what? 
+
+ABBOT: Recommended something. 
+
+COSTELLO: You recommended something? 
+
+ABBOT: Yes. 
+
+COSTELLO: For my office? 
+
+ABBOT: Yes. 
+
+COSTELLO: Okay, what did you recommend for my office? 
+
+ABBOT: Office. 
+
+COSTELLO: Yes, for my office. 
+
+ABBOT: Office for Windows. 
+
+COSTELLO: I already have an office and it already has windows! Let's say I'm sitting at my computer, and I want to type a proposal. What do I need? 
+
+ABBOT: Word. 
+
+COSTELLO: If I'm writing a proposal, I'm going to need lots of words. But what program do I load? 
+
+ABBOT: Word. 
+
+COSTELLO: What word? 
+
+ABBOT: The Word in Office. 
+
+COSTELLO: The only word in office is office. 
+
+ABBOT: The Word in Office for Windows. 
+
+COSTELLO: Which word in "office for windows?" 
+
+ABBOT: The Word you get when you click the blue W. 
+
+COSTELLO: I'm going to click your big W if you don't give me a straight answer. Let's forget about words for a minute. What do I need if I want to watch a movie over the Internet? 
+
+ABBOT: RealOne. 
+
+COSTELLO: Maybe a real movie, maybe a cartoon. What I watch is none of your business. But what do I need to watch it? 
+
+ABBOT: RealOne. 
+
+COSTELLO: If it's a long movie I'll also want to watch reels two, three and four. Can I watch reel four? 
+
+ABBOT: Of course. 
+
+COSTELLO: Great! With what? 
+
+ABBOT: RealOne. 
+
+COSTELLO: Okay, so I'm sitting at my computer and I want to watch a movie. What do I do? 
+
+ABBOT: You click the blue 1. 
+
+COSTELLO: I click the blue one what? 
+
+ABBOT: The blue 1. 
+
+COSTELLO: Is that different from the blue W? 
+
+ABBOT: Of course it is. The blue 1 is Real One. The blue W is Word. 
+
+COSTELLO: What word? 
+
+ABBOT: The Word in Office for Windows. 
+
+COSTELLO: But there's three words in "office for windows!" 
+
+ABBOT: No, just one. But it's the most popular Word in the world. 
+
+COSTELLO: It is? 
+
+ABBOT: Yes, although to be fair there aren't many other Words left. It pretty much wiped out all the other Words. 
+
+COSTELLO: And that word is the real one? 
+
+ABBOT: No. Real One has nothing to do with Word. Real One isn't even part of Office. 
+
+COSTELLO: Never mind; I don't want to get started with that again. But I also need something for bank accounts, loans, and so on. What do you have to help me track my money? 
+
+ABBOT: Money. 
+
+COSTELLO: That's right. What do you have? 
+
+ABBOT: Money. 
+
+COSTELLO: I need money to track my money? 
+
+ABBOT: No, not really. It comes bundled with your computer. 
+
+COSTELLO: What comes bundled with my computer? 
+
+ABBOT: Money. 
+
+COSTELLO: Money comes bundled with my computer? 
+
+ABBOT: Exactly. No extra charge. 
+
+COSTELLO: I get a bundle of money with my computer at no extra charge? How much money do I get? 
+
+ABBOT: Just one copy. 
+
+COSTELLO: I get a copy of money. Isn't that illegal? 
+
+ABBOT: No. We have a license from Microsoft to make copies of Money. 
+
+COSTELLO: Microsoft can license you to make money? 
+
+ABBOT: Why not? They own it. 
+
+COSTELLO: Well, it's great that I'm going to get free money, but I'll still need to track it. Do you have anything for managing your money? 
+
+ABBOT: Managing Your Money? That program disappeared years ago. 
+
+COSTELLO: Well, what do you sell in its place? 
+
+ABBOT: Money. 
+
+COSTELLO: You sell money? 
+
+ABBOT: Of course. But if you buy a computer from us, you get it for free. 
+
+COSTELLO: That's all very wonderful, but I'll be running a business. Do you have any software for, you know, accounting? 
+
+ABBOT: Simply Accounting. 
+
+COSTELLO: Probably, but it might get a little complicated. 
+
+ABBOT: If you don't want Simply Accounting, you might try M.Y.O.B. 
+
+COSTELLO: M.Y.O.B.? What does that stand for? 
+
+ABBOT: Mind Your Own Business. 
+
+COSTELLO: I beg your pardon? 
+
+ABBOT: No, that would be I.B.Y.P. I said M.Y.O.B. 
+
+COSTELLO: Look, I just need to do some accounting for my home business. You know--accounting? You do it with money. 
+
+ABBOT: Of course you can do accounting with Money. But you may need more. 
+
+COSTELLO: More money? 
+
+ABBOT: More than Money. Money can't do everything. 
+
+COSTELLO: I don't need a sermon! Okay, let's forget about money for the moment. I'm worried that my computer might... what's the word? Crash. And if my computer crashes, what can I use to restore my data? 
+
+ABBOT: Go Back. 
+
+COSTELLO: Okay. I'm worried about my computer smashing and I need something to restore my data. What do you recommend? 
+
+ABBOT: Go Back. 
+
+COSTELLO: How many times do I have to repeat myself? 
+
+ABBOT: I've never asked you to repeat yourself. All I said was Go Back. 
+
+COSTELLO: How can I go back if I haven't even been anywhere? Okay, I'll go back. What do I need to write a proposal? 
+
+ABBOT: Word. 
+
+COSTELLO: But I'll need lots of words to write a proposal. 
+
+ABBOT: No, you only need one Word-the Word in Office for Windows. 
+
+COSTELLO: But there's three words in ... Oh, never mind. 
+
+ABBOT: Hello? Hello? Customers! Why do they always hang up on me? Oh, well. Ultimate Super Duper Computer Store: Can I help you?
