@@ -1,0 +1,3 @@
+Sometimes programming gets dirty...
+holes[h].insert(new Objects.ConcretePillar(),
+                    new Vec2());
