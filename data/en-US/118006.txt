@@ -1,0 +1,30 @@
+11 Geeky Jokes
+1. What does a subatomic duck say “Quark”.
+
+2. Why did I divide Sin by Tan, Just Cos.
+
+3. Why programmers like UNIX:
+unzip, strip, touch, finger, grep, mount, fsck, more, yes, fsck, fsck, fsck, umount, sleep
+
+4. Why can’t you trust atoms, they make up everything.
+
+5. A penny saved is 1.39 cents earned, if you consider income tax.
+
+6. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity.
+
+7. 1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
+
+8. Two inventions came out of Berkeley: LSD and Unix. We don’t believe this is a coincidence.
+
+9. A physicist, an engineer and a programmer were in a car driving over a steep alpine pass when the brakes failed. The car was getting faster and faster, they were struggling to get round the corners and once or twice, only the feeble crash barrier saved them from crashing down the side of the mountain. They were sure they were all going to die, when suddenly they spotted an escape lane. They pulled into the escape lane, and came safely to a halt.
+The physicist said “We need to model the friction in the brake pads and the resultant temperature rise, see if we can work out why they failed”.
+The engineer said “I think I’ve got a few spanners in the back. I’ll take a look and see if I can work out what’s wrong”.
+The programmer said “Why don’t we get going again and see if it’s reproducible?”
+
+10. If your mom was a collection class, her insert method would be public.
+
+11. http://www.google.com/search?hl=en&q=recursion
+
+Bonus 12th Joke: The only “intuitive” user interface is the nipple. After that, it’s all learned.
+
+Source: http://clickfifty.com/11-super-nerd-jokes-thatll-ground-you
