@@ -1,0 +1,2 @@
+Can somebody help me debug Malaysian Flight Simulator?
+It keeps crashing unexpectedly :/

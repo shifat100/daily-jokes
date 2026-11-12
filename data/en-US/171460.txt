@@ -1,0 +1,20 @@
+For all you web developers out there.
+Why couldn't the div buy a drink? 
+
+It lacked id.
+
+Why couldn't the div find a girlfriend?
+
+It lacked class.
+
+Why wasn't the div good at diplomacy?
+
+Its position was absolute.
+
+Why was the div an anarchist?
+
+It had no borders.
+
+Why couldn't the div play poker?
+
+It had 0 opacity.
