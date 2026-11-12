@@ -1,0 +1,2 @@
+What were the favorite Linux text editors of 8 randomly selected Monty Python fans?
+vim, vim, vim, vim, vim, vim, emacs, and vim.
