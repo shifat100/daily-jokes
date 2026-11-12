@@ -1,0 +1,2 @@
+The two Propositional Logic professors at a local university are named Professor P and Professor Q.
+Police question Professor P about the identity of a criminal who has committed a series of heinous acts. P implies Q.
