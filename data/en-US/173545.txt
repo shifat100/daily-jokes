@@ -1,0 +1,8 @@
+A group of researchers were interested in studying...
+...some of the complex effects of stereotype threat in test-taking situations. Stereotype threat is a social psychology theory that states an individual may experience anxiety when they have the potential to confirm a negative stereotype, thus adversely affecting their performance on a test. For example, women who were explicitly exposed to the stereotype that "females tend to perform more poorly than men on math tests" did in fact perform worse than women who took the test under neutral conditions.
+
+Similarly, researchers have also found that a stereotype boost exists, where an individual performs better when explicitly exposed to a positive stereotype prior to taking a test. For example, Asians tended to perform better on math tests when primed with the stereotype that "Asians tend to perform better than other races on math tests."
+
+The present researchers were interested in a situation where two conflicting stereotypes might compete with each other. The research design was to simply administer math tests to Asian females - half the group would be primed on the two conflicting stereotypes (Asians are good at math; females are bad at math), while the other half would receive no stereotype priming.
+
+Results were inconclusive, as every research subject reported being involved in a car accident on the way to the lab.
