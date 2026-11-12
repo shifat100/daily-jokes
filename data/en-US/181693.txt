@@ -1,0 +1,10 @@
+The Post Office
+I went for a job at the Royal Mail sorting office yesterday. After the interview I was given a tour of the depot.
+
+I asked the guy taking the tour "What's that machine?"
+
+"That's the Acme 3000 Auto Sorter System. It can sort 150,000 letters an hour and it's 99.5% accurate. It's controlled by 12 supercomputers, each of which is 5000 times more powerful than an average desktop PC. It has over 15,000 state-of-the-art optical location identification sensors, contains enough circuit boards to entirely cover the pitch at the new Wembley stadium and it has 200 miles of fibre-optic cable. It cost over £100 million to develop," he boasted proudly.
+
+"What happens to the letters after it's finished sorting them?" I asked.
+
+"We give them to a bloke on a push bike."

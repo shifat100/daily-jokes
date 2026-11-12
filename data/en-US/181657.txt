@@ -1,0 +1,38 @@
+Passwords
+"Sorry, your password has been in use for 90 days and has expired - you must register a new one."
+
+roses
+
+"Sorry, too few characters."
+
+pretty roses
+
+"Sorry, you must use at least one numerical character." 
+
+1 pretty rose
+
+"Sorry, you cannot use blank spaces." 
+
+1prettyrose
+
+"Sorry, you must use at least 10 different characters."
+ 
+1fuckingprettyrose
+
+"Sorry, you must use at least one upper case character." 
+
+1FUCKINGprettyrose
+
+"Sorry, you cannot use more than one upper case character consecutively." 
+
+1FuckingPrettyRose
+
+"Sorry, you must use no fewer than 20 total characters."
+ 
+1FuckingPrettyRoseShovedUpYourAssIfYouDon'tGiveMeAccessRightFuckingNow!
+
+"Sorry, you cannot use punctuation."
+ 
+1FuckingPrettyRoseShovedUpYourAssIfYouDontGiveMeAccessRightFuckingNow
+
+"Sorry, that password is already in use."
