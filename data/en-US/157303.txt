@@ -1,0 +1,2 @@
+Why did Darwin love CSS?
+Because children inherit properties from their parents.
