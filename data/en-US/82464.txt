@@ -1,0 +1,5 @@
+Schrödinger's Omlette
+Up until you flip the omelette, you don't know if it's an omelette or scrambled eggs.
+
+If it flips, omelette it is
+If it doesn't, scrambled it is
