@@ -1,0 +1,2 @@
+Customer: "Do you sell a 'best of' Enya album here?"
+Cashier: "What do you want - a blank CD?"

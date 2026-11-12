@@ -1,0 +1,4 @@
+Two men stage a bet to see if they can answer each other's questions.
+There are two men, one is rather intelligent (Man A), and he proposes to his friend (Man B), a lesser intelligent man, that they will both ask each other a question. If Man B cannot answer Man A's question correctly, Man B must give him £1. However if Man A cannot answer Man B's question correctly, then he will give Man B £1000.
+
+They both ponder for a few seconds and each come up with a question. Man A asks a difficult chemistry question however Man B does not know the answer and so he hands over £1. Man B then asks his question and says to Man A "What animal has 7 legs, fourteen noses, and lives underwater?". Man A admits he does not know the answer and hands over £1000. Man A says, "Go on then, what *is* the animal?" Man B hands over another £1.
