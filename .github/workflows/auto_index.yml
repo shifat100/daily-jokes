@@ -58,7 +58,7 @@ jobs:
             echo "No changes to commit."
           else
             # [skip ci] দিলে অ্যাকশনের পুশ থেকে আবার দ্বিতীয়বার অ্যাকশন রান হয়ে লুপ তৈরি হবে না
-            git commit -m "Auto indexed & SEO build: $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
+            git commit -m "Updated"
             git pull --rebase origin main
             git push origin main
           fi
