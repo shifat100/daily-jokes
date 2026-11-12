@@ -1,0 +1,7 @@
+So this guy goes to the bank
+and wants help with his online banking. The banker quickly realizes that the customer simply locked himself out of the online account, so the banker unlocks the account. The customer then tries to log in using the mobile app, but fails. 
+The banker, confused, unlocks the account and asks if the customer may have forgotten his password, but the customer says that he knows what the password is. The banker, a little annoyed now, suggests that the customer use an internet browser instead of the mobile app. 
+The customer tries to log in again on the browser, but fails. He makes some off comment about "the wonders of technology." The banker, getting angry, again suggests that the customer may have forgotten his password. The customer agrees.
+The banker, hoping to be done with the customer, resets the password. When the customer receives the temporary password via email, he uses it to successfully log in and change his password.
+He then asks, "How is it that we can send a rocket into outer space and have it return home safely, but it is so difficult to log into online banking?!"
+The banker responds, "Because you're not working at NASA"
