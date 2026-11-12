@@ -1,0 +1,8 @@
+cat swimming contest
+There were 3 cats who entered a swimming contest. 
+An english cat named one, two, three
+A spanish cat names uno, dos, tres
+And a french cat named un, deux, trois
+After the contest, the cats stood on the podium to receive their medals. One, two, three was awarded 1st place. Uno, dos tres was awarded 2nd place. But what was Un, deux, trois awarded? Un, deux, trois, cat^*, cinq!
+
+^* 4 is spelled quatre in french but when you're typing it the R messes people up

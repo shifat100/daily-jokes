@@ -1,0 +1,6 @@
+Intern at NSA
+A bright young MIT CS grad applies for the position of Intern at NSA. The interviewer asks: "As a practice test, you have to implant five of these latest browser exploits on the machines of five random users and one exchange server"
+
+Grad: "But why the exchange server?"
+
+Interviewer: "Fantastic attitude! You've got the job."
