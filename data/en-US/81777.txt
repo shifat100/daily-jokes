@@ -1,0 +1,2 @@
+Sql Query
+A Sql query walks up to two tables in a restaurant and asks: "Mind if I join you?"
