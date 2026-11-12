@@ -1,0 +1,2 @@
+How do you process a queue of table delete requests for an asynchronous database?
+Pop, Lock & Drop It

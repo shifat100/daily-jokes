@@ -1,0 +1,11 @@
+One of these things is not like the other
+Which one of these things is not like the other?
+
+-A large all dressed pizza & bread sticks
+-A degree in neuroscience
+-A degree in theoretical mathematics
+-A degree in engineering
+
+Answer: A degree theoretical mathematics.
+
+Reasoning: All of these can feed a family of four except for the answer
