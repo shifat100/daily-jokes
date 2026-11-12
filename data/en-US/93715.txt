@@ -1,0 +1,2 @@
+TIL of Cunningham's Law
+It states that the best way to get the right answer on the internet is to ask a question.
