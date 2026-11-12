@@ -4,40 +4,61 @@ on:
   push:
     paths:
       - 'data/**/*.txt'
+      - 'scripts/**'
   schedule:
-    - cron: '0 18 * * *'
-  workflow_dispatch:
+    - cron: '0 18 * * *'    # প্রতিদিন বাংলাদেশ সময় রাত ১২টায় (UTC 18:00)
+  workflow_dispatch:        # গিটহাব থেকে ম্যানুয়ালি রান করার বাটন
 
+# একই সাথে একাধিক বিল্ড চালু হয়ে গিট কনফ্লিক্ট যাতে না হয়
+concurrency:
+  group: build-and-seo
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Rebuild manifests
+      - name: Rebuild Manifests
         run: python scripts/rebuild_manifests.py
 
-      - name: Build SEO pages
+      - name: Build SEO Static Pages
         run: python scripts/build_seo.py
 
-      - name: Show generated structure
+      - name: Show Generated Structure
         run: |
           echo "===== data/ ====="
           ls -R data/ || true
-          echo "===== root ====="
-          ls -la
+          echo "===== lang/ ====="
+          ls -R lang/ || true
+          echo "===== Root (sitemap & robots) ====="
+          ls -la sitemap.xml robots.txt || true
 
-      - name: Commit
+      - name: Commit and Push Changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add -A
-          git commit -m "Updated" || echo "No changes to commit"
-          git push
+          
+          # যদি কোনো পরিবর্তন না থাকে তবে এরর ছাড়াই শেষ হবে
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            # [skip ci] দিলে অ্যাকশনের পুশ থেকে আবার দ্বিতীয়বার অ্যাকশন রান হয়ে লুপ তৈরি হবে না
+            git commit -m "Auto indexed & SEO build: $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          fi
