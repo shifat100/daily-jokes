@@ -1,0 +1,8 @@
+An engineer, a physicist, and a mathematician are all attending a conference.
+By chance they wind up staying on the same floor of a certain hotel. 
+
+Late that evening, the engineer is awoken by the smell of smoke. He steps into the hallway and sees a small fire. Thinking quick, he dumps out his wastepaper basket, fills it with water, and douses the flames. Satisfied, he goes back to bed.
+
+Later still, the physicist is also awoken by the smell of smoke. When he investigates, he finds a second fire raging in the hallway. He dashes to the end of the hall and grabs a fire extinguisher. In the time it takes him to do this, the fire grows in size, but he's able to do some quick mental calculations and find the optimal place to aim the fire extinguisher's nozzle. He succeeds in putting out the fire, and returns the extinguisher to its holder. Satisfied, he goes back to bed.
+
+Finally, near dawn, the mathematician wakes up to the smell of smoke. He saunters into the hallway and -- you guessed it -- finds a fire. Glancing up and down the hallway, he spies the fire extinguisher sitting in its holder. "Aha!" he says triumphantly, "a solution exists!" Satisfied, he goes back to bed.
