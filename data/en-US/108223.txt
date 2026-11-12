@@ -1,0 +1,3 @@
+The doctor comes to a patient
+Doc: You have cancer and alzheimer.
+Patient: That's fine, atleast i don't have cancer.

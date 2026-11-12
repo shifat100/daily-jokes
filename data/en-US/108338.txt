@@ -1,0 +1,14 @@
+A software test engineer walks into a bar...
+He orders a beer
+
+He orders two beers
+
+He orders 0 beers
+
+He orders 999,999,999 beers
+
+He orders a tree
+
+He orders #@$SDFFA$#@! beers
+
+He walks away without paying
