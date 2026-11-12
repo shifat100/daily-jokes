@@ -1,0 +1,2 @@
+Do you want to examine a whole colon?
+;;

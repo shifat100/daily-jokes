@@ -1,0 +1,7 @@
+Levenshtein visits the doctor.
+He tells the doctor, "I have severe troubles with my digestion, what could I possibly do?"
+The doctor asks: "Do you drink?" - "Well, sure, every other evening, what's wrong with that?"
+"Do you eat a lot of meat?" - "Of course, I wouldn't trade it for the world! Spicy, too, if possible."
+The doctor turns to some other papers, and says "Cut back on both, and she'll be apples."
+Levenshtein rises from his seat, and wordlessly leaves the practice.
+"Hey! My advice is 50 Rubles!" - "Well, who's following it?"
