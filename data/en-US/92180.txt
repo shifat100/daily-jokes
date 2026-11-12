@@ -1,0 +1,20 @@
+A teacher asks a student a question.
+Teacher: If I give you two cats, then two more cats, and then another two cats, how many cats do you have?
+
+Student: Seven.
+
+Teacher: Listen carefully. If I give you two cats, then two more cats, and then another two cats, how many cats do you have?
+
+Student: Seven.
+
+Teacher: Okay, how about I put it this way. If I give you two apples, then two more apples, and then another two apples, how many apples do you have?
+
+Student: Six.
+
+Teacher: Good, you get it! So if I give you two cats, then two more cats, and then another two cats, how many cats do you have??
+
+Student: Seven.
+
+Teacher: Why the heck seven??
+
+Student: Because I already have a cat!

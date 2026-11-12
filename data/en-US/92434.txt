@@ -1,0 +1,2 @@
+How do Jedis close their programs on a Mac?
+They use Force quit.
