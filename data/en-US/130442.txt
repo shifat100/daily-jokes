@@ -1,0 +1,4 @@
+Eight bytes walk into a bar
+The bartender asks, "can I get you something?" 
+
+"Yeah", the bytes reply, "make us a double"

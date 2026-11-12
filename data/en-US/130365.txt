@@ -1,0 +1,2 @@
+Interviewer: Are you good at programming? Me: Yes, I'm very good at writing nondeterministic C++ programs. Interviewer gives me the job.
+#nerdjokes
