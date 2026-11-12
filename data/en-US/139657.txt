@@ -1,0 +1,2 @@
+Why was the lonely instantiated object always asked to sit in the hallway at school?
+Because only friends were allowed to access the class.

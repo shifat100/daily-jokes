@@ -1,0 +1,7 @@
+An unemployed engineer...
+if ( engineer == employed() ) {
+print "Meh";
+}
+else {
+make_a_stùpid_joke ();
+}

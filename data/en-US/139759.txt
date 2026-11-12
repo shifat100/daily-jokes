@@ -1,0 +1,12 @@
+America and Britain
+Britain: flavour 
+America: flavour
+
+Britain: colour 
+America color
+
+Britain: favourite 
+America: favorite 
+
+Britain: "America what are you doing?"
+America: "Getting rid of u"
