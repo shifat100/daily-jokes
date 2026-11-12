@@ -1,0 +1,2 @@
+My friend is working on a website and told me he wanted to use MySQL.
+Why can't he just use HisOwnSQL?

@@ -1,0 +1,16 @@
+A man entered a pet shop...
+...wanting to buy a parrot. The shop owner pointed out three identical parrots on a perch and said, "The parrot to the left costs 500 dollars."
+
+"Why does that parrot cost so much?" the man wondered.
+
+The owner replied, "Well, it knows how to use a computer."
+
+The man asked about the next parrot on the perch.
+
+"That one costs 1,000 dollars because it can do everything the other parrot can do, plus it knows how to use the UNIX operating system." Naturally, the startled customer asked about the third parrot.
+
+"That one costs 2,000 dollars."
+
+"And what does that one do?" the man asked.
+
+The owner replied, "To be honest, I've never seen him do a thing, but the other two call him boss!"
