@@ -1,0 +1,224 @@
+Windows 98 Errors
+Recently the following undocumented Windows 98 error-codes were found. Microsoft forgot to explain them in the manuals, so they will be spread via the Internet:
+
+
+
+WinErr: 001
+
+Windows loaded - System in danger
+
+
+
+WinErr: 002
+
+No Error - Yet
+
+
+
+WinErr: 003
+
+Dynamic linking error - Your mistake is now in every file
+
+
+
+WinErr: 004
+
+Erroneous error - Nothing is wrong
+
+
+
+WinErr: 005
+
+Multitasking attempted - System confused
+
+
+
+WinErr: 006
+
+Malicious error - Desqview found on drive
+
+
+
+WinErr: 007
+
+System price error - Inadequate money spent on hardware
+
+
+
+WinErr: 008
+
+Broken window - Watch out for glass fragments
+
+
+
+WinErr: 009
+
+Horrible bug encountered - God only knows what has happened
+
+
+
+WinErr: 00A
+
+Promotional literature overflow - Mailbox full
+
+
+
+WinErr: 00B
+
+Inadequate disk space - Free at least 500MB
+
+
+
+WinErr: 00C
+
+Memory hog error - More Ram needed. More! More! More!
+
+
+
+WinErr: 00D
+
+Window closed - Do not look outside
+
+
+
+WinErr: 00E
+
+Window open - Do not look inside
+
+
+
+WinErr: 00F
+
+Unexplained error - Please tell us how this happened
+
+
+
+WinErr: 010
+
+Reserved for future mistakes by our developers
+
+
+
+WinErr: 013
+
+Unexpected error - Huh ?
+
+
+
+WinErr: 014
+
+Keyboard locked - Try anything you can think of.
+
+
+
+WinErr: 018
+
+Unrecoverable error - System has been destroyed. Buy a new one. Old Windows license is not valid anymore.
+
+
+
+WinErr: 019
+
+User error - Not our fault. Is Not! Is Not!
+
+
+
+WinErr: 01A
+
+Operating system overwritten - Please reinstall all your software... Yet again.
+
+
+
+WinErr: 01B
+
+Illegal error - You are not allowed to get this error. Next time you will get a penalty for that.
+
+
+
+WinErr: 01C
+
+Uncertainty error - Uncertainty may be inadequate.
+
+
+
+WinErr: 01D
+
+System crash - We are unable to figure out our own code.
+
+
+
+WinErr: 01E
+
+Timing error - Please wait. And wait. And wait. And wait.
+
+
+
+WinErr: 01F
+
+Reserved for future mistakes of our developers.
+
+
+
+WinErr: 020
+
+Error recording error codes - Additional errors will be lost.
+
+
+
+WinErr: 042
+
+Virus error - A virus has been activated in a DOS session. The virus, however, requires Windows. All tasks will automatically be closed and the virus will be activated again.
+
+
+
+WinErr: 079
+
+Mouse not found - A mouse driver has not been installed. Please click the left mouse button to continue.
+
+
+
+WinErr: 103
+
+Error buffer overflow - Too many errors encountered. Additional errors may not be displayed or recorded.
+
+
+
+WinErr: 678
+
+This will end your Windows session. Do you want to play another game?
+
+
+
+WinErr: 683
+
+Time out error - Operator fell asleep while waiting for the system to complete boot procedure.
+
+
+
+WinErr: 815
+
+Insufficient Memory - Only 50,312,583 bytes available.
+
+
+
+WinErr: 844
+
+Competing Product - Remove all competing products and install Microsoft equivalents.
+
+
+
+WinErr: 910
+
+Personal Data Communicate Difficulties - Could not transmit social insurance number and or tax details back to Microsoft headquarters for further analysis.
+
+
+
+WinErr: 960
+
+Minimal Effort - User has only reinstalled Internet Explorer four times while trying to get it operational, please reinstall again.
+
+
+
+WinErr: 2000
+
+You have not downloaded your daily Y2K and security glitch patch.
