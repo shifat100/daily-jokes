@@ -1,0 +1,4 @@
+Why should jokes always be sent over TCP?
+Because you're assured that the recipient will get it.
+
+(Don't you DARE explain the joke in the comments)

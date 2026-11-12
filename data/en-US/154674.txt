@@ -1,0 +1,6 @@
+A Calculus joke
+Verbatim from what my professor just showed in one of my engineering classes: 
+
+e^x and a constant are walking down the street together when the constant sees a differential operator coming their way. He starts to run away, and e^x asks "Why are you running away?" The constant answers, "That's a differential operator. If it acts on me, I'll disappear." e^x says "I'm e^x, I don't have anything to worry about," and keeps walking. When he reaches the differential operator, he says "Hi, I'm e^x."
+
+The differential operator responds, "Hi, I'm d/dy."
