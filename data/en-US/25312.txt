@@ -1,0 +1,5 @@
+Teacher to student
+Teacher to student: “Make a sentence using the word “I”
+Student: “I is..”
+Teacher: “No that is not correct, you should say I am”
+Student: “Ok. I am the ninth letter in the Alphabet”!

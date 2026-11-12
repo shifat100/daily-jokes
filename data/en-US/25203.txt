@@ -1,0 +1,16 @@
+I took my laptop to the doctor after it got a virus.
+The doctor gave me some pills to give to my laptop. Now when I boot it up it gives me an error. So I took it to the doctor again.
+
+The doc: ... and what virus was it again?
+
+Me: umm, A trojan.
+
+The doc: Trojan?
+
+Me: yeah..
+
+The doc: Just delete Win32, that will solve all of your problems.
+
+Me: umm, ok.
+
+Now when I boot up my laptop, it says that I have deleted system files. I wonder who that 'doctor' was.

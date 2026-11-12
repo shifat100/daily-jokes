@@ -1,0 +1,14 @@
+Archery Competition
+Three archers decide to participate in a tournament where each of them has to shoot an apple that is standing on top of a volunteer's head.
+
+The first archer shoots his arrow and it hits dead center on the apple; filled with confidence, he turns to the crowd and says:
+
+"I'm William Tell!"
+
+The second also hits the apple dead center, and says:
+
+"I'm Robin Hood!"
+
+The third archer is not so lucky, and the arrow goes through the volunteer's head. The archer turns to the crowd and says:
+
+"I'm sorry."
