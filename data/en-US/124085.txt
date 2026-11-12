@@ -1,0 +1,2 @@
+It's as easy as tau over 2.
+For those who don't know tau (T) = 2*pi (3.14) and makes trigonometry "easier". Saying it is T/2 is 2*pi/2 and the two's cancel out leaving you with pi, and thus, "It's as easy as pi" QED.

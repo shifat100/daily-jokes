@@ -1,0 +1,7 @@
+An SQL query walks into a bar ...
+Walks up to two tables and says: 
+
+    "CAN I JOIN YOU?";
+
+----
+^^^Sequel ^^^to ^^^this ^^^joke ^^^coming ^^^soon

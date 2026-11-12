@@ -1,0 +1,8 @@
+CREATE PASSWORD -
+"123Bob".
+
+Password must contain no names, be complex and have over 50 characters.
+
+"GameOfThrones"
+
+Password accepted.
