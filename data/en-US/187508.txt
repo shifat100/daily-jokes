@@ -1,0 +1,16 @@
+The mathematician's interview
+A mathematician is interviewing for a prestigious job. To make sure he has the right morals, the interviewer gives him the following situation: 
+
+"You're late for a meeting, when you come across a burning house, a fire hydrant, and a fire hose lying across the street. What do you do?"
+ 
+The mathematician responds: 
+
+"People's lives are more important than the meeting. I screw the fire hose into the hydrant and put out the fire before coming to the office." 
+
+The interviewer is impressed, but asks him a followup question just to make sure: 
+
+"You're late for a meeting when you pass a fire hose connected to a hydrant, next to a perfectly safe house.  What do you do?" 
+
+The mathematician thinks for a moment, then replies: 
+
+"I unscrew the fire hose, carry it across the street, and set the house on fire. Then I've reduced it to a problem I've already solved."
