@@ -1,0 +1,8 @@
+Jumps
+A man jumps off a building at the 5th storey, hitting the ground and dies.
+
+Another man jumps off a building at the 10th story, hits the ground and dies.
+
+Another man goes to the 50th floor, jumps, but does not die. How?
+
+He only jumped

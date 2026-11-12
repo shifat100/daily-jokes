@@ -1,0 +1,2 @@
+What is Gohan's favorite data type to use when programming?
+ulong
