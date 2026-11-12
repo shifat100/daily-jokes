@@ -1,0 +1,2 @@
+Apparently red hat came out and said that there were no more Linux kernels in development, that they have gone in every direction.
+Apparently there's nothing GNU under the sun.

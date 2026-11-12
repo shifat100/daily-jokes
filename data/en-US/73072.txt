@@ -1,0 +1,4 @@
+What hand do you wipe with?
+Answer: left or right
+
+Response: why not use toilet paper?

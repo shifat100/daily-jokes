@@ -1,0 +1,2 @@
+"All these matrices whose transposes are equal to themselves are dirty, and taking our jobs" said the matrix whose transpose was negative of himself.
+To which his buddy quipped "Man, don't be so anti-symmetric"
