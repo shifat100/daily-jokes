@@ -1,0 +1,42 @@
+PASSWORD PROBLEMS
+WINDOWS:   Please enter your new password. 
+ 
+USER: cabbage 
+  
+ 
+WINDOWS:   Sorry, the password must be more than 8 characters. 
+  
+USER:   boiled cabbage 
+  
+  
+
+WINDOWS:   Sorry, the password must contain 1 numerical character. 
+    
+USER: 1 boiled cabbage 
+  
+ 
+ 
+WINDOWS:   Sorry, the password cannot have blank spaces. 
+  
+USER:  50bloodyboiledcabbages 
+  
+  
+
+WINDOWS:   Sorry, the password must contain at least one uppercase character. 
+   
+USER: 50BLOODYboiledcabbages 
+ 
+ 
+ 
+WINDOWS:   Sorry, the password cannot use more than one uppercase character consecutively. 
+ 
+USER:   50BloodyBoiledCabbagesYouStupidIdiotGiveMeAccessNow! 
+ 
+ 
+ 
+WINDOWS:   Sorry, the password cannot contain punctuation. 
+  
+USER :  IWillHuntYouDown50BloodyBoiledCabbagesYouStupidIdiotGiveMeAccessNow 
+  
+  
+WINDOWS:   Sorry, that password is already in use.

@@ -1,0 +1,2 @@
+Doctor: "I've got good news and bad news."
+Patient: "Gee, Doc, what's the bad news?" Dr. "We're going to have to amputate both your legs." Patient "Shit! What's the good news?!" Dr. "The guy next to you wants to buy your slippers."
