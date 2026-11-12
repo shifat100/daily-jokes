@@ -1,0 +1,14 @@
+Think of a number and don't tell me.
+Now, multiply that by 11. 
+
+
+Then, subtract 7. 
+
+
+Then, add 7124. 
+
+Multiply by 19 and then divide it by 6 and round the number. 
+
+Take the last digit of the answer and subtract 2 from that. 
+
+Post that number here.
