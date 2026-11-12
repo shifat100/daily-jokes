@@ -1,0 +1,4 @@
+Doctor Patient 2
+Doctor:What happened to you ?
+PATIENT:I am going to die in a minute.
+DOCTOR:wait I am coming with in five minutes.
