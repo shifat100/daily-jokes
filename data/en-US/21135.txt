@@ -1,0 +1,4 @@
+I called a dentist..
+I: I would like an appointment.  
+Dentist: Sure, what time would you like to come.  
+I: Two thirty.

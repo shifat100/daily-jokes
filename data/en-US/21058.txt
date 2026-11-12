@@ -1,0 +1,4 @@
+Dentist: "You need a crown."
+Dentist: "You need a crown."
+-
+Patient: "Finally someone who understands me"
