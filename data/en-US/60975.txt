@@ -1,0 +1,4 @@
+Teacher: "Okay class, today we are going to talk about democracy"
+Students: "Why?"
+
+Teacher: "Because I say it"

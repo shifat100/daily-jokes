@@ -1,0 +1,4 @@
+WebMD has integrated Google's Deepmind.
+On startup it performed a self diagnostic test.
+
+Turns out, it's cancer.

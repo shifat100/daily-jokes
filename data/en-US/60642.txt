@@ -1,0 +1,8 @@
+Three engineers were trying to make smarthome devices (from a friend)
+Three engineers and a manager are sitting around some appliances to help make them smarthome compatible.
+
+The first engineer turns his attention to the refrigerator, "We should connect this fridge to the internet and make it tell you when food is going bad, I will need an Intel i7 if we want this to constantly notify you." the manager thought for a while and finally grumbled, "ok, we could fit that into the budget"
+
+The second engineer ponders the washing machine, "We could probably integrate it so it washes, dries and can be controlled by your smartphone, but we would need a Skylake chipset to do so" after considering this and a few grunts, the manager snapped "fine, we could afford that".
+
+The third engineer begins to dream about the new toaster prototype, but before he could speak, the manager barked "we couldn't do burn messages onto toast or tell the wether by the kind of portrait you toast, hell, I don't think we could afford more than a frame for it!" the silence hung in the air and finally, the third engineer solemnly said "that's ok, all we need is a timer and for the toaster to get hot, some AMD cards will do"
