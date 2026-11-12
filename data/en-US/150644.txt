@@ -1,0 +1,8 @@
+Differential operator
+Two functions, f(x) = e^x and f(x) = 1, are taking a walk together, when they suddenly encounter a differential operator.
+
+f(x) = 1 gasps and is scared. “He’s going to turn me into nothing!” She runs off in terror.
+
+f(x) = e^x walks on, relaxed. “Pff! You can differentiate me all you want! The derivative of e^x is e^x and I remain unchanged!”
+
+“Ah,” replies the differential operator, “but I’m d/dy!”
