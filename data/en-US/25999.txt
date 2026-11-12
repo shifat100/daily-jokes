@@ -1,0 +1,4 @@
+How does one sink, that which floats?
+How does one sync, that which floats?
+
+Well, we type case the variable to make sure that both sides of the equation are of type, floats.
