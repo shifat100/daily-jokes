@@ -1,0 +1,12 @@
+Many years ago I was acting as the system administrator.
+Periodically I would receive a call from someone who had not accessed the system recently, forgot their password and locked themselves out trying to logon. I would look up their password and unlock the system for them and they would go on their merry way.
+
+One day I received a call from a young lady who was in just such a predicament. I looked up her password and informed her that it was 'DOME' and, just to be playful, told her the price for me being gracious enough to unlock her sign-on was an explanation of the meaning of her password.
+
+She became very embarrassed over the phone and pleaded that she could never reveal her secret. I of course replied that I would not give her system access until she did.
+
+After negotiating for several minutes she finally acquiesced but made me promise to never reveal her password meaning to any of her colleagues to which I gladly agreed.
+
+"Well, what does it mean?", I asked.
+
+She hesitated and then replied, "It's two words."
