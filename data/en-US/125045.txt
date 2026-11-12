@@ -1,0 +1,6 @@
+What is Force equal to?
+Double penetration, with respect to time. 
+
+(F=dp/dt)
+
+I'll see myself out
