@@ -1,0 +1,10 @@
+Two men on a train.
+One of them occasionaly says a number like 256, 128, 280, 660 and this goes on for a while.
+
+The other one asks him: "Hey what's the deal with with all those numbers?"
+
+"Well, to pass the time, I just count the animals in the herd as the train passes one."
+
+"Wow, cool! How can you do it so fast?"
+
+"Simple, I count the legs and divide by four."

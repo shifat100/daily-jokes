@@ -1,0 +1,2 @@
+I'm making a graph on my previous exs
+It has an Ex axis and a Why axis.

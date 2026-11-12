@@ -1,0 +1,2 @@
+If you count on your fingers using binary you will probably want to try to avoid the numbers 4, 128, and definitely 132.
+You won't find the explanation to this joke here, you are going to have to work it out on your own. Just maybe don't do it in public.

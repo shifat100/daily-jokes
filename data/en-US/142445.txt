@@ -1,0 +1,28 @@
+Data compression
+A student of information theory, on his first day at college, entered a strange and bizarre world. The only sounds were the occasional calling out of a number by one of the professors, followed by laughter. One professor would say '52', there would be a short pause then peals of laughter. Someone else says '713', same thing, everyone falls down laughing.
+
+"What's going on here?" he asked his tutor.
+
+"We're telling jokes," said his tutor.
+
+"Telling jokes?"
+
+"Yes, you see, we've all worked here so long we know each other's jokes. There are a thousand of them. So, being information theorists we applied data compression. We just assigned them all numbers, 0 through 999. It saves a lot of time and effort. Would you like to try? Just say any number 0 to 999..."
+
+He wasn't fully convinced. But he tried. Very quietly he whispered "477".
+
+Hardly a murmur.
+
+He looked at his tutor. "What's wrong?" he said. "Try again," says the tutor.
+
+So he does. "318" - same again, not a thing, hardly a murmur.
+
+"Something's wrong," he says.
+
+"Well," says the tutor, "it's not so much the joke as the way you tell it!"
+
+This student eventually succeeded by accident in the most dramatic and unexpected way. He called out a number outside the range 0 to 999. "Minus 105," he said.
+
+At first there was stunned amazement, then first one professor laughed, then another then another, till they were all rolling about holding their sides.
+
+None of them had heard that one before.
