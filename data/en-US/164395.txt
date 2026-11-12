@@ -1,0 +1,4 @@
+[Discussion] I want all of the internet's jokes.
+Seriously. I want all the jokes on the internet. I am developing a program that will utilize all the jokes that I can find. I am looking for things like this: http://www.cis.upenn.edu/~udani/humor/stevenwright.html
+
+Thanks!
