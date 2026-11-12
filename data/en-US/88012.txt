@@ -1,0 +1,2 @@
+If you ever need help learning C++, I can give you some pointers.
+And you can keep me as a reference.
