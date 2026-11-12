@@ -1,0 +1,2 @@
+[OC] How does Haskell like his food?
+Curried.
