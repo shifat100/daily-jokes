@@ -1,0 +1,6 @@
+Smarter Generation
+"The computer in my high school classroom recently started acting up. After watching me struggle with it, one of my students took over. ""Your hard drive crashed,"" he said.
+I called the computer services office and explained, ""My computer is down. The hard drive crashed.""
+""We can’t just send people down on your say-so. How do you know that’s the problem?""
+""A student told me,"" I answered.
+""We’ll send someone over right away."""

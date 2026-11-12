@@ -1,0 +1,2 @@
+Thoughts from a Computer Programmer
+I have written a good number of applications in my time. They looked really good on the outside from a user perspective, but were really completely dysfunctional when I tried to get them to do what I wanted. Come to think of it, that's also true for 90% of my ex-girlfriends.

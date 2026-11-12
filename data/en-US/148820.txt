@@ -1,0 +1,2 @@
+Swiss Cheese Paradox
+Swiss cheese has lots of holes. The more holes you have,the less cheese you have. The more cheese you have,the more holes you have. Thus,the more cheese you have,the less cheese you have.
