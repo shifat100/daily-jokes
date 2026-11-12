@@ -1,0 +1,6 @@
+Teacher: "What is the most common phrase used in school?"
+Teacher: "What is the most common phrase used in school?"
+
+Pupil: "I don't know..."
+
+Teacher: "Correct!"

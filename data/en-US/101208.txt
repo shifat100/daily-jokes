@@ -1,0 +1,8 @@
+Teacher: "When was Rome built?"
+Teacher: "When was Rome built?"
+
+Pupil: "At night."
+
+Teacher: "Why did you say that?"
+
+Pupil: "Because my dad always says that Rome wasn't built in a day!"

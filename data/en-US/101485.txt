@@ -1,0 +1,6 @@
+What is the difference between an engineer, physicist, and a mathematician?
+An engineer is someone who comes up with equations that model reality.
+
+A physicist is someone who comes up with a reality that models their equations.
+
+A mathematician doesn't care.
