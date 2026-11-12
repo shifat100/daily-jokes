@@ -1,0 +1,3 @@
+Teacher:"The law of conservation of mass states that
+Teacher: The law of conservation of mass states that matter cannot be created or destroyed.
+Student: Try telling that to Hiroshima and Nagasaki.
