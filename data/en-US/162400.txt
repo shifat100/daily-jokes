@@ -1,0 +1,2 @@
+Cop to driver: "How high are you?"
+Driver to cop: "No, no, no. You're supposed to say 'Hi, how are you?'"

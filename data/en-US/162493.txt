@@ -1,0 +1,2 @@
+Fred has 3 red balls and 5 blue balls in a bag. How many balls does Fred have?
+10.

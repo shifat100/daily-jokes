@@ -1,0 +1,2 @@
+Two strings walk into a bar
+The first one says, "I'll have a rum and cokeazx36@#&-¶³¾¤§¿". The second one says, "Excuse my friend, he's not null terminated".
