@@ -1,0 +1,2 @@
+Why is glue white?
+If it were black it would run. It just wouldn't work.

@@ -1,0 +1,3 @@
+Why do wind turbines only have 3 blades?
+As a blade moves, it creates a wake, like a boats wake, that disturbs the air around it. That wake can interfere with the efficiency of the next blade as it passes. So, it's a tradeoff situation for efficiency that factors in number of blades, blade speed, wind speed, and RPM to maximize the efficiency of energy conversion. This is also why how close the towers are to each other and how they are oriented overall on the landscape. Watch a sailing race and see how they try to steal each other's wind.
+[Source of amazing joke](https://www.reddit.com/r/askscience/comments/3ul61p/why_do_wind_turbines_only_have_3_blades/)
