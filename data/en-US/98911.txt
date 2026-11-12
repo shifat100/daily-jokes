@@ -1,0 +1,4 @@
+A C++ error walks into a bar...
+A C++ error walks into a bar. The bartender looks up at it and says "I'm sorry, but we don't serve bugs here". The error replies "But I'm an EXCEPTION!"
+
+Haaaaaaaaaa!
