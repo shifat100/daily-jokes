@@ -1,0 +1,2 @@
+Snake walks into a bar.
+Game over
