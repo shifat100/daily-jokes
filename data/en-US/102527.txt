@@ -1,0 +1,16 @@
+Why 'business' people continue to earn more than people who actually work :
+Time is money (time=money), and knowledge is power( knowledge=power)
+
+we know that power is work done/time 
+
+solving, 
+
+power=work done/money
+
+but knowledge=power 
+
+hence 
+
+we have money=work done/knowledge
+
+which means, in the limiting case, as knowledge ->0 money -> Infinity, regardless of work done
