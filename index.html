@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Daily Jokes — Multi-Language</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --primary: #4f46e5;
+    --primary-light: #6366f1;
+    --primary-dark: #3730a3;
+    --bg: #f8fafc;
+    --card: #fff;
+    --text: #0f172a;
+    --muted: #64748b;
+    --border: #e2e8f0;
+    --hover: #eef2ff;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Inter', sans-serif;
+    background: var(--bg); color: var(--text);
+    min-height: 100vh; line-height: 1.65;
+  }
+  header {
+    background: linear-gradient(135deg, var(--primary-dark), var(--primary));
+    color: #fff; padding: 1.75rem 1rem 1.25rem;
+    text-align: center; box-shadow: 0 4px 20px rgba(79,70,229,.25);
+  }
+  header h1 { font-size: 1.85rem; font-weight: 700; margin-bottom: .25rem; letter-spacing: -.5px; }
+  header p { font-size: .92rem; opacity: .85; }
+
+  .lang-tabs-wrap {
+    background: var(--card); border-bottom: 1px solid var(--border);
+    padding: .75rem 1rem; overflow-x: auto;
+    position: sticky; top: 0; z-index: 10;
+    box-shadow: 0 1px 3px rgba(0,0,0,.04);
+  }
+  .lang-tabs {
+    display: flex; gap: .5rem; max-width: 1100px; margin: 0 auto;
+    justify-content: center; min-width: max-content;
+  }
+  .lang-tab {
+    display: inline-flex; align-items: center; gap: .4rem;
+    padding: .5rem 1rem; border: 1px solid var(--border);
+    background: var(--card); border-radius: 999px;
+    font: inherit; font-size: .875rem; font-weight: 500;
+    cursor: pointer; transition: all .2s; white-space: nowrap;
+  }
+  .lang-tab:hover { border-color: var(--primary-light); background: var(--hover); }
+  .lang-tab.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+  .lang-tab .count {
+    background: rgba(0,0,0,.08); padding: 0 .4rem; border-radius: 999px;
+    font-size: .72rem; font-weight: 600;
+  }
+  .lang-tab.active .count { background: rgba(255,255,255,.22); }
+
+  .container {
+    max-width: 1100px; margin: 0 auto; padding: 1.5rem 1rem;
+    display: grid; grid-template-columns: 280px 1fr; gap: 1.25rem;
+  }
+  @media (max-width: 768px) { .container { grid-template-columns: 1fr; } }
+
+  .sidebar {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 1rem; height: fit-content;
+    max-height: 75vh; overflow-y: auto; position: sticky; top: 80px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.04);
+  }
+  @media (max-width: 768px) { .sidebar { position: static; max-height: none; } }
+  .sidebar h2 {
+    font-size: .75rem; text-transform: uppercase; letter-spacing: .05em;
+    color: var(--muted); margin-bottom: .75rem; font-weight: 600;
+  }
+  .search-box {
+    width: 100%; padding: .55rem .75rem; border: 1px solid var(--border);
+    border-radius: 8px; font: inherit; font-size: .875rem;
+    margin-bottom: .75rem; outline: none;
+  }
+  .search-box:focus { border-color: var(--primary-light); box-shadow: 0 0 0 3px rgba(99,102,241,.1); }
+  .file-list { list-style: none; }
+  .file-list li {
+    padding: .6rem .75rem; border-radius: 8px; cursor: pointer;
+    margin-bottom: .25rem; font-size: .875rem;
+    display: flex; align-items: center; gap: .5rem;
+    border: 1px solid transparent; transition: all .15s;
+  }
+  .file-list li:hover { background: var(--hover); border-color: var(--border); }
+  .file-list li.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+  .content-area {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 2rem; min-height: 400px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.04);
+  }
+  .content-header {
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: .5rem; margin-bottom: 1.5rem;
+    padding-bottom: 1rem; border-bottom: 1px solid var(--border);
+  }
+  .content-header h2 { font-size: 1.25rem; font-weight: 600; }
+  .badge {
+    background: #fef3c7; color: #92400e; padding: .25rem .75rem;
+    border-radius: 999px; font-size: .75rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: .03em;
+  }
+  .content-body {
+    white-space: pre-wrap; word-break: break-word;
+    font-size: 1.05rem; line-height: 1.85; padding: .5rem 0;
+  }
+  .empty-state { text-align: center; color: var(--muted); padding: 3rem 1rem; }
+  .empty-state .big-icon { font-size: 3.5rem; margin-bottom: 1rem; opacity: .6; }
+  .empty-state p { font-size: .95rem; margin-bottom: .25rem; }
+  .loading { text-align: center; padding: 3rem; color: var(--muted); }
+  .spinner {
+    width: 36px; height: 36px; border: 3px solid var(--border);
+    border-top-color: var(--primary); border-radius: 50%;
+    animation: spin .8s linear infinite; margin: 0 auto 1rem;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  footer {
+    text-align: center; padding: 1.5rem; color: var(--muted);
+    font-size: .8rem; border-top: 1px solid var(--border); margin-top: 2rem;
+  }
+  .sidebar::-webkit-scrollbar { width: 6px; }
+  .sidebar::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📖 Daily Jokes</h1>
+  <p>Multi-language collection — updated automatically</p>
+</header>
+
+<div class="lang-tabs-wrap">
+  <div class="lang-tabs" id="langTabs">
+    <span style="color:var(--muted);font-size:.875rem">Loading languages...</span>
+  </div>
+</div>
+
+<div class="container">
+  <aside class="sidebar">
+    <h2>Available Files</h2>
+    <input type="text" class="search-box" id="searchBox" placeholder="Search..." />
+    <ul class="file-list" id="fileList">
+      <li style="justify-content:center;color:var(--muted)">Loading...</li>
+    </ul>
+  </aside>
+
+  <main class="content-area">
+    <div id="contentContainer">
+      <div class="empty-state">
+        <div class="big-icon">📚</div>
+        <p>Select a file from the list to read it</p>
+      </div>
+    </div>
+  </main>
+</div>
+
+<footer>
+  &copy; <span id="year"></span> Daily Jokes &bull; Auto-indexed via GitHub Actions
+</footer>
+
+<script>
+  // ============================================================
+  // CONFIG — set this once. Leave empty for local testing.
+  // ============================================================
+  const GITHUB_REPO = ""; // e.g. "your-username/your-repo"
+  const BRANCH = "main";
+  const DATA_ROOT = "data";
+  // ============================================================
+
+  const langTabsEl = document.getElementById("langTabs");
+  const fileListEl = document.getElementById("fileList");
+  const contentContainer = document.getElementById("contentContainer");
+  const searchBox = document.getElementById("searchBox");
+
+  let currentLang = null;
+  let allFiles = [];
+  let cache = {};       // { lang: [ {name, url} ] }
+  let activeFile = null;
+
+  document.getElementById("year").textContent = new Date().getFullYear();
+
+  // --- Flag & display-name lookup (unknown languages fall back gracefully) ---
+  const FLAGS = {
+    english: "🇬🇧", bengali: "🇧🇩", hindi: "🇮🇳", arabic: "🇸🇦",
+    spanish: "🇪🇸", french: "🇫🇷", german: "🇩🇪", japanese: "🇯🇵",
+    chinese: "🇨🇳", korean: "🇰🇷", russian: "🇷🇺", italian: "🇮🇹",
+    portuguese: "🇵🇹", dutch: "🇳🇱", turkish: "🇹🇷", urdu: "🇵🇰",
+    tamil: "🇮🇳", telugu: "🇮🇳", punjabi: "🇮🇳", malay: "🇲🇾",
+    indonesian: "🇮🇩", thai: "🇹🇭", vietnamese: "🇻🇳", persian: "🇮🇷",
+  };
+
+  function flagFor(code) { return FLAGS[code.toLowerCase()] || "🌐"; }
+  function labelFor(code) {
+    return code.charAt(0).toUpperCase() + code.slice(1);
+  }
+
+  // ---------- Load languages (automatic discovery) ----------
+  async function loadLanguages() {
+    try {
+      let langs = [];
+
+      if (GITHUB_REPO) {
+        // GitHub API mode — read folder names directly
+        const url = `https://api.github.com/repos/${GITHUB_REPO}/contents/${DATA_ROOT}?ref=${BRANCH}`;
+        const res = await fetch(url);
+        if (!res.ok) throw new Error(`GitHub API ${res.status}`);
+        const json = await res.json();
+        langs = json
+          .filter(i => i.type === "dir")
+          .map(i => ({ code: i.name, count: null }));
+      } else {
+        // Local mode — read data/languages.json
+        const res = await fetch(`${DATA_ROOT}/languages.json`, { cache: "no-store" });
+        if (!res.ok) throw new Error(`languages.json not found`);
+        const json = await res.json();
+        langs = json.languages || [];
+      }
+
+      if (!langs.length) {
+        langTabsEl.innerHTML = `<span style="color:var(--muted);font-size:.875rem">
+          No language folders in <code>data/</code> yet</span>`;
+        return;
+      }
+
+      langs.sort((a, b) => a.code.localeCompare(b.code));
+      renderLangTabs(langs);
+      switchLanguage(langs[0].code);
+    } catch (err) {
+      langTabsEl.innerHTML = `<span style="color:#dc2626;font-size:.875rem">
+        ⚠️ ${err.message}</span>`;
+    }
+  }
+
+  function renderLangTabs(langs) {
+    langTabsEl.innerHTML = langs.map(l => `
+      <button class="lang-tab" data-lang="${l.code}">
+        <span>${flagFor(l.code)}</span>
+        <span>${labelFor(l.code)}</span>
+        ${l.count != null ? `<span class="count">${l.count}</span>` : ""}
+      </button>
+    `).join("");
+
+    langTabsEl.querySelectorAll(".lang-tab").forEach(btn => {
+      btn.addEventListener("click", () => switchLanguage(btn.dataset.lang));
+    });
+  }
+
+  // ---------- Switch language ----------
+  async function switchLanguage(lang) {
+    currentLang = lang;
+    activeFile = null;
+    searchBox.value = "";
+    contentContainer.innerHTML = emptyStateHtml();
+
+    langTabsEl.querySelectorAll(".lang-tab").forEach(b =>
+      b.classList.toggle("active", b.dataset.lang === lang)
+    );
+
+    if (cache[lang]) {
+      allFiles = cache[lang];
+      renderFileList(allFiles);
+      return;
+    }
+
+    fileListEl.innerHTML = `<li style="justify-content:center;color:var(--muted)">Loading...</li>`;
+    await loadFilesFor(lang);
+  }
+
+  // ---------- Load files for a language ----------
+  async function loadFilesFor(lang) {
+    try {
+      let files = [];
+
+      if (GITHUB_REPO) {
+        const url = `https://api.github.com/repos/${GITHUB_REPO}/contents/${DATA_ROOT}/${lang}?ref=${BRANCH}`;
+        const res = await fetch(url);
+        if (res.ok) {
+          const json = await res.json();
+          files = json
+            .filter(i => i.type === "file" && i.name.toLowerCase().endsWith(".txt"))
+            .map(i => ({ name: i.name, url: i.download_url }));
+        }
+      } else {
+        const res = await fetch(`${DATA_ROOT}/${lang}/manifest.json`, { cache: "no-store" });
+        if (res.ok) {
+          const m = await res.json();
+          files = (m.files || []).map(f => ({
+            name: f,
+            url: `${DATA_ROOT}/${lang}/${f}`,
+          }));
+        }
+      }
+
+      files.sort((a, b) => b.name.localeCompare(a.name));
+      cache[lang] = files;
+
+      if (lang === currentLang) {
+        allFiles = files;
+        renderFileList(allFiles);
+      }
+    } catch (err) {
+      if (lang === currentLang) {
+        fileListEl.innerHTML = `<li style="color:#dc2626;padding:.5rem">
+          ⚠️ ${err.message}</li>`;
+      }
+    }
+  }
+
+  // ---------- Render file list ----------
+  function renderFileList(files) {
+    if (!files.length) {
+      fileListEl.innerHTML = `<li style="color:var(--muted);padding:.5rem">
+        No .txt files in this language yet.</li>`;
+      return;
+    }
+    fileListEl.innerHTML = files.map(f => {
+      const raw = f.name.replace(/\.txt$/i, "");
+      return `<li data-name="${f.name}" data-url="${f.url}"
+                  class="${activeFile === f.name ? "active" : ""}">
+                <span>📄</span><span>${prettyName(raw)}</span>
+              </li>`;
+    }).join("");
+
+    fileListEl.querySelectorAll("li[data-name]").forEach(li => {
+      li.addEventListener("click", () =>
+        openFile(li.dataset.name, li.dataset.url, li)
+      );
+    });
+  }
+
+  // Handles YYYY-MM-DD, plain numbers, or any custom filename
+  function prettyName(raw) {
+    if (/^\d+$/.test(raw)) return "Joke #" + raw;
+    const parts = raw.split("-");
+    if (parts.length === 3) {
+      const [y, m, d] = parts;
+      if (!isNaN(y) && !isNaN(m) && !isNaN(d) && +m >= 1 && +m <= 12) {
+        const M = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+        return `${M[+m - 1]} ${+d}, ${y}`;
+      }
+    }
+    return raw;
+  }
+
+  // ---------- Open a file ----------
+  async function openFile(name, url, liEl) {
+    fileListEl.querySelectorAll("li").forEach(l => l.classList.remove("active"));
+    if (liEl) liEl.classList.add("active");
+    activeFile = name;
+
+    contentContainer.innerHTML = `<div class="loading"><div class="spinner"></div>Loading...</div>`;
+
+    try {
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const text = await res.text();
+
+      contentContainer.innerHTML = `
+        <div class="content-header">
+          <h2>${escapeHtml(prettyName(name.replace(/\.txt$/i, "")))}</h2>
+          <span class="badge">${currentLang}</span>
+        </div>
+        <div class="content-body">${escapeHtml(text) || "(empty file)"}</div>`;
+    } catch (err) {
+      contentContainer.innerHTML = `
+        <div class="empty-state">
+          <div class="big-icon">⚠️</div>
+          <p>Could not load: ${err.message}</p>
+          <p style="font-size:.8rem;margin-top:.5rem">${url}</p>
+        </div>`;
+    }
+  }
+
+  function escapeHtml(s) {
+    return s.replace(/[&<>"']/g, c => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    })[c]);
+  }
+
+  function emptyStateHtml() {
+    return `<div class="empty-state">
+      <div class="big-icon">📚</div>
+      <p>Select a file from the list to read it</p>
+    </div>`;
+  }
+
+  // ---------- Search ----------
+  searchBox.addEventListener("input", e => {
+    const q = e.target.value.trim().toLowerCase();
+    renderFileList(allFiles.filter(f => f.name.toLowerCase().includes(q)));
+  });
+
+  // ---------- Go ----------
+  loadLanguages();
+</script>
+
+</body>
+</html>
