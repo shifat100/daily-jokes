@@ -1,0 +1,4 @@
+A guy wanted to calculate volume of a red rubber ball...
+There was a guy who wanted to know how to calculate the volume of a red rubber ball. He first took it to a mathematician, who measured its radius and used the formula V=4/3*pi*r^3 to find it's volume.
+Next, our man went to a physicist, who immersed the ball in a bowl full of water. He then measured the amount of water which overflowed and calculated the volume of the ball.
+Still not satisfied, our man takes the ball to a mechanical engineer. The engineer says, "Wait a moment, I got this." He gets up and skims through the books laid out on his shelf. "Ah, this should do it.", he says and pulls out a big fat hard bound book titled - "The Mechanical Engineer's Handbook to Red Rubber Balls"
