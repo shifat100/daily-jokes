@@ -1,0 +1,92 @@
+Bill Gates Quotes
+Perhaps the Most Truthful: on Microsoft marketing:
+
+"There won't be anything we won't say to people to try and convince them that our way is the way to go."
+
+
+
+Not on his mind while developing Win9X..circa 1981...
+
+"640K ought to be enough for anybody."
+
+
+
+On the solid code base of Win9X... thanks WPW!
+
+"If you can't make it good, at least make it look good." 
+
+
+
+from "OS/2 Programmer's Guide" (forward by Bill Gates):
+
+"I believe OS/2 is destined to be the most important operating system, and possibly program, of all time. As the successor to DOS, which has over 10,000,000 systems in use, it creates incredible opportunities for everyone involved with PCs."
+
+
+
+Bill Gates, Free Market and the LA Times Thanks GC!
+
+"There are people who don't like capitalism, and people who don't like PCs. But there's no-one who likes the PC who doesn't like Microsoft" 
+
+
+
+From the back of an old Digitalk Smalltalk/V PM manual, 1990:
+
+"This is the right way to develop applications for OS/2 PM. OS/2 PM is a tremendously rich environment, which makes it inherently complex. Smalltalk/V PM removes that complexity and lets you concentrate on writing great programs. Smalltalk/V PM is the kind of tool that will make OS/2 the successor to MS/DOS".
+
+
+
+from "OS/2 Notebook", Microsoft Press, (c) 1990 - an excerpt from an interview with Bill Gates and Jim Cannavino, p. 614:
+
+Developer: Does the announcement [of the OS/2 joint development agreement between IBM and Microsoft] mean that Microsoft is curtailing any plans for future development of Windows?
+
+Gates: Microsoft has not changed any of its plans for Windows. It is obvious that we will not include things like threads and preemptive multitasking in Windows. By the time we added that, you would have OS/2.
+
+
+
+There's a reason they threw it away...
+
+from "Programmers at Work" by Microsoft Press, interview with Bill (found on comp.os.os2.advocacy),
+
+Interviewer: Is studying computer science the best way to prepare to be a programmer?
+
+
+
+Gates: No, the best way to prepare is to write programs, and to study great programs that other people have written. In my case, I went to the garbage cans at the Computer Science Center and I fished out listings of their operating system.
+
+
+
+Only the finest Microsoft marketing! (submitted by BarryB):
+
+"If you don't know what you need Windows NT for, you don't need it." 
+
+
+
+On the Box of Windows 2.11 for 286 (submitted by GLDM)
+
+"New interface closely resembles Presentation Manager, preparing you for the wonders of OS/2!"
+
+
+
+On code stability, from Focus Magazine (submitted by Benedikt Heinen Microsoft programs are generally bug-free. If you visit the Microsoft hotline, you'll literally have to wait weeks if not months until someone calls in with a bug in one of our programs. 99.99% of calls turn out to 
+
+be user mistakes.
+
+[...] 
+
+I know not a single less irrelevant reason for an update than bugfixes. The reasons for updates are to present more new features.
+
+
+
+Unconfirmed quotes:
+
+
+
+Microsoft's GUI innovations... 1983 (thanks E.R.)
+
+"Imagine the disincentive to software development if after months of work another company could come along and copy your work and market it under its own name...without legal restraints to such copying, companies like Apple could not afford to advance the state of the art."
+
+
+
+Even more 1984 predictions (thanks Scott Renyen)
+
+"The next generation of interesting software will be made on a Macintosh, not an IBM PC."
