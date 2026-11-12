@@ -1,0 +1,4 @@
+Library Inventory
+A librarian in a small book collection is just finishing up the process of cataloging his physical inventory and is combing through the stacks to double-check his work. Suddenly, he sees a bit of crinkled cover just peeking out behind a shelf in the very back of the building. Confused, he steps quietly over, reaches down, and gently wriggles the attached book free. 
+
+In his hands is an old, dusty copy of the The Hobbit, which he knows he hasn't included in his count. He's never even seen this book before! He quickly shuffles to the back room and sits down at his computer. Tapping away, he records the title, print date and location, and inventory code number. Unfortunately, right as he was entering the author name, about to finally finish long months of recording, he threw an unexpected Tolkien error.
