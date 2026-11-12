@@ -1,0 +1,2 @@
+What Counting system does Valve use?
+Trinary
