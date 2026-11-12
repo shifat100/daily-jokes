@@ -1,0 +1,6 @@
+A philosopher, a linguist, and a physicist were asked, "Which of your three fields is the most useful?"
+The philosopher said, "What do we mean when we use the word 'useful'?"
+
+The linguist said, "What do *you* mean when you use the word 'useful'?"
+
+The physicist laughed and said, "The answer can be inferred by the uselessness of the other answers."
