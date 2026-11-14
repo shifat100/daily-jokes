@@ -1,10 +1,10 @@
 name: Auto Index + SEO Build
 
 on:
-  push:
-    paths:
-      - 'data/**/*.txt'
-      - 'scripts/**'
+ # push:
+  #  paths:
+  #    - 'data/**/*.txt'
+  #    - 'scripts/**'
   schedule:
     - cron: '0 18 * * *'    # প্রতিদিন বাংলাদেশ সময় রাত ১২টায় (UTC 18:00)
   workflow_dispatch:        # গিটহাব থেকে ম্যানুয়ালি রান করার বাটন
