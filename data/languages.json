@@ -2,13 +2,13 @@
   "languages": [
     {
       "code": "bn-BD",
-      "count": 6
+      "count": 20
     },
     {
       "code": "en-US",
       "count": 208345
     }
   ],
-  "total_jokes": 208351,
-  "updated": "2026-11-12T14:48:57.985116"
+  "total_jokes": 208365,
+  "updated": "2026-11-14T14:41:23.875180"
 }
